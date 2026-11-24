@@ -1,0 +1,801 @@
+﻿crm_id,lead_name,tax_id,contact_person,shipping_address,mobile_phone
+CRM_0001,Cty Tnhh Hải Sản Hồng Nhất,0319797164,Nguyễn Ngọc Hồng Ngân,"153 Nguyễn Thị Thập, P. Tân Mỹ, Q. 7, TP.HCM",0798.696.280
+CRM_0002,Hợp tác xã DỪA PHÚC MINH,,Anh Thanh,"Thửa Đất Số 206, Tờ Bản Đồ Số 8",+84913863534
+CRM_0003,Cty Tnhh Công Ngghệ Veltrix,0901258861,Lê Văn Thìn,"Số 42, San Hô 4",0915 911 698
+CRM_0004,Cty THHƯƠNG MẠI VÀ DỊCH VỤ MINH ĐẠT,0901258893,Nguyễn Văn Ánh,"Số Nhà 3361, Đường Nguyễn Văn Linh, Tổ Dân Phố Dương Thịnh, P. Thượng Hồng, Thị X. Mỹ Hào, Hưng Yên",0903 728 309
+CRM_0005,Cty CP CƠ ĐIỆN PHÒNG SẠCH ANH KHANG,0111705848,Nguyễn Thùy Văn,"Tầng 4 Tòa Nhà Evd, Số 431 Tam Trinh",0886.469.953
+CRM_0006,Tnhh Thương Mại Và Xuất Nhập Khẩu Trần Ngọc,,Chị Ngọc,"51/15 Giải Phóng, P. Tân Sơn Nhất",0794.661.771
+CRM_0007,Công Ty Tnhh Thương Mại Dịch Vụ Ngọc Hân Anh,,Nguyễn Tuấn Anh,"72/95 Huỳnh Văn Nghệ, P. Tân Sơn, Q. Tân Bình, TP.HCM",+84916012842
+CRM_0008,Cty Tnhh Nhà Việt Tín,,Anh Tuyến,"Tầng Trệt, Số 85-86-87 Bến Vân Đồn",0908 961 358
+CRM_0009,"Cty SẢN XUẤT, THƯƠNG MẠI VÀ DỊCH VỤ NGUYÊN AN THỊNH PHÁT",,Chị Lê,"Số 212 Nguyễn Văn Linh, P. Sơn Nam, TP Hưng Yên, Hưng Yên",0916 412 382
+CRM_0010,TRẠM Y TẾẾ THƯỢNG HÀ,,Bàn Thị Vân,"Thôn 5 Mai Đào, X. Thượng Hà, H. Bảo Yên, Lào Cai",0915.248.488
+CRM_0011,Công ty TNHH THƯƠNG MẠI VÀ DỊCH VỤ PHƯƠNG NGA 68,5100521816,Anh Nga,"Số Nhà 02 Ngõ 248 Đường Nguyễn Văn Linh, Tổ 4, P. Hà Giang 2, Tp Hà Giang, Hà Giang",0977 697 555
+CRM_0012,CÔNG TY CP CÔNG NGHỆ GIÁO DỤC FSCHOLARS,,Mai Quí Vương,"Số 89, Tổ Dân Phố Tiên Sa, P. An Hải, Q. An Dương, Hải Phòng",0794.614.421
+CRM_0013,Phần Đầu Tư Phát Triển Đô Thị Aha Việt Nam,0111705446,Vũ Quang Anh,"Tầng 3, Tòa Nhà Vinafoam - Số 1 Ngõ 6 Đường Vũ Đức Thận, P. Việt Hưng, Q. Long Biên, Hà Nội",0988114211
+CRM_0014,Logistics International (Vietnam),,Anh Wenxue,"Tầng 7, Tòa Nhà Peakview Tower, Số 36 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa, Hà Nội",0973 615 130
+CRM_0015,Công Ty Tnhh Abz Tech,0901258847,Chị Lê,"Thôn Trung Kiên, X. Lạc Đạo",+84889897870
+CRM_0016,Ctcp Đầu Tư Xây Dựng Và Thương Mại Bố Hạ,,Nguyễn Tiến Cường,"Thôn Hoàng Hoa Thám, X. Yên Thế, P. Bố Hạ, Bắc Giang",0882.840.384
+CRM_0017,Tnhh Sản Xuất Và Thương Mại Nova Tech,0801511535,Anh Khôi,"Thửa Đất Số 1410, Tờ Bản Đồ Số 6, X. Trường Tân, H. Gia Lộc, Hải Dương",+84904774233
+CRM_0018,Văn Phòng Đại Diện Công Ty Tnhh Thương Mại Dịch Vụ Truyền Thông Du Lịch Htc Thanh Xuân Investment Jv,0316217834-003,Phạm Văn Phong,"Số 41 Đường T19 Thuộc Dự Án Khu Dân Cư Và Công Viên Phước Th, P. Long Bình",0796.390.604
+CRM_0019,Long.Ql (Ntnn),0319800586,Chị Kiên,"Số 62 Đường D6A, P. Phước Long, TP Thủ Đức, TP.HCM",+84883744213
+CRM_0020,TRẠM Y TẾ XÃ BẢO HÀ,,Hoàng Thị Duyến,"Thôn Liên Hà 3, X. Nghĩa Đô, H. Bảo Yên, Lào Cai",0906.219.237
+CRM_0021,TRẠM Y TẾ BẢO YÊN,,Phạm Thế Hưng,"Thôn 4B, X. Bảo Yên",0796.962.207
+CRM_0022,Công ty TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP LÂM VY,,Lê Kim Tú,"117 Nguyễn Tri Phương, P. Thanh Khê, Q. Thanh Khê, Đà Nẵng",0979.199.029
+CRM_0023,Cty BAMIKO VIỆT NAM,,Vũ Thị Tuyết Mai,"Thôn Từ Hồ, X. Việt Yên, H. Yên Mỹ, Hưng Yên",0901113997
+CRM_0024,Công ty TNHH VT HOÀNG DƯƠNG,,Anh Thức,"Số Nhà 020 Đường Nhạc Sơn, P. Lào Cai, TP Lào Cai, Lào Cai",0796272930
+CRM_0025,Tnhh Vận Tải Và Du Lịch Đức Vinh,0111705460,Nguyễn Thị Ánh Ngọc,"Lô 16M2 Kđt Yên Hoà, P. Yên Hòa, Q. Cầu Giấy, Hà Nội",0795 288 177
+CRM_0026,Công ty CP BẤT ĐỘNG SẢN TRƯỜNG THÀNH LAND,0111705453,Nguyễn Thành Trung,"Số 200, Tdp Số 4, X. Thanh Trì, H. Thanh Trì, Hà Nội",0985.810.347
+CRM_0027,Cty TNHH 1TV LÊ GIAA THÀNH CÔNG,0111705439,Anh Quyên,"Biệt Thự 11, Khu Chung Cư Tràng An Complex, Số 1 Phùng Chí, P. Nghĩa Đô, Q. Cầu Giấy, Hà Nội",0971440623
+CRM_0028,Công ty TNHH CÔNG NGHỆ HÙNG VƯƠNG XANH,0111705492,Chị Hùng,"Tầng 14 Toà Nhà Việt Á, Số 9 Phố Duy Tân, P. Cầu Giấy, Q. Cầu Giấy, Hà Nội",0977 863 667
+CRM_0029,HÀ NỘI - CÔNG TY TNHH LV LOGISTICS VIỆT NAM,,Phan Hải Đăng,"Tầng 11, Tháp B, Toà Nhà Epic Tower, Ô Đất D14, Kđt Mới Cầu, P. Cầu Giấy, Q. Cầu Giấy, Hà Nội",0918 686 139
+CRM_0030,Cty Avita Holding,0111705407,Chị Hùng,"Tầng 8, Tòa Nhà Sannam",0799.422.075
+CRM_0031,Cty TRƯỜNG ĐÀO TẠO KINH DOANH VÀ ĐẦU TƯ THỰC TẾ NIK,0111705502,Công Ty Tnhh Trường Đào Tạo Ki,"Tầng 12, Tòa Diamond Flower, Số 48 Đường Lê Văn Lương, P. Yên Hòa, Q. Cầu Giấy, Hà Nội",+84986941826
+CRM_0032,CTCP TRUYỀN THÔNG NEXTVIEW,1801844529,Anh My,"Số 20-22, Đường B21, Kdc 91B, P. Tân An, Q. Ninh Kiều, Cần Thơ",0794857726
+CRM_0033,Công ty CP THIẾT KẾ LẮP ĐẶT VÀ CUNG CẤP TRRANG THIẾT BỊ PCCC TRƯỜNG PHÁT,0111706224,Hoàng Thị Lý,"No.01 - Lk42, Khu Dịch Vụ Cây Quýt, P. Hà Đông, Q. Hà Đông, Hà Nội",0989.549.583
+CRM_0034,VĂN PHÒNG ĐẠI DIỆN CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN ĐÀ THÀNH TẠI TỈNH ĐẮK LẮK,0401824766-004,Đinh Văn Cường,"11 Nguyễn Huệ, P. Tuy Hòa, Tp Tuy Hoà, Phú Yên",0981475812
+CRM_0035,Cty TNHH ĐẦU TƯ VÀ PHÁT TRIỂN NOXH IHOME,,Anh Giang,"Số Nhà 19, Ngõ 4 Đường Thanh Bình, Tổ 8, P. Hà Đông, Q. Hà Đông, Hà Nội",0917560357
+CRM_0036,NHẬP KHẨU - SẢN XUẤT - DỊCH VỤ ĐẠI HƯNG,0901258903,Đặng Văn Thông,"Thôn Đại Từ, X. Đại Đồng, H. Văn Lâm, Hưng Yên",0909 433 539
+CRM_0037,Cty TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT LIÊN SANG VL,,Nguyễn Bích Liên,"Số 71D/05 Khóm Long Hưng, P. Thanh Đức, TP Vĩnh Long, Vĩnh Long",+84903611767
+CRM_0038,Cty Cp Ốc La La,1501176655,Chị Giàu,"Thửa Đất Số 80, Tờ Bản Đồ Số 24, Khóm 1, P. Cái Vồn, Thị X. Bình Minh, Vĩnh Long",+84982479121
+CRM_0039,Cty HÀ MINH NHI,0111705686,Hà Việt Hưng,"Số 70, Tổ 2, Thôn Miếu Thờ, X. Sóc Sơn, H. Sóc Sơn, Hà Nội",0971 163 740
+CRM_0040,Công Ty Tnhh Phát Triển Phần Mềm Eztek (Ntnn),0319799919,Tất Cam Thịnh,"120/62/3 Thích Quảng Đức, P. Đức Nhuận",0981 680 377
+CRM_0041,MẠI COSY VIỆT NAM,,Bùi Hoài Nam,"Số 21 Tt9 Khu Đô Thị Văn Phú, Đường Phúc La - Văn Phú, P. Kiến Hưng, Q. Hà Đông, Hà Nội",0797260525
+CRM_0042,Cty Cổ phần DỊCH VỤ VÀ THƯƠNG MẠI ĐÔNG ĐÔ GROUP,0111705358,Nguyễn Trung Hiếu,"Số Nhà C27-21 Geleximco Lê Trọng Tấn, P. Dương Nội",+84934600731
+CRM_0043,Công Ty Tnhh Nova Fitness&Yoga Việt Nam,0111705301,Chị Đạt,"Tầng 3, Chung Cư Ct1 Ngô Thì Nhậm",0936018793
+CRM_0044,Cty TNHH VẬT LIỆU XÂY DỰNG MINH ANH,0111705319,Nguyễn Quốc Chinh,"Số 16B1-4B, Làng Việt Kiều Châu Âu, P. Hà Đông, Q. Hà Đông, Hà Nội",+84901564713
+CRM_0045,Tư Thương Mại Và Xây Dựng Tth,1001343273,Bùi Thị Ngọc,"Số Nhà 62, Đường 14-10",0931.194.833
+CRM_0046,Quang Trường,,Đỗ Văn Tuấn,"Số Nhà 109, Đường Đinh Bộ Lĩnh, P. Lào Cai, TP Lào Cai, Lào Cai",+84791852665
+CRM_0047,Cty CÔNG NGHỆ ĐIỆN TỬ BRIGHTWAY VIỆT NAM (NCCNN),0319800057,Võ Thụy Bích Trân,"Số 18, Đường Số 17B, P. An Lạc, Q. Bình Tân, TP.HCM",+84886954310
+CRM_0048,Công ty TNHH DLQ,,Công Ty Tnhh Dlq,"Xóm Tân Hồng, X. Quỳnh Lưu, H. Quỳnh Lưu, Nghệ An",0908729637
+CRM_0049,"MIẾU - ẤP CHỢ BẾN, XÃ TÂN ĐIỀN",1201738913,Nguyễn Văn Giàu,"Ấp Chợ Bến, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0931731019
+CRM_0050,Cty Phần Mềm Thương Mại Điện Tử Dtn,0111705397,Anh Tiến,"B12B-02, Khu Đô Thị Vinhomes Gardenia",0938.190.071
+CRM_0051,Công Ty Tnhh Thương Mại Dịch Vụ Tổng Hợp Vạn Phúc Khang,,Ung Ngọc Trí Dũng,"145/1 Bùi Công Trừng, Ấp 42, X. Đông Thạnh, H. Hóc Môn, TP.HCM",+84911350986
+CRM_0052,Cty THỜI TRANG TKS (NCCNN),0319799926,Nguyễn Thị Thuý Kiều,"Số 7 Đường Trần Huy Liệu, P. Phú Nhuận, Q. Phú Nhuận, TP.HCM",0912613715
+CRM_0053,Công ty CP THƯƠNG MẠI VÀ DỊCH VỤ LAROMA,,Anh Linh,"Số Nhà A01-93, An Vượng Villa, Khu Đô Thị Dương Nội, P. Dương Nội, Q. Hà Đông, Hà Nội",+84987805141
+CRM_0054,Công Ty Trách Nhiệm Hữu Hạn Nam Vy Food & Bakery,,Nguyễn Văn Thanh,"Số 01-D21 Tại Khu D, Khu Đô Thị Mới Lê Trọng Tấn � Geleximco, P. Dương Nội, Q. Hà Đông, Hà Nội",+84888785835
+CRM_0055,Cty Tnhh Le Quy Digital,0111705206,Lê Trọng Quy,"Dv02-Lk73 Khu Đất Dịch Vụ Đìa Lão, P. Kiến Hưng, Q. Hà Đông, Hà Nội",0979594040
+CRM_0056,Cty CP HH&HC VIỆT NAM,0111705238,Chị Nam,"U03-L106 Khu D, Khu Đô Thị Mới Dương Nội, P. Yên Nghĩa, Q. Hà Đông, Hà Nội",+84797811224
+CRM_0057,Cty Tnhh Kiến Trúc Akisa,0111705196,Chị Tuân,"Tầng 9, Toà Hồ Gươm Plaza (Khối Vp), Số 102 Trần Phú, P. Hà Đông, Q. Hà Đông, Hà Nội",0906.999.218
+CRM_0058,Công ty CP S-HOUSE VIỆỆT NAM,0111705213,Anh Sang,"D49 Lk 7 Ô Số 1, Khu Đô Thị Mới Hai Bên Đường Lê Trọng Tấn, P. Dương Nội, Q. Hà Đông, Hà Nội",0912 732 356
+CRM_0059,Cty Cổ phần THƯƠNG MẠI DỊCH VỤ CÔNG NGHỆ CMTECH,0111705220,Tô�Ng Hư�U Tâm,"Tầng 1 Tòa Nhà Westa, 102 Trần Phú, P. Hà Đông, Q. Hà Đông, Hà Nội",0885 539 157
+CRM_0060,TNHH ĐẦU TƯ NGHIÊN CỨU VÀ PHÁT TRIỂN PHẦN MỀM VIỆT NAM,0111705245,Vũ Văn Thương,"Số 242 Vạn Phúc, P. Hà Đông, Q. Hà Đông, Hà Nội",0886 258 147
+CRM_0061,Công Ty Tnhh An Nguyên Home,0111705291,Anh An,"Tầng 2 Số Nhà 359 Phố Phú Lương, Tổ Dân Phố 9",0917596437
+CRM_0062,Công ty TNHH ĐẦU TƯ VÀ PHÁT TRIỂN ZEYFI,0111705414,Anh Sơn,"Tầng 15A, Tòa Nhà Technopark Tower, Lô Đất Cctp-16, Khu Đô T, X. Gia Lâm, H. Gia Lâm, Hà Nội",+84796261723
+CRM_0063,TNHH ELVO,0319798337,Võ Thị Quỳnh Như,"Tầng 3, Tòa Nhà An Phú Plaza",+84976968681
+CRM_0064,Tổ Hợp Tác Chăn Nuôi Cày Vòi Hương,4001344297,Tô Văn Bình,"Thôn Thạnh Phú, X. Phú Thuận",0981268636
+CRM_0065,Công Ty Trách Nhiệm Hữu Hạn Phúc An Uy,1702379856,Trần Bảo Uy,"Căn 35, Lô D11, Đường Số 7, P. Rạch Giá, TP Rạch Giá, Kiên Giang",0907 195 582
+CRM_0066,TỔ HỢP TÁC DỊCH VỤ NÔNG NGHIỆP VĂN LEM,,A Kên,"Thôn Văn Lem, X. Kon Đào",0983.701.031
+CRM_0067,"Miễu Bà (Bình Phước Miếu) - Ấp Chợ Bến, Xã Tân Điền",,Trương Văn Bổn,"Ấp Chợ Bến, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0909804553
+CRM_0068,"MIỄU BÀ NGHĨA THÀNH HỘI - ẤP HỘ, XÃ TÂN ĐIỀN",1201738952,Lê Quang Minh,"Ấp Hộ, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0934.193.589
+CRM_0069,TNHH SAO VVIỆT LOGISTICS,,Đỗ Trọng Tấn,"Số 36, Đường Cao Lỗ Vương, P. Gia Bình, P. Nhân Thắng, Bắc Ninh",0915490011
+CRM_0070,Cty DỊCH VỤ THƯƠNG MẠI TÂN AN VINA,,Trần Đức Cung,"Số 141, Đường Nguyễn Đình Chiểu, P. Xuân Hòa, Q. 3, TP.HCM",0971250933
+CRM_0071,PHÒNG HẠ TẦNG- ĐÔ THỊ VÀ MÔI TRƯỜNG PHƯỜNG LĨNH NAM,,Trịnh Lê Đức,"Số 669, Đường Lĩnh Nam, P. Lĩnh Nam, Q. Hoàng Mai, Hà Nội",0989.174.501
+CRM_0072,Cty Cổ phần GOPCO VIỆT NAM,0111705580,Nguyễn Khắc Tú,"Km 3 Đường Phan Trọng Tuệ, X. Đại Thanh",0981 633 745
+CRM_0073,Công ty TNHH THƯƠNG MẠI VÀ DỊCH VỤ HƯƠNG BAN MAI,,Anh Hải,"Số 180 Nguyễn Trãi, P. Hạc Thành",0934 292 734
+CRM_0074,Tnhh Nguồn Vật Tư,0319801290,Võ Trọng Thi,"Số 206A Đường Phan Văn Khải, X. Củ Chi, H. Củ Chi, TP.HCM",0971901556
+CRM_0075,Cty CP TMDV NHA KHOA ADOR,0319801283,Trần Anh Khoa,"88 Tỉnh Lộ 8, Khu Phố 2, X. Tân An Hội, H. Củ Chi, TP.HCM",0983977870
+CRM_0076,Cty XANH MEKONG,,Huỳnh Thị Thu Thảo,"Thửa Đất Số 10362, Tờ Bản Đồ Số 1, Khu Dân Cư Lô Số 11B, Khu, P. Hưng Phú, Q. Cái Răng, Cần Thơ",+84936592547
+CRM_0077,TNHH SẢN XUẤT VÀ THƯƠNG MẠI TRUNG HÀ,,Công Ty Tnhh Sản Xuất Và Thươn,"Số 181 Đặng Phúc Thông, Thôn Dốc Lã, X. Phù Đổng, H. Gia Lâm, Hà Nội",+84912236043
+CRM_0078,PHÒNG HẠ TẦẦNG XÃ CỦ CHI,0319800018,Anh Loan,"Số 314 Phan Văn Khải, Ấp Đình, X. Củ Chi, H. Củ Chi, TP.HCM",0982 548 899
+CRM_0079,Cty LUX HOTEL & APARTMENT,,Lã Kim Ngọc,"781/2 Đường Tỉnh 777, Ấp An Phú, P. Trảng Bom, P. Trảng Bom, Đồng Nai",0908 080 562
+CRM_0080,Cty Thương Mại Thời Trang Ccm (Nccnn),,Chị Hiếu,"Văn Phòng 01, Tầng 9, Tòa Nhà Pearl Plaza, Số 561A Điện Biên, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",0797 234 232
+CRM_0081,Cty XÂY DỰNG SAN LẤP LỘC PHÁT 88,,Chị Thảo,"Số 177, Đường Lê Hồng Phong, P. Kinh Bắc, TP Bắc Ninh, Bắc Ninh",0974.105.753
+CRM_0082,Cty STI VIỆT NAM,,Chị Tuấn,"Tầng 5, Tòa Nhà Công Ty Cổ Phần Sông Đà 2, Km10 Đường Nguyễn, P. Hà Đông, Q. Hà Đông, Hà Nội",0906955702
+CRM_0083,Cty CP XÂY DỰNG VÀ THIẾT BỊ NAM THÀNH,0111705326,Chị Kiên,"Dv19-Lk840 Khu Đất Dịch Vụ Đào Đất, Hàng Bè, P. Kiến Hưng, Q. Hà Đông, Hà Nội",0976 749 912
+CRM_0084,Cty Xây Dựng Và Quảng Cáo Paragon (Ntnn),,Huỳnh Ngô Tuyết Anh,"120A Trần Kế Xương, P. Cầu Kiệu",0901 205 128
+CRM_0085,Cty Toyota An Sương (Mst Nộp Thay Nccnn),0319799891,Chị Phú,"382 Lê Quang Đạo, P. Trung Mỹ Tây, Q. 12, TP.HCM",+84799326471
+CRM_0086,DIOFOR (MST NỘP THAY NTNN),0319799901,Văn Đức Thống,"196/14 Đường Tô Ngọc Vân, P. Thới An, Q. 12, TP.HCM",0916.963.854
+CRM_0087,TNHH ĐẦU TƯ XNK THIÊN HẢI,0319800709,Anh Cung,"Số 459/41, Đường Kinh Dương Vương, P. An Lạc, Q. Bình Tân, TP.HCM",0796 098 223
+CRM_0088,Công ty TNHH DURIVIVA,,Chị Hội,"Tổ 1A, Thôn Sao Bọng, P. Bình Phước, P. Bình Phước, Bình Phước",+84888991548
+CRM_0089,Cty Tnhh Thương Mại Tổng Hợp Avico,0111704636,Nguyễn Thị Tố Uyên,"Biệt Thự Số 18 -Tt1, Khu Đô Thị Phùng Khoang",0887400722
+CRM_0090,NHẬP KHẨU VÀ THƯƠNG MẠI VŨ TRẦN (NTNN),,Vũ Quang Huy,"391 Điện Biên Phủ, P. Bàn Cờ",0972017906
+CRM_0091,Cty Thương Mại Dịch Vụ Tổng Hợp Flexon,,Mai Hà Mỹ Hân,"Số 27 Đường Lê Lai, P. Ninh Kiều, Q. Ninh Kiều, Cần Thơ",+84794350308
+CRM_0092,Văn Phòng Đại Diện � Công Ty Tnhh Dịch Vụ Mt An Phát,,Nguyễn Hữu Tiệp,"Xóm Nội, Tổ Dân Phố Mão Đông, P. Mão Điền, Thị X. Thuận Thành, Bắc Ninh",0916 933 518
+CRM_0093,Cty GOLDEN INN HOTELL (NTNN),3301770505,Anh Huyền,"Số 06 Trần Anh Liên, P. Vỹ Dạ, Q. Thuận Hóa, TP Huế",+84795670785
+CRM_0094,Cty Cp Kitawa (Ntnn),,Nguyễn Thị Kiều Trang,"41F/12 Đặng Thùy Trâm, P. Bình Lợi Trung, Q. Bình Thạnh, TP.HCM",0902865958
+CRM_0095,Cty PHÒNG KHÁM VANITY (NTNN),0319801445,Nguyễn Minh Trung,"51A Đường 3/2, P. Vườn Lài, Q. 10, TP.HCM",0973.179.976
+CRM_0096,Cty Tnhh Xnk Tmdv Kim Nguyên,,Trần Lê Thanh Phượng,"112/191 Đường Nguyễn Thị Minh Khai, P. Ninh Kiều, Q. Ninh Kiều, Cần Thơ",+84793776075
+CRM_0097,Cty Cổ phần VIETRACE365 (NTNN),0319801614,Chị Lễ,"91/8A Hòa Hưng, P. Hòa Hưng, Q. 10, TP.HCM",0934 059 163
+CRM_0098,Tnhh Dtsx Yd Nk Hapas Horizon Group,1602238731,Ngô Thị Quỳnh My,"Số 39, Đường Nguyễn Văn Cưng, P. Long Xuyên, TP Long Xuyên, An Giang",+84798291831
+CRM_0099,Công ty TNHH BIM ENGINEERING CONSULTANTS (NTNN),0319800000,Nguyễn Thị Ánh Nguyệt,"B402, Wiyo Complex 3",0886 341 331
+CRM_0100,Công ty CP S-HOUSE MIỀN NAM (NTNN),0319800106,Nguyễn Đức Anh,"Số 280A1, Đường Lương Định Của, P. Bình Trưng, TP Thủ Đức, TP.HCM",0907 196 889
+CRM_0101,CTCP PHÁT TRIỂN GIÁO DỤC VÀ THƯƠNG MẠI VIỆT NHẬT,0111706471,Phạm Văn Thuyết,"Nhà L1-1, Tổ 13",+84884674445
+CRM_0102,Cty XNK LAM MINH,,Trần Thị Thúy Nga,"Tầng 2, Số 70 Đường Nguyễn Văn Cừ, P. Hạ Long, TP Hạ Long, Quảng Ninh",0988 747 598
+CRM_0103,Tnhh Vạn Phúc Seafood,5702240964,Bùi Thị Hà,"Cụm Công Nghiệp Vân Đồn, Đặc Khu Vân Đồn, H. Vân Đồn, Quảng Ninh",+84988944726
+CRM_0104,Công Ty Cp 1Pro,0111706390,Nguyễn Lam Thạch,"Số 33 Nguyễn Văn Tuyết, P. Đống Đa, Q. Đống Đa, Hà Nội",0885.817.473
+CRM_0105,Công Ty Tnhh Thương Mại Kỹ Thuật Anh Đức Group,4401138073,Chị Đức,"138 Nguyễn Văn Linh, P. Phú Yên, Tp Tuy Hoà, Phú Yên",0919625871
+CRM_0106,TNHH SAO MAI PQ,1702379817,Đỗ Hoàng Điệp,"Tổ 7, Ấp Gành Dầu, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0915.323.666
+CRM_0107,Cty Khôi Hoàng Phát Vn,3703528938,Nguyễn Văn Huệ,"Thửa Đất Số 3055, Tờ Bản Đồ Số 65, P. Hòa Lợi, TP Bến Cát, Bình Dương",0793250599
+CRM_0108,TNHH THƯƠNG MẠI VÀ DỊCH VỤ NHẬT MINH ROYAL,,Vũ Văn Hợp,"Thôn Kỳ Sơn (Tại Nhà Ông Vũ Văn Phượng), X. Kiến Hưng",0989.787.689
+CRM_0109,Công ty TNHH BÚN PHỞ KHÔ KHÁNH LINH,0700931036,Tạ Đức Võ,"Thôn 3 Phú Đa, X. Nam Xang, H. Lý Nhân, Hà Nam",0903396104
+CRM_0110,Công Ty Cp Future Tech Global Viet Nam,0111706288,Chị Dũng,"Sb23-427 Và Sb23-85 Vinhomes Ocean Park 1, X. Gia Lâm, H. Gia Lâm, Hà Nội",0903 503 086
+CRM_0111,Phú Quốc,1702379775,Đỗ Mạnh Thọ Anh,"Mc-01-31 Grand World, Tổ 7, Ấp Gành Dầu, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0903392325
+CRM_0112,Cty Nephele (Ntnn),,Lê Công Hùng,"125/12 Nguyễn Cửu Vân, P. Gia Định, Q. Bình Thạnh, TP.HCM",+84797914617
+CRM_0113,Cty Cổ Phần Truyền Hình Cáp Hà Nội,,Phạm Ngọc Thắng,"Số 30 Trung Liệt, P. Đống Đa, Q. Đống Đa, Hà Nội",0982 986 237
+CRM_0114,Cty Tnhh Thương Mại Thời Trang Ccm (Ntnn),,Nguyễn Đức Hiếu,"Văn Phòng 01, Tầng 9, Tòa Nhà Pearl Plaza, Số 561A Điện Biên, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",0914219530
+CRM_0115,"LÝ DỰ ÁN BẢO VỆ VÀ PHÁT TRIỂN RỪNG XÃ PÙ NHI, TỈNH THANH HÓA",,Chị Nhân,"Bản Na Tao, X. Pù Nhi, H. Mường Lát, Thanh Hoá",+84918490985
+CRM_0116,Công Ty Tnhh Xuất Nhập Khẩu Kinh Bắc Men,2401097088,Anh Luyến,"Số 16 Đại Hoàng Sơn Đường Ngô Gia Tự, Tdp Yết Kiêu, P. Bắc Giang, TP Bắc Giang, Bắc Giang",+84795486867
+CRM_0117,Công Ty Tnhh Tư Vấn & Đầu Tư Hanaly (Ntnn),,Anh Phát,"201/56 Nguyễn Xí, P. Bình Thạnh, Q. Bình Thạnh, TP.HCM",0931 096 993
+CRM_0118,Mại Dịch Vụ Xuất Nhập Khẩu Phan Khang,,Chị Khương,"Tổ 2, Khu Phố Thanh Hòa, P. Tân Khai, P. Tân Khai, Bình Phước",0906356936
+CRM_0119,Cty CP TRUSTEEL (NTNN),0319801269,Nam Hyungjin,"Sav.2 - 03.26, Tầng 3 Thuộc Khối Đế, Tháp 2, Khu 1, Toà Nhà, P. Bình Trưng, TP Thủ Đức, TP.HCM",0797.312.041
+CRM_0120,TẦNG- ĐÔ THỊ VÀ MÔI TRƯỜNG PHƯỜNG PHÚ THƯỢNG,,Nguyễn Quang Ngọc,"Số 58 Phú Xá, P. Phú Thượng, Q. Tây Hồ, Hà Nội",+84973181665
+CRM_0121,Công ty TNHH TOYOTA HÒA BÌNH MINH YÊN BÁI,5200974591,Nguyễn Hà Toán,"Tổ Dân Phố Số 2, P. Âu Lâu, TP Yên Bái, Yên Bái",+84917741551
+CRM_0122,Cty TNHH TRÀ THẢO MỘC SAVO (NCCNN),,Phan Ngọc Trúc,"695 Đường Điện Biên Phủ, P. Thạnh Mỹ Tây",+84881104721
+CRM_0123,phần KỸ THUẬT VĨĨNH KIÊN,,Hoàng Thị Sâm Như,"Thôn Đồng Trúc 1, X. Hạ Bằng, H. Thạch Thất, Hà Nội",+84934729465
+CRM_0124,ƠN ĐÁP NGHĨA XÃ TRẦN THƯƠNG,,Lê Văn Đoàn,"Thôn Đức Bản, X. Trần Thương, H. Lý Nhân, Hà Nam",0914 861 519
+CRM_0125,TNHH DỊCH VỤ ẨM THỰC MỘT DÒNG SÔNG (NTNN),0319801558,Nguyễn Thị Kim Oanh,"224 Đường D5, P. Thạnh Mỹ Tây",0882.412.367
+CRM_0126,Cty Cổ phần RỒNG VIỆT ENTERTAINMENT,,Nguyễn Tùng Dương,"Tầng 6, Tòa Nhà 45-47 Trần Xuân Soạn, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",0986.631.510
+CRM_0127,DV THANH GIANG,3703529610,Anh Giang,"Số 10, Đường Hưng Hòa 12",0912 108 095
+CRM_0128,TẾ XÃ MƯỜNG LÝ,2803254478,Chị Tuấn,"Bản Nàng, X. Mường Lý, H. Mường Lát, Thanh Hoá",+84985709210
+CRM_0129,Công ty TNHH MTV CUNG DIÊN YẾN,0319799845,Huỳnh Hữu Hải,"Số 80 Đường Số 6 Khu Kdc Cityland Park Hill, P. Gò Vấp, Q. Gò Vấp, TP.HCM",0988 767 062
+CRM_0130,An Giang � Công Ty Tnhh Nông Sản Nguyễn Quý,1201652198-001,Chị Nhung,"Thửa Đất Số 2058, Tổ 1",0916964161
+CRM_0131,Cty TNHH THỂ DỤC & THỂ THAO TÂN ĐẠI PHÚC (NTNN),,Nguyễn Thành Phước,"617-621 Điện Biên Phủ, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",0791.203.816
+CRM_0132,Công ty TNHH ĐẦU TƯ VÀ PHÁT TRIỂN TOẢN VŨ (NTNN),0319801597,Vũ Văn Toản,"702/58 Điện Biên Phủ, P. Vườn Lài, Q. 10, TP.HCM",0901 520 815
+CRM_0133,Công ty CP SỮA QUỐC TẾ LOF,9000591655,Đoàn Hữu Nguyên,"Lô C-13A-Cn, Đường N16",0915.595.735
+CRM_0134,Công ty TNHH THÁI BEN,1702379824,Anh Nhi,"Số 173, Đường 30/4, Khu Phố 1 Dương Đông, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",+84933709029
+CRM_0135,Cty Tmdv Tân An Vương,0402365297,Chị Vương,"22 Lê Độ, P. Thanh Khê, Q. Thanh Khê, Đà Nẵng",+84792438516
+CRM_0136,TNHH THƯƠNG MẠI VÀ XÂY DỰNG VINA GREEN,,Anh Hoài,"Căn Hộ Tt3.21 - Kđt Square Park, P. Thạch Khôi, TP Hải Dương, Hải Dương",0884 677 951
+CRM_0137,Tnhh Kiến Trúc Và Xây Dựng T&T Home,0801511542,Nguyễn Đình Thọ,"Tổ Dân Phố Du Tái, P. Nam Đồng, TP Hải Dương, Hải Dương",0978 737 656
+CRM_0138,Cty TNHH ẨM THỰC MAY MẮN,,Lê Ngọc Quỳnh,"Số 12 Liễu Giai, P. Ngọc Hà, Q. Ba Đình, Hà Nội",0909 386 600
+CRM_0139,Cty Tnhh In Nhanh 2S Việt Nam,0111706111,Nguyễn Ngọc Đức,"Số 49 Ngõ 135 Đội Cấn, P. Ngọc Hà, Q. Ba Đình, Hà Nội",0932.174.791
+CRM_0140,Cty TNHH THỜI TRANG TIDOSI (MST NỘP THAY NCCNN),0319801043,Anh Đông,"107/59 Tân Chánh Hiệp 35, Khu Phố 2, P. Trung Mỹ Tây, Q. 12, TP.HCM",0796 561 394
+CRM_0141,Cty Thương Mại Và Dịch Vụ Nz (Mst Nộp Thay Nccnn),,Phạm Hoài Nam,"32/21/11 Hà Thị Khiêm, P. Trung Mỹ Tây, Q. 12, TP.HCM",0914.914.760
+CRM_0142,BAN CHỈ HUY QUÂN SỰ XÃ BẢO THẠNH,1301177080,Chị Em,"Thạnh Nghĩa, X. Bảo Thạnh, H. Ba Tri, Bến Tre",0987708435
+CRM_0143,Cty Tnhh Xây Dựng Và Thương Mại Ngân Như Hải 68,1702379782,Trần Văn Phước,"Số 0750 Tổ 12, Ấp Sơn Tiến, X. Mỹ Thuận, H. Hòn Đất, Kiên Giang",0972245175
+CRM_0144,Cty THƯƠNG MẠI VÀ DƯỢC PHẨM HÙNG LỢI (NTNN),0319801621,Đỗ Vũ Huy Hùng,"306/19 Đặng Thùy Trâm, P. Bình Lợi Trung",+84911360022
+CRM_0145,Công ty TNHH HÓA NÔNG AN ĐIỀN (NTNN),,Chị Hiền,"235/40 Đường Đặng Thùy Trâm, P. Bình Lợi Trung, Q. Bình Thạnh, TP.HCM",0931 132 395
+CRM_0146,TNHH THE LUMIS (NTNN),0319801501,Nguyễn Trương Ánh Ngọc,"Số 324 Điện Biên Phủ, P. Gia Định, Q. Bình Thạnh, TP.HCM",+84791411492
+CRM_0147,Công Ty Tnhh Thương Mại Tư Vấn Xây Dựng Trung Hiếu,,Trần Trung Hiếu,"Thửa Số 96, Tờ Bản Đồ Số 16, Ấp 1, X. Trí Phải, H. Thới Bình, Cà Mau",0793.753.871
+CRM_0148,Tnhh Medolabiz (Ntnn),0319801646,Bùi Thị Hồng Nhung,"Cc5 Trường Sơn, P. Hòa Hưng, Q. 10, TP.HCM",0978.239.967
+CRM_0149,Cty TNHH 1TV XNK QUỐC TẾ AN THÀNH (NTNN),0319801741,Trịnh Thị Thu Hiền,"235/40 Đường Đặng Thùy Trâm, P. Bình Lợi Trung, Q. Bình Thạnh, TP.HCM",0909846353
+CRM_0150,Công ty CP DƯỢC PHẨM VÀ THIẾT BỊ Y TẾ TRƯỜNG SƠN - CHI NHÁNH SỐ 5,6200121468-004,Anh Khánh,"Số 31 Lê Ninh, P. Vinh Hưng",0911.954.177
+CRM_0151,Công ty CP PHÁT TRIỂN SPA VIÊN MỸ (NTNN),0319801565,Võ Quốc Phú,"07 Lê Quang Định, P. Bình Thạnh, Q. Bình Thạnh, TP.HCM",0975258200
+CRM_0152,Tnhh Cơ Khí Nhật Phương,,Hồ Nhật Phương,"01 Phạm Thị Lam Anh, P. Hòa Khánh",+84885691300
+CRM_0153,Sản Tiến Phát Gh,,Anh Linh,"Khu Cảng Cá, Ấp 4, X. Gành Hào, H. Đông Hải, Bạc Liêu",0939707918
+CRM_0154,Cty CP PHÁT TRIỂN ĐỊA ỐC MINH QUANG,0111706418,Phạm Đức Quang,"Tầng 2, Số 26A Đường Lê Đức Thọ, P. Từ Liêm, Q. Nam Từ Liêm, Hà Nội",0917.955.616
+CRM_0155,TNHH TEVIK,0111705164,Chị Linh,"Tầng 8, Tòa Nhà Sannam",0903829779
+CRM_0156,TNHH KHẮC GHI GROUP,,Anh Ghi,"Số 22/A1, Ấp Bạch Lâm, P. Trảng Bom, P. Trảng Bom, Đồng Nai",0795547721
+CRM_0157,Tnhh Bệnh Viện Sante (Htkd Với Cá Nhân),0319801766,Anh Hoa,"11A Đinh Bộ Lĩnh, P. Bình Thạnh, Q. Bình Thạnh, TP.HCM",0971551007
+CRM_0158,Công ty TNHH CƠ ĐIỆN CÔNG TRÌNH HƯNG THỊNH VIỆT NAM,,Chị Ngọc,"Số 157 Đường Nguyễn Trường Tộ, P. Thành Vinh, TP Vinh, Nghệ An",0976286241
+CRM_0159,Tnhh Iot Digital,2401097070,Chị Linh,"Thửa Đất Lô 10, 11 Đường Nguyễn Đức Cảnh 1",0791.530.137
+CRM_0160,TNHH VẬN TẢI HIỀN DŨNG,2902297641,Nguyễn Ngọc Dũng,"Số 71 Đường Lê Huân, P. Trường Vinh",+84887486952
+CRM_0161,DNTN VĂN PHÒNG THI HÀNH ÁN DÂN SỰ TÂY NAM,1402239181,Nguyễn Giang Nam,"Số 270, Đường Nguyễn Huệ, Khu Phố Mỹ Phú, P. Mỹ Trà, TP Cao Lãnh, Đồng Tháp",0976 224 597
+CRM_0162,Cty Cp Titan Studio Việt Nam,0111706496,Chị Cường,"Tầng 5, Toà Nhà Hòa Bình Greencity, 505 Minh Khai, P. Vĩnh Tuy, Q. Hai Bà Trưng, Hà Nội",+84792491906
+CRM_0163,Cty GIÁO DỤC VÀ ĐÀO TẠO SCMA,,Nguyễn Tú Oanh,"Tầng 3 Và Tầng 9 Toà Nhà Đức Đại, Số 54 Phố Lê Thanh Nghị, P. Bạch Mai, Q. Hai Bà Trưng, Hà Nội",0911.735.410
+CRM_0164,Cty TNHH DỊCH VỤ & CUNG ỨNG NGUỒN NHÂN LỰC HP VINA,,Lê Hoàng Nam,"Số 21, Liền Kề 4",0912.746.042
+CRM_0165,TNHH DỊCH VỤ TƯ VẤN ĐỨC TÙNG,0111705767,Chị Tùng,"Tầng 16, Tòa Nhà Daeha Business Center, 360 Kim Mã, P. Giảng Võ, Q. Ba Đình, Hà Nội",0886.137.550
+CRM_0166,TNHH THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU GAQ,,Anh Lê,"Số 29, 30 Liền Kề 20, Dọc Bún 2, P. Hà Đông, Q. Hà Đông, Hà Nội",0904 190 273
+CRM_0167,Cty Tnhh Tokyocamera Việt Nam,,Lê Quốc Khánh,"Số 162 Đường Kim Ngưu, P. Bạch Mai",0903776307
+CRM_0168,Công ty CP LEESSUNG PRO VIỆT NAM,0700931068,Nguyễn Văn Sơn,"Số 386 � Cụm Công Nghiệp Lê Hồ, P. Lê Hồ, Thị X. Kim Bảng, Hà Nam",0934.269.519
+CRM_0169,Công ty TNHH THƯƠNG MẠI DỊCH VỤ HN BEAUTY,0111705982,Huỳnh Ngọc Sơn,"Lô E9, E10, E11 Số 26 Ngõ 60 Đường Dương Khuê, P. Từ Liêm, Q. Nam Từ Liêm, Hà Nội",+84907609528
+CRM_0170,Tnhh Công Nghệ Và Thương Mại Á Mỹ,0111706464,Anh Vinh,"Số 69, Phố Lê Thanh Nghị, P. Bạch Mai, Q. Hai Bà Trưng, Hà Nội",0901.663.794
+CRM_0171,Cty TNHH GIÁO DỤC SCFA,0111706457,Nguyễn Đức Thái,"Tầng 2 Và Tầng 6 Toà Nhà Đức Đại, Số 54 Phố Lê Thanh Nghị",0911759943
+CRM_0172,Tnhh Thương Mại Tân Thành,,Chị Khoa,"3165 Quốc Lộ 80, Ấp Phụng Quới B, X. Thạnh An, H. Vĩnh Thạnh, Cần Thơ",0888988573
+CRM_0173,CÔNG TY TRÁCH NHIỆM HỮU HẠN TƯ VẤN ĐO ĐẠC ĐIỀN THỊNH - CHI NHÁNH CHÂU THÀNH,,Chị Đoàn,"Số 490, Ấp Minh Phong, X. Bình An, H. Châu Thành, Kiên Giang",0934255806
+CRM_0174,CTCP TIP TOP (MST NỘP THAY NTNN),0319801075,Lai Chí Cường,"101 Nguyễn Thị Tràng, P. Tân Thới Hiệp, Q. 12, TP.HCM",0989.381.003
+CRM_0175,Cty TNHH BẢO VỆ SỨC KHỎE THC (NTNN),,Anh Cường,"88 Đường 52, P. Bình Trưng, TP Thủ Đức, TP.HCM",0978.334.020
+CRM_0176,Trung Tâm Chính Trị Bảo Yên,5300859289,Vương Văn Kiên,"Thôn 4 B, X. Bảo Yên",+84937762741
+CRM_0177,KDTH LOGISTICS AN DƯƠNG,,Chị Cung,"Số 76, Đường Trần Văn Chính, P. Long An, TP Tân An, Long An",0914 157 608
+CRM_0178,TNHH MAI CHÂU VILLAS,,Nguyễn Đức Anh,"Xóm Cha Lang, X. Bao La, H. Mai Châu, Hòa Bình",0918 314 624
+CRM_0179,Cty Sản Xuất Thương Mại Xnkk Như Ngọc,1102193539,Chị Danh,"Thửa Đất Số 19, Tờ Bản Đồ Số 47, Khu Phố 2, X. Đông Thành, H. Đức Huệ, Long An",0986044545
+CRM_0180,Cty Tnhh Nội Thất Louis,,Đinh Văn Thiện,"Thôn Lạc Hồng, X. Giao Hòa",0888.979.019
+CRM_0181,Công ty CP THANH TOÁN QUỐC GIA VIỆT NAM,9000591648,Nguyễn Quang Hưng,"Tầng 2, 17",0885.279.144
+CRM_0182,Cty CP NĂNG LƯỢNG TÁI TẠO SVT,4401138041,Vũ Thị Sửu,"Thôn Tân Hòa, X. Đồng Xuân, H. Đồng Xuân, Phú Yên",0907733501
+CRM_0183,Cty Cổ phần CÔNG NGHỆ OMNI,0111706023,Đặng Anh Tuấn,"Tầng 13 Tòa Capital Place Số 29 Liễu Giai, P. Ngọc Hà, Q. Ba Đình, Hà Nội",+84986552344
+CRM_0184,Công Ty Tnhh Capr (Mst Nộp Thay Ntnn),0319800988,Nguyễn Thị Hòa Vân,"89/35/4 Đường Tth 13, P. Tân Thới Hiệp, Q. 12, TP.HCM",0973.831.003
+CRM_0185,TNHH TỨ TIỂU THIÊN CA ENTERTAINMENT,0319797421,Trần Thị Tường Vy,"H2.07 (Shophouse T3-B2.1J), Tầng Hầm 02, Tháp T3 (Tháp Brill, P. Bình Trưng, TP Thủ Đức, TP.HCM",0903318795
+CRM_0186,Cty THỰC PHẨM CHỨC NĂNG HƯNG THỊNH PHÁT,,Chị Hưng,"18 Vũ Văn Dũng, P. An Hải, Q. Sơn Trà, Đà Nẵng",0938.886.222
+CRM_0187,Tnhh Huyền Phạm Design,0111706337,Phạm Thanh Huyền,"Số 12, Ngõ 84 Phố Ngọc Khánh, P. Giảng Võ, Q. Ba Đình, Hà Nội",0986 771 746
+CRM_0188,ĐỒN BIÊN PHÒNG CỬA KHẨU QUỐC TẾ TỊNH BIÊN,1602238756,Chị Điềm,"Khóm Xuân Hòa, P. Tịnh Biên",0918125720
+CRM_0189,Cty Dịch Vụ Tổng Hợp Hợp Thịnh Dk,1801844215,Lý Quang Hợp,"198Ac1, Đường Tú Xương, Kdc Hồng Phát, Kv2, P. An Bình, Q. Ninh Kiều, Cần Thơ",0902810988
+CRM_0190,Đảng Ủy Xã Tam Bình,1501176704,Lê Ngọc Đức,"Ấp Lưu Văn Liệt, X. Tam Bình, H. Tam Bình, Vĩnh Long",0905.481.470
+CRM_0191,CTCP BAO BÌ XANH,,Trương Hồng Quân,"Lô 99 Khu Công Nghiệp Mỹ Tho, P. Trung An",0979009871
+CRM_0192,Xã Cà Phê Và Ca Cao Lafarm Gia Kiệm,,Đinh Văn Thành,"504/2A Ấp Gia Yên, P. Trảng Bom, P. Trảng Bom, Đồng Nai",0915.197.497
+CRM_0193,Công ty TNHH DƯỢC GREENPHACO,2701017735,Phạm Hải An,"Số 170 Đường Lê Thánh Tông, Thôn Hòa Bình, X. Yên Khánh, H. Yên Khánh, Ninh Bình",0936831792
+CRM_0194,Công Ty Tnhh Mtv Thương Mại - Thiết Kế - Xây Dựng Hoàng An,1102193793,Trần Thị Kim Phụng,"Số 2B Đường 833, Khu Phố Phú Nhơn, P. Long An, TP Tân An, Long An",+84902123242
+CRM_0195,Công Ty Tnhh Bảo Hiếu Nguyễn,,Nguyễn Hiếu Bảo,"15 Ấp Bình An, X. Tân Trụ",0913878997
+CRM_0196,Mobifone Đồng Tháp - Chi Nhánh Tổng Công Ty Viễn Thông Mobifone,,Lê Văn Khoa,"Số 03 Đống Đa, P. Đạo Thạnh",0983.210.121
+CRM_0197,Công Ty Tnhh T.Vô Kỵ,,Phạm Thị Kiều Yên,"Ấp Minh Thiện, X. Rạch Kiến, H. Cần Đước, Long An",0918773162
+CRM_0198,Tnhhh Vast Legendary (Ntnn),,Nguyễn Thái Bình,"7-1A Khu Phố Mỹ An, Đường Hà Huy Tập, P. Tân Hưng, Q. 7, TP.HCM",0931979028
+CRM_0199,Mẹ Và Bé Dũng Jerry (Đv Nộp Hộ Thuế Nt Nn),1301177059,Mai Quốc Dũng,"570C/3 Quới An, X. Giao Long, H. Châu Thành, Bến Tre",+84885604922
+CRM_0200,BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG PHƯỜNG ĐÔNG HOÀ,4401138059,Anh Văn,"Đường Nguyễn Tất Thành, Khu Phố 2",0885 227 949
+CRM_0201,Cty Tnhh Dịch Vụ Việt Trí,0111705654,Chị Hạnh,"P403, Tòa Nhà Ocean Park, Số 1 Đào Duy Anh, P. Kim Liên, Q. Đống Đa, Hà Nội",0796375652
+CRM_0202,PHÒNG VĂN HÓA-XÃ HỘI XÃ ĐẠI ĐỒNG,2902297585,Trần Võ Hiệp,"Số 1, Thôn Dùng 1, X. Đại Đồng, H. Thanh Chương, Nghệ An",+84795373645
+CRM_0203,Công ty TNHH HIRO LOGISTICS (NTNN),0319800459,Anh Hiếu,"5/10 Đường 99, P. Phước Long, TP Thủ Đức, TP.HCM",0932 305 380
+CRM_0204,Ctcp Vận Tải Du Lịch Hà Sơn � Lào Cai,,Chị Hà,"Tổ 29, P. Cam Đường, TP Lào Cai, Lào Cai",0903.198.365
+CRM_0205,Cty TNHH THƯƠNG MẠI VÀ SẢN XUẤT HEXPHOTON,2301433240,Đặng Văn Trung,"Thôn Phúc Nghiêm, X. Phật Tích, P. Tiên Du, Bắc Ninh",+84914056612
+CRM_0206,Hợp Tác Xã Du Lịch Vận Tải Nai Mới,,Chị Thêu,"Thôn Nai Mới, X. Thung Nai, H. Cao Phong, Hòa Bình",0887381789
+CRM_0207,TNHH SẢN XUẤT VÀ THƯƠNG MẠI TLTECH VINA,4601682185,Dương Thị Linh,"Tổ Dân Phố Cống Thượng, P. Phổ Yên, TP Phổ Yên, Thái Nguyên",0939454959
+CRM_0208,TNHH AN SINH XÃ HỘI 24/7 BÌNH PHƯỚC,,Trịnh Thị Mỹ Duyên,"173 Nguyễn Tất Thành, Khu Phố 5, P. Phước Bình, P. Phước Bình, Bình Phước",0907.701.665
+CRM_0209,Công ty TNHH TRẦN BẠO,0901258928,Anh Bạo,"Thôn Đức Nhuận, X. Triệu Việt Vương, H. Khoái Châu, Hưng Yên",0971 487 411
+CRM_0210,TNHH THƯƠNG MẠI DỊCH VỤ LÝ HUỆ AN,,Anh Huy,"Tầng 6, Tòa Nhà Lâm Viên",0911 034 056
+CRM_0211,Cty Dinh Dưỡng 3A (Việt Nam),9000591623,Chị Kuo,"Centec Tower, 72-74",0903.127.811
+CRM_0212,TNHH CANIS MAJOR VIỆT NAM (NỘP HỘ),,Smithe Gray James,"21/3 Phan Bội Châu, P. Hội An, TP Hội An, Quảng Nam",0798524260
+CRM_0213,Cty Cp Công Nghệ Zion Game,0111705615,Anh Tiến,"Số Nhà M19, Khu Đô Thị Cổ Dương",0903124230
+CRM_0214,THỰC PHẨM T&H,0111705855,Chị Hòa,"Nhà Số 3 Ngõ 230/111 Phố Định Công Thượng, P. Định Công, Q. Hoàng Mai, Hà Nội",0888 200 815
+CRM_0215,Tnhh Hàng Thể Thao Việt Thăng,,Vũ Hùng Viết,"Thôn Giao Cù, X. Nam Đồng, H. Nam Trực, Nam Định",0914 131 890
+CRM_0216,Trạm Y Tế Xã Phúc Khánh,5300859264,Lê Thị Thanh Hương,"Thôn Trĩ Ngoài, X. Phúc Khánh, H. Bảo Yên, Lào Cai",0932.618.120
+CRM_0217,Công ty TNHH TMDV XNK HUỲỲNH TRANG,,Nguyễn Thị Thùy Trang,"169 Ấp Bàu Sen, X. Đức Lập, H. Đức Hoà, Long An",0979 575 161
+CRM_0218,Cty Gỗ Nhựt Tiến Phát,,Nguyễn Huỳnh Minh Anh,"Số 645, Đường 30/4, Tổ 8, Khu Phố Tân Nhất, P. Mỹ Ngãi, TP Cao Lãnh, Đồng Tháp",0882 730 480
+CRM_0219,Công Ty Tnhh Le Nom Việt Nam (Ntnn),0319801526,Võ Thị Phương Thi,"57D1 Điện Biên Phủ, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",+84988310748
+CRM_0220,CHI NHÁNH CÔNG TY CỔ PHẦN BỆNH VIỆN BÁCH LẠC- TẠI ĐẮK LẮK,,Tống Lê Duy,"568 Lê Duẩn, P. Ea Kao, Tp.buôn Ma Thuột, Đắk Lắk",0931 262 361
+CRM_0221,TNHH KỸ THUẬT CƠ ĐIỆN TÂN Á,5702240989,"Li, Chengbing","Số 321 Đường Mạc Đăng Dung, Khu Trại Thành",+84919376068
+CRM_0222,Cty TNHH TMDV DU LỊCH KHÁCH SẠN HUY TOÀN,2902297578,Chị Tịnh,"Số 164, Đường Phan Chu Trinh, Khối 1, P. Thành Vinh, TP Vinh, Nghệ An",0792200360
+CRM_0223,Cty TNHH KIM THÁI PHÚ QUỐC,1702379912,Nguyễn Đức Toàn,"Căn A18, Khu Đô Thị Sun Grand City Hillside Residence � The, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0912924118
+CRM_0224,CHI NHÁNH 01 CÔNG TY TNHH QUANG ĐẠT AUTO,,Quách Quảng,"30B Đường 43, P. Khánh Hội, Q. 4, TP.HCM",0911 885 724
+CRM_0225,Cty TNHH THƯƠNG MẠI SẢN PPHẨM NÔNG SẢN VIỆT CHUỖI,,Nguyễn Thị Nhẫn,"Lô 49.3-6 Kđt Phía Tây, Tdp Đồng Xá",0934.021.488
+CRM_0226,TNHH NHA KHOA THÔNG MINH AIDENTAL LUXURY CS1,,Dương Trọng Hiếu,"Thôn 1, X. Đức Lập",0911 103 956
+CRM_0227,Công ty TNHH TẬP ĐOÀN VIỆN THẨM MỸ QUỐC TẾ GREEN WORLD (NTNN),0319800931,Trần Thế Nghĩa,"40 - 42 Cao Thắng, P. Bàn Cờ, Q. 3, TP.HCM",+84905760990
+CRM_0228,HELI CARE (NTNN),,Anh Hoa,"126 Nguyễn Thị Minh Khai, P. Xuân Hòa, Q. 3, TP.HCM",0908.490.311
+CRM_0229,Công ty CP DƯỢC PHẨM VÀ THIẾT BỊ Y TẾ TRƯỜNG SƠN - CHI NHÁNH SỐ 4,6200121468-003,Giang Ngọc Khánh,"Số 178 Đường Trần Phú, P. Trường Vinh, TP Vinh, Nghệ An",+84988907276
+CRM_0230,Cty Cổ phần THƯƠNG MẠI DỊCH VỤ ĐẠI PHÁT QUANG MINH,,Đặng Nguyễn Bảo Minh,"663A Đỗ Xuân Hợp, P. Phước Long",0971 075 900
+CRM_0231,Công ty TNHH GIẢI PHÁP NÔNG NGHIỆP VĨNH MINH - CHI NHÁNH LÂM ĐỒNG,0316924103-001,Mai Nguyên Vĩnh,"Tổ 1, Thôn Lạc Nghiệp, X. Đơn Dương, H. Đơn Dương, Lâm Đồng",+84978857658
+CRM_0232,Cty CP KÍNH MẮT VIN BIS VIỆT NAM,,Anh Cường,"Số Nhà 17 Ngách 40 Ngõ 95, Phố Kim Mã, P. Giảng Võ, Q. Ba Đình, Hà Nội",0974 175 049
+CRM_0233,Hợp Tác Xã Dừa Quốc Nam,1301177073,Chị Vi,"Thửa Đất Số 268, Tờ Bản Đồ Số 12, Ấp An Lợi, X. Thành Thới, H. Mỏ Cày Nam, Bến Tre",0888579127
+CRM_0234,Cty Cổ Phần Bnhc,0111706513,Chị Ngọc,"Số Nhà 17, Ngách 15, Ngõ 61 Phố Lạc Trung, P. Vĩnh Tuy, Q. Hai Bà Trưng, Hà Nội",0916839727
+CRM_0235,Tnhh Xây Dựng Và Nội Thất F5 Interior,0111706506,Anh Tú,"Tt04 - 536 Minh Khai, P. Vĩnh Tuy, Q. Hai Bà Trưng, Hà Nội",0799.752.377
+CRM_0236,Bất Động Sản Thảo House (Ntnn),0319801727,Bùi Thị Ngọc Thảo,"69/50 Nguyễn Gia Trí, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",+84912581500
+CRM_0237,Công ty CP GIẢI PHÁP GIÁO DỤC HƯNG YÊN,0901258974,Anh Liên,"Số 59B Chu Mạnh Trinh, P. Phố Hiến, TP Hưng Yên, Hưng Yên",0914.300.063
+CRM_0238,TNHH Y KKHOA VÀ THẨM MỸ NCB (NTNN),0319801533,Nguyễn Chí Bảo,"55-57 Trường Sơn, P. Hòa Hưng, Q. 10, TP.HCM",0904.114.020
+CRM_0239,Công ty TNHH DỊCH VỤ TÂN ĐÔNG LÂN (NTNN),,Phaêm Hoa�Ng Kim Thoa,"32/12 Mê Linh, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",0938 448 615
+CRM_0240,TNHH PAPU MEDIA,2902297553,Chị Xuân,"Số 35A, Đường Nguyễn Xí",0901997128
+CRM_0241,Cty Bệnh Viện Sài Gòn Younng (Nccnn),,Chị Vân,"26 Huỳnh Đình Hai, P. Bình Thạnh",+84885979582
+CRM_0242,phần SẢN XUẤT VÀ XUẤT NHẬP KHẨU DUKA,0111706009,Nguyễn Văn Huân,"51.Louis Xvi-Lk43, Khu Đô Thị Mới Hoàng Văn Thụ",0935740337
+CRM_0243,Ctcp Nextgen Home Việt Nam,,Nguyễn Công Quyền,"Số 16 Ngách 11 Ngõ 162 Phố Đông Thiên, P. Vĩnh Hưng, Q. Hoàng Mai, Hà Nội",+84989715114
+CRM_0244,VĂN PHÒNG ĐẠI DIỆN - CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ ĐÔNG PHƯƠNG TẠI PHÚ QUỐC,,Anh Anh,"Căn B8-303 Khu Phú Quốc Waterfront, Bãi Trường, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0972 475 778
+CRM_0245,Trạm Y Tế Nghĩa Đô,5300859232,Chị Kiên,"Trạm Y Tế X. Nghĩa Đô, X. Nghĩa Đô",0913039341
+CRM_0246,Cty TNHH DỊCH VỤ THƯƠNG MẠI VŨ LINH AUTO,3703529138,Chị Vũ,"Số 691A, Đường Đt743A, Khu Phố Đông Tân 1, P. Dĩ An, TP Dĩ An, Bình Dương",+84902377627
+CRM_0247,Cty TNHH URPLANNER VINA,,Anh Wooyen,"Tầng 4, Số 37 Thiên Hiền, P. Từ Liêm, Q. Nam Từ Liêm, Hà Nội",0791 841 992
+CRM_0248,Cty TRÁI TIM MÙA THU (NTNNN),,Chị Thương,"456/30A Cao Thắng, P. Hòa Hưng, Q. 10, TP.HCM",+84974616957
+CRM_0249,Cty Tnhh Dịch Vụ Thẩm Mỹ Thebio ((Ntnn),0319801318,Trần Thị Tố Anh,"Tầng 1, 2, 3 Số 11 Hoàng Dư Khương, P. Hòa Hưng, Q. 10, TP.HCM",0912683658
+CRM_0250,"Thần - Ấp Kinh Trên, Xã Tân Điền",,Chị Lưu,"Ấp Kinh Trên, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0938707599
+CRM_0251,Công ty TNHH TBH GLOBAL VN,,Chị Woong,"Số 1151, Đường An Dương Vương, Tổ 4, P. Thống Nhất, TP Hoà Bình, Hòa Bình",+84982141023
+CRM_0252,"TRƯỜNG MẦM NON, TIỂU HỌC, TRUNG HỌC CƠ SỞ HỘI NHẬP QUỐC TẾ ISCHOOL TRÀ VINH (ĐV NỘP HỘ THUẾ NT NN)",,Anh Vân,"Số 36, Đường Quang Trung, Khóm 2, P. Trà Vinh, TP Trà Vinh, Trà Vinh",0918071154
+CRM_0253,TNHH TEAMO VIỆT NAM,0111705710,Nguyễn Hiếu Nghĩa,"Số Nhà 25, Ngõ 30 Đường Nhánh 422, X. Ô Diên, H. Đan Phượng, Hà Nội",0902 960 446
+CRM_0254,Cty TNHH KBF ASSET,,Vũ Thị Hoan,"Khu Khả Lễ 1, Đường Lê Lai",0972286839
+CRM_0255,Chi Nhánh Công Ty Tnhh Thương Mại Đồng Nhất,,Đỗ Thị Bích,"44E Đường Đặng Công Bỉnh, Ấp Nhị Xuân, X. Xuân Thới Sơn, H. Hóc Môn, TP.HCM",0932.128.869
+CRM_0256,ĐẢNG UỶ CÁC CƠ SỞ Y TẾ TPHCM,,Trần Tuấn Lĩnh,"71-73-75 Đường Đoàn Như Hải, P. Xóm Chiếu",+84911274079
+CRM_0257,Cty TNHH NOMAH VIỆT NAM (NTNN),0319801438,Nguyễn Quý Trọng,"249 � 251 Đinh Bộ Lĩnh, P. Bình Thạnh",0931138877
+CRM_0258,TNHH CÔNG NGHỆ SỐ GENERLAB � CHI NHÁNH VĨNH LONG,0314356790-004,Bùi Trần Mạnh Hiếu,"Số 144A Đường Tôn Đức Thắng, P. Phước Hậu, TP Vĩnh Long, Vĩnh Long",0886 191 314
+CRM_0259,Tnhh Nông Nghiệp Agriva (Nccnn),0319801420,Võ Chính Trung,"232/4 Bình Lợi, P. Bình Lợi Trung",+84902028175
+CRM_0260,Công ty CP PHI ANH ECO GRROUP,5500693263,Nguyễn Duy Phi,"Số Nhà 143, Đường 280, Tổ Dân Phố 19/5, P. Thảo Nguyên, Thị X. Mộc Châu, Sơn La",0937 791 979
+CRM_0261,TNHH THU GOM CHẤT THẢI BK,0319799796,Anh Lý,"564/36/5 Phạm Văn Chiêu, P. An Hội Đông",+84904836283
+CRM_0262,Cty HẰNG PHƯƠNG,,Chị Phương,"Thôn Hưng Long, X. Hồng Châu, H. Ninh Giang, Hải Dương",0794.729.448
+CRM_0263,Công ty TNHH NẾN THÀNH TÍN,0601334310,Anh Liên,"Thôn Giao Cù Thượng, X. Nam Đồng, H. Nam Trực, Nam Định",0797.409.613
+CRM_0264,Cty Cổ phần DỊCH VỤ THƯƠNG MẠI GLOBAL MIỀN BẮC,0601334303,Nguyễn Thanh Chiến,"Xóm 2, X. Giao Bình, H. Giao Thuỷ, Nam Định",0979929283
+CRM_0265,CTCP CÔNG NGHỆ VIOPLAY,,Chị Tiến,"Số Nhà M19, Khu Đô Thị Cổ Dương, X. Phúc Thịnh, H. Đông Anh, Hà Nội",0794.402.593
+CRM_0266,XUẤT VVÀ THƯƠNG MẠI TUẤN DÂN,,Bùi Quang Dân,"Thôn Hưng Đạo, X. Nam Đông Hưng, H. Đông Hưng, Thái Bình",0971 527 781
+CRM_0267,Cty THƯƠNG MẠI DỊCH VỤ NGUYỄN THỊ THU THẢO,,Nguyễn Thị Thu Thảo,"39/289 Bùi Thị Xuân, P. Thủy Xuân",+84936068323
+CRM_0268,Công Ty Tnhh Logistics Chinh Duyên,2401097024,Phạm Văn Sinh,"Tổ Dân Phố 8, P. Lạng Giang, P. Kép, Bắc Giang",0888.134.080
+CRM_0269,Cty TNHH SẢN XUẤT THƯƠNG MẠI WONDER HOUSE (NTNN),0319800064,Chị Trang,"305 Cách Mạng Tháng Tám, P. Hòa Hưng, Q. 10, TP.HCM",0979570605
+CRM_0270,HTX DỊCH VỤ NÔNG NGHIỆP PHONG HOÀ,1402239142,Anh Ngọc,"489/5, Ấp Hoà Khánh, X. Phong Hòa, H. Lai Vung, Đồng Tháp",0795.479.692
+CRM_0271,TNHH MAY DIGITAL VIỆT NAM (NTNN),0319800177,Trần Khánh Đăng,"Số 39 Đường Số 17, Khu Phố 6, P. Hiệp Bình, TP Thủ Đức, TP.HCM",+84903358376
+CRM_0272,Cty PHỤNG SỰ VẺ ĐẸP VIỆT (NTNN),0319800811,Chị Thái,"Số 37 Trần Thị Nghỉ, P. Hạnh Thông, Q. Gò Vấp, TP.HCM",0933077637
+CRM_0273,Công ty TNHH NÔNG NGHIỆPP TẬP ĐOÀN GOLDVET,0111706087,Nguyễn Văn Hiệp,"Số 10 Ngõ 90 Nam Dư, P. Vĩnh Hưng, Q. Hoàng Mai, Hà Nội",0986089172
+CRM_0274,TNHH THƯƠNG MẠI COSMO VIỆT NAM,0111706055,Lê Văn Thành,"Ô Dịch Vụ 10, Lô Số 6, Khu Đô Thị Tây Nam Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai, Hà Nội",0882 404 003
+CRM_0275,Lip Hing Industrial Việt Nam,,"Huang, Shih-Hao","Lô K1, Khu Công Nghiệp Nam Sơn � Hạp Lĩnh, X. Tân Chi, P. Tiên Du, Bắc Ninh",0797 766 314
+CRM_0276,Công Ty Tnhh Thủy Hải Sản Ngân Phát,,Chị Anh,"Thôn 3, X. Rạng Đông, H. Nghĩa Hưng, Nam Định",+84887886079
+CRM_0277,CTCP KINH DOANH BẤT ĐỘNG SẢN SINGA,,Hồ Văn Hùng,"24 Bạch Đằng, P. Tân Sơn Hòa, Q. Tân Bình, TP.HCM",0887.692.661
+CRM_0278,TNHH D&I TECH VINA,,Phạm Ngọc Xuân Nghi,"295/10B, Đường Nguyễn Thị Minh Khai, Kp Tân Long, P. Dĩ An, TP Dĩ An, Bình Dương",0905 014 767
+CRM_0279,Cty Cổ Phần Di Chuyển Xanh Và Thông Minh Gsm,,Phạm Nhật Minh Hoàng,"Tòa Văn Phòng Symphony, Đường Chu Huy Mân, Khu Đô Thị Vinhom, P. Phúc Lợi, Q. Long Biên, Hà Nội",0978.168.085
+CRM_0280,TNHH MTV THIÊN AN ĐỨC,6400485688,Chị Tứ,"Bon Điêng Đu, X. Quảng Tân",0915320223
+CRM_0281,Công Ty Tnhh Giáo Dục Lica,0111705037,Đỗ Khắc Canh,"Số 5, Ngõ 127 Tây Sơn",0917897627
+CRM_0282,TNHH GIA LƯƠNG DENTAL LAB,2301433096,Trần Quang Đạo,"Số 486 Đường Hoàng Quốc Việt, P. Vũ Ninh, TP Bắc Ninh, Bắc Ninh",0917075355
+CRM_0283,Cty THƯƠNG MẠI DỊCH VỤ SẢN XUẤT NHÔM KÍNH QUỐC BẢO,0319799556,Nguyễn Văn Quốc,"58/3N Huỳnh Tấn Chùa, Tổ 3",+84932912246
+CRM_0284,Công ty TNHH TRANG THIẾT BỊ Y TẾ VÀ DƯỢC PHẨM AN KHANG,,Vũ Thị Thúy,"Số 64, Ngõ 12, Phố Đào Tấn, P. Giảng Võ, Q. Ba Đình, Hà Nội",+84981243508
+CRM_0285,CP PHÁT TRIỂN SẢN XUẤT VÀ THƯƠNG MẠI TRANG ANNH,0111705647,Phạm Gia Hiển,"27A Phố Chợ, X. Sóc Sơn, H. Sóc Sơn, Hà Nội",+84919907969
+CRM_0286,Cty Tnhh Thương Mại Và Dịch Vụ Scent Tech (Ntnn),0319800667,Nguyễn Tuấn Lâm,"32 Đường Số 1, P. An Khánh, TP Thủ Đức, TP.HCM",+84886609820
+CRM_0287,"(LÊ VĂN DUYỆT) - ẤP BẮC, XÃ TÂN ĐIỀN",1201738896,Nguyễn Nam Tấn,"Ấp Bắc, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0974 256 858
+CRM_0288,Công ty TNHH VIAN PHÚ QUỐC,1702379905,Nguyễn Thị Hồng Vinh,"L307 Khu Đô Thị Gateway, Khu Phố 6 An Thới, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0911561190
+CRM_0289,Công ty TNHH X SPACE TIME,0111706432,Anh Jianfei,"Lô Tl-27B, Tầng B1",0906510966
+CRM_0290,Cty TNHH XUẤT NHẬP KHẨU MỘC PHÁT YUEZHONG,0700931050,Anh Tân,"Tdp Hoàng Thượng, P. Duy Hà, Thị X. Duy Tiên, Hà Nam",+84911768582
+CRM_0291,CHI NHÁNH - CÔNG TY TNHH CHIẾU SÁNG ĐÔ THỊ VẠN XUÂN,0110350462-001,Trần Văn Sáng,"Căn Pg2-21, Khu Đô Thị Vincom",0983.758.219
+CRM_0292,HTX GIA HUY NÔNG SẢN SẠCH TÂY BẮC VÀ DỊCH VỤ VẬN TẢI,5600362949,Nguyễn Viết Tới,"Thôn Thắng Lợi, X. Tuần Giáo, H. Tuần Giáo, Điện Biên",0905 340 693
+CRM_0293,Ctcp True Core Wellness(Ntnn),,Nur Athirah Lyn Chee Binti Abd,"176 Đường Nguyễn Lương Bằng, Chung Cư Riverside Residence (L, P. Tân Mỹ, Q. 7, TP.HCM",+84919769756
+CRM_0294,Cty THƯƠNG MẠI T&T MOTOR,0601334254,Hà Anh Tuấn,"Số 3/209 Thanh Bình, P. Nam Định, TP Nam Định, Nam Định",+84907554725
+CRM_0295,Cty TNHH TÔN THÉP PHƯƠNG UYÊN,3301770431,Lê Nhật Quang,"2/45 Trần Phú, P. Thuận Hóa, Q. Thuận Hóa, TP Huế",+84918770581
+CRM_0296,Cty Doyoe Ambition Trading,0319800226,Chị Xinglu,"Tầng 4, 21 Nguyễn Hiến Lê, P. Tân Bình, Q. Tân Bình, TP.HCM",0912355090
+CRM_0297,DA TĂNG CƯỜNG MẠNG LƯỚI DỊCH VỤ HỖ TRỢ TÁI HÒA NHẬP HIỆU QUẢ CHO PN DI CƯ VÀ CON CÁI CỦA HỌ TẠI VN,0111705679,Chị Hương,"39 Hàng Chuối, P. Hai Bà Trưng",0799 427 541
+CRM_0298,TNHH HANA VINA VIỆT NAM (NỘP THAY),2301433297,Nguyễn Văn Thắng,"Lô B59, Khu Đô Thị An Huy, P. Vũ Ninh, TP Bắc Ninh, Bắc Ninh",0971.206.547
+CRM_0299,Công ty TNHH THỂ THAO SUNLIGHT (NTNN),0319800642,Lưu Nguyê�N Anh Minh,"Kho 22, Số 411A, Đường Nguyễn Văn Bá, P. Thủ Đức, TP Thủ Đức, TP.HCM",0989 805 138
+CRM_0300,Phát Triển Dịch Vụ Bảo Vệ Phú Thành,0202376220,Nguyễn Thế Thái,"Số 119 Đường Trung Hành, P. Hải An, Q. Hải An, Hải Phòng",0933.910.453
+CRM_0301,Cty Lương Thực Thực Phẩm Hạt Việt,,Châu Văn Mẫn,"Số 43, Đường Nguyễn Văn Lượng, P. Gò Vấp, Q. Gò Vấp, TP.HCM",0886180324
+CRM_0302,Ctcp Safety Future Vn � Chi Nhánh Phú Thọ,2301399462-001,Chị Quân,"Đường Hùng Vương, Tdp Long Ân, P. Phú Thọ, Thị X. Phú Thọ, Phú Thọ",+84888652645
+CRM_0303,TNHH SKINMAP (NTNN),,Anh Bình,"27C Quốc Hương, P. An Khánh, TP Thủ Đức, TP.HCM",0931 731 042
+CRM_0304,Cty SX-TM CƠ KHÍ 247,3604133110,Nguyễn Thị Cúc,"Tổ 5, Ấp An Lợi, P. Long Thành, P. Long Thành, Đồng Nai",+84793165837
+CRM_0305,Công Ty Tnhh Agri Sep,6101319026,Trần Hồng Diễm,"Số 72/36 Cao Bá Quát, P. Kon Tum, TP Kon Tum, Kon Tum",0934790169
+CRM_0306,TNHH Ô TÔ TOÀN PHÁT SÀI GÒN,,Trương Thị Thanh Tâm,"09 Đường Nguyễn Cảnh Dị, P. Tân Sơn Nhất, Q. Tân Bình, TP.HCM",0939 080 405
+CRM_0307,Công Ty Tnhh Giải Pháp Sống Thông Minh Inno Việt Nam (Ntnn),,Nguyễn Khánh Duy,"Số 12 Đường Số 05, P. Tân Hưng, Q. 7, TP.HCM",0797 588 250
+CRM_0308,Công Ty Cp Bất Động Sản Cubic (Ntnn),0319800480,Anh Sang,"28 Đường Số 10, P. Tân Thuận",0902.864.052
+CRM_0309,Cty THE BRICK CONSULTING (NTNN),0319800522,Trần Khánh Ngân,"Lk6-L04 Dự Án Green Star - The Peak Garden, Số 600 Đường Ngu, P. Tân Mỹ, Q. 7, TP.HCM",0794.805.748
+CRM_0310,Cty Tnhh Coauths Vietnam (Ntnn),0319800508,Anh Hyunggyu,"Số 51 Đường Nội Khu, Hưng Thái 1, P. Tân Hưng, Q. 7, TP.HCM",0882 876 850
+CRM_0311,Cty Tư Vấn Và Đầu Tư Pegasus Group (Ntnn),,Nguyễn Hồng Nhã,"Số 2, Đông Tây 1, An Phú New City, P. Bình Trưng, TP Thủ Đức, TP.HCM",0984 190 377
+CRM_0312,Cty Cổ phần SẢN XUẤT VÀ THƯƠNG MẠI IN ẤN HOÀNG MINH (NTNN),,Chị Nhung,"80/44 Đường 17, Khu Phố 3, P. Hiệp Bình, TP Thủ Đức, TP.HCM",0977347492
+CRM_0313,Tư Phát Triển Xây Dựng Hạ Tầng Việt Nam Hưng Thịnh,4001344265,Anh Hằng,"Thửa Đất Số 436, Tờ Bản Đồ Số 7, Thôn Lục Nam, X. Hà Nha, H. Đại Lộc, Quảng Nam",+84911409048
+CRM_0314,Tnhh Nhan Anh,3604133495,Anh Sơn,"330/14/30, Tổ 114, Khu Phố 10, P. Trấn Biên, P. Trấn Biên, Đồng Nai",0906462636
+CRM_0315,Công Ty Tnhh Create One (Ntnn),0319801540,Ichimoto Katsuhiro,"66 Võ Oanh, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",+84987287098
+CRM_0316,CTCP D-SHINING (NTNN),0319801572,Chị Lan,"7C Nguyễn Ngọc Phương, P. Thạnh Mỹ Tây",0887.020.608
+CRM_0317,CTCP SẢN XUẤT THƯƠNG MẠI NAM ĐÔ (NTNN),0319800184,Anh Nhung,"2C Đường Số 10, P. Bình Trị Đông",0932.182.596
+CRM_0318,CHI NHÁNH CÔNG TY CỔ PHẦN CHANH DÂY ĐẮK NÔNG,6400445036-001,Lương Thanh Tâm,"4/1 Đường 3, P. Long Bình, TP Thủ Đức, TP.HCM",0919154885
+CRM_0319,Cty THƯƠNG MẠI BẾP AN NNAM,0111705774,Huỳnh Ngọc Sơn,"Số 188 Phố Phó Đức Chính, P. Ba Đình",0909420632
+CRM_0320,Cty TNHH JW WEDDING & EVENT ACADEMY VIỆT NAM(NTNN),0319800515,Nguyễn Thị Tuyết Trang,"Tầng 2, Tòa Nhà Saigon Paragon, Số 3, Nguyễn Lương Bằng, P. Tân Mỹ, Q. 7, TP.HCM",0886632727
+CRM_0321,Cty Vận Tải Thương Mại Phát Thành,,Anh Dương,"Tổ Dân Phố Trác Bút, P. Duy Tân, Thị X. Duy Tiên, Hà Nam",+84912674192
+CRM_0322,Cty Cp Hà Di,0319797407,Nguyễn Thị Hoàng Hà,"Số 20 Đường Số 2, Khu Dân Cư Him Lam, P. Tân Hưng, Q. 7, TP.HCM",0976905331
+CRM_0323,Cty Công Nghệ Terra Nova Lumina,3703529628,Anh Zhuli,"Số Nx C-X6B, Đường D8, Khu Công Nghiệp Phú Tân, P. Bình Dương, TP Thủ Dầu Một, Bình Dương",+84907488578
+CRM_0324,Tnhh Kỹ Thuật Năng Lượng Tất Thắng,1501176630,Nguyễn Tất Thắng,"Số Nhà 1083, Tổ 2, Ấp Đông Hòa 2, P. Đông Thành, Thị X. Bình Minh, Vĩnh Long",0791486882
+CRM_0325,Cty COLORSTYLE DETAILING (NTNN),0319800561,Chị Anh,"Lô Lk1.09, Đường N1, Khu Dân Cư Q7 Riverside Complex, P. Phú Thuận, Q. 7, TP.HCM",0977 469 697
+CRM_0326,Chăn Ga Gối Nệm Hoàng Kim (Nccnn),0319800191,Đặng Hoàng Vũ,"346 Đường 26/3, P. Bình Hưng Hòa, Q. Bình Tân, TP.HCM",0907.081.197
+CRM_0327,Cty ĐẦU TƯ PHÁT TRIỂN VICONS RMC,0901258854,Phạm Ngọc Giang,"Sao Biển 24-33, Vinhomes Ocean Park 2, X. Nghĩa Trụ, H. Văn Giang, Hưng Yên",0913 749 785
+CRM_0328,THÀNH VIÊN KHÁCH SẠN QUEEN VICTORIA,0319799764,Chị Luân,"Số 11 Đường Số 10, Khu Dân Cư Trung Sơn, X. Bình Hưng, H. Bình Chánh, TP.HCM",0917.781.682
+CRM_0329,Cty LEONIS STUDIO,0319794798,Lê Khắc Tiệp,"434/32/27M Phạm Văn Chiêu, P. Thông Tây Hội, Q. Gò Vấp, TP.HCM",0887.570.055
+CRM_0330,CTCP LAPHACO MECI (NTNN),,Chị Anh,"Số 65 Đường Số 6, Khu Phố 2",0885 778 457
+CRM_0331,Tnhh Hang Ngọc Rồng,5702240932,Hoàng Thị Năm,"Tổ 4, Khu 20, P. Cẩm Phả, TP Cẩm Phả, Quảng Ninh",0904609907
+CRM_0332,Cty THƯƠNG MẠI SẮT THÉP NAM TIẾN,1801844399,Nguyễn Thúy Hằng,"366 Ql 91, Tổ 5, Kv Thới Hoà 1, P. Thốt Nốt, Q. Thốt Nốt, Cần Thơ",0792 989 052
+CRM_0333,TNHH THƯƠNG MẠI DỊCH VỤ CƯỚI A&N (NTNN),3301770512,Châu Thùy An,"21/3 Kiệt 31 Lịch Đợi, P. Thuận Hóa, Q. Thuận Hóa, TP Huế",0972 053 272
+CRM_0334,Ctcp Bệnh Viện Mắt Quốc Tế Medic Cửu Long,1801844511,Nguyễn Thành Long,"03-04-05-06 Khu A2, Trung Tâm Thương Mại Phức Hợp Cần Thơ Ce",0988068447
+CRM_0335,TNHH K-MIOO APPAREL,0319799806,Anh Trung,"Số Nhà 86, Đường Tây Lân 1, Ấp Bắc Lân 2, X. Bà Điểm, H. Hóc Môn, TP.HCM",0933281798
+CRM_0336,THƯƠNG MẠI DỊCH VỤ TỔNG HỢP VÀ VẬN TẢI KIM THÀNH PHÁT,,Nguyễn Mai My Hạ,"Xóm 3, Thôn Thượng Giang",+84976851936
+CRM_0337,Cty Tnhh Trần Gia Hưng Yên,0901258886,Trần Xuân Học,"Tổ Dân Phố Phong Cốc, P. Thượng Hồng",0931.308.498
+CRM_0338,Cty TNHH THƯƠƠNG MẠI ĐẦU TƯ PT88 NGUYỄN VĂN,0901258741,Nguyễn Văn Văn,"Thôn Bối Khê, X. Phạm Ngũ Lão, H. Ân Thi, Hưng Yên",+84972668350
+CRM_0339,Công ty TNHH ĐẦU TƯ VẬN TẢI HẢI AN PHÁT,3703529427,Nguyễn Thanh Hải,"Thửa Đất Số 582, Tờ Bản Đồ Số 04, Đường D2B, Tổ 3, Khu Phố 1, P. Vĩnh Tân, TP Tân Uyên, Bình Dương",0984054445
+CRM_0340,Cty SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ TRÚC ANH NGỌC,3604133537,Nguyễn Ngọc Trúc Anh,"Số 153, Tổ 1, Khu Phố 2, P. Trấn Biên, P. Trấn Biên, Đồng Nai",0904 045 008
+CRM_0341,TNHH TRUYỀN THÔNG THÁI LINH,2803254453,Nguyễn Thái Sơn,"Số Nhà 02/48 Ỷ Lan, P. Hạc Thành, TP Thanh Hoá, Thanh Hoá",0988 988 647
+CRM_0342,Foods (Ntnn),0319801607,Chị Hải,"Tầng 5, 95-97-99 Hoàng Hoa Thám, P. Gia Định, Q. Bình Thạnh, TP.HCM",0937 397 288
+CRM_0343,Cty Tnhh Công Nghệ Hao Mai,3703529586,Sềnh Quang Liên,"Thửa Đất Số 370, Tờ Bản Đồ Số 36, Khu Phố An Tây, P. Tây Nam, TP Bến Cát, Bình Dương",0976 066 489
+CRM_0344,HOÀNG MINH,0901258773,Nguyễn Văn Học,"Thôn Bắc Minh Tân, X. Quang Hưng, H. Phù Cừ, Hưng Yên",+84906450487
+CRM_0345,Công ty TNHH VẬN CHUYỂN XÂY DỰNG THANH TUẤN,1501176616,Trần Thanh Tuấn,"Số 257, Tổ 2",0906 898 247
+CRM_0346,Tư Và Thương Mại Quý Linh,0901258942,Nguyễn Xuân Linh,"Đường 179, Chợ Cửu Cao, Thôn Vàng, X. Phụng Công, H. Văn Giang, Hưng Yên",0975.624.417
+CRM_0347,Công Ty Tnhh Viva Living (Vietnam),3901398014,Công Ty Tnhh Viva Living (Viet,"Nhà Xưởng A3.8, Đường D1",0973 464 490
+CRM_0348,Cty Tnhh Global Dental Minh Châu (Ntnn),0319800716,Vũ Văn Yên,"66 Hoàng Diệu 2, Khu Phố 3, P. Thủ Đức, TP Thủ Đức, TP.HCM",0798 397 198
+CRM_0349,PHÁT TRIỂN TRUYỀN THÔNG ĐA QUỐC GIA,0111705661,Chị Vinh,"Số 64, Ngõ 12",+84978951924
+CRM_0350,Cty TNHH THƯƠNG MẠI HUINAN (NTNN),0319800071,Li Lei,"Lầu 5, 41 Đường Số 10, Khu Đô Thị Sala, P. An Khánh, TP Thủ Đức, TP.HCM",+84933097564
+CRM_0351,"TRƯỜNG TIỂU HỌC, TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG SONG NGỮ QUỐC TẾ HỌC VIỆN ANH QUỐC - HUẾ(NT)",3301770495,Chị Liễu,"Đường Nguyễn Đình Tứ, P. Mỹ Thượng, Q. Thuận Hóa, TP Huế",0918 769 240
+CRM_0352,TNHH RÈM NỘI THẤT THHÙY NHI,0402366004,Nguyễn Thùy Nhi,"01A Xuân Hòa 2, P. Thanh Khê, Q. Thanh Khê, Đà Nẵng",0937452806
+CRM_0353,Cty Cp Y Tế Phúc Thịnh (Ntnn),0319801413,Dương Công Thuyên,"833 Lê Hồng Phong, P. Hòa Hưng, Q. 10, TP.HCM",0888 148 788
+CRM_0354,TNHH NHA KHOA QUỐC TẾ VINDENTAL (NTNN),,Maria-Begona Deirdre Fallon Fa,"100 Phan Xích Long, P. Gia Định",0905758415
+CRM_0355,TNHH GỖ TÂN NAM,1602238749,Văng Hùng Cường,"Số 367, Đường Châu Văn Liêm, Ấp Mỹ Hòa, X. Long Điền, H. Chợ Mới, An Giang",0976081832
+CRM_0356,"Miễu Bà Chúa Xứ - Ấp Xóm Đen, Xã Tân Điền",,Võ Văn Bình,"Ấp Xóm Đen, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0978.819.707
+CRM_0357,TRẠM Y TẾ XUÂN HÒA,5300859190,Anh Nhiêu,"Bản Mai Thượng, X. Xuân Hòa, H. Bảo Yên, Lào Cai",0981.494.303
+CRM_0358,Cty DỊCH VỤ THƯƠNG MẠI BẢO HÂN PHÚ THỌ,,Anh Ngọc,"Thôn 23 Hoàng Xá, X. Tu Vũ, H. Thanh Thuỷ, Phú Thọ",0907.439.081
+CRM_0359,MR MRS INDIA RESTAURANT,1702379743,Đinh Gia Quyền,"Sa-07-11, Grand World Resort And Villas Complex",0904 148 219
+CRM_0360,Cty Tnhh K Mart Thái Bình,1001343298,Trương Công Quyền,"Dãy Dal10, Lô 14+15",0981 556 786
+CRM_0361,Cty VẠN THUẬN PHÁT FOOD,1501176662,Chị Nghĩa,"Thửa Đất Số 57, Tờ Bản Đồ Số 70, Ấp Long Khánh, X. Bình Phước, H. Mang Thít, Vĩnh Long",0794442966
+CRM_0362,CTCP VIỆN MẮT QUỐC TẾ VIỆT - NGA THÀNH PHỐ HỒ CHÍ MINH (NTNN),0319800120,Dương Chí Đạt,"Số 1, Đường 3/2, P. Vườn Lài, Q. 10, TP.HCM",+84987486103
+CRM_0363,Công Ty Tnhh Thương Mại Dịch Vụ Vận Tải Thủy Nội Địa Quang Thạnh,,Nguyễn Quang Thạnh,"Nhà Ông Nguyễn Quang Thạnh, Thôn Hổ Đội, X. Thái Thụy, H. Thái Thụy, Thái Bình",+84981687390
+CRM_0364,Hợp Tácc Xã Dịch Vụ Nông Nghiệp Công Nghệ Cao Đông Nam,2803254340,Nguyễn Hữu Giáp,"Tdp Đông Nam, P. Đông Quang, TP Thanh Hoá, Thanh Hoá",0973 428 650
+CRM_0365,TNHH MTV DVTM TUẤN LONG,2803254407,Chị Tuấn,"Số Nhà 35, Thôn Bái Thủy",0885924137
+CRM_0366,Cty Xuất Nhập Khẩu Phát Lộc Group,1501176648,Anh Thơ,"Số 195 Tổ 11 Khóm Long Quới, P. Thanh Đức, TP Vĩnh Long, Vĩnh Long",0906766694
+CRM_0367,Văn Phòng Đại Diện Tại Vĩnh Long Công Ty Cổ Phần Litraco,1301125928-002,Phạm Thế Vinh,"64N Phan Văn Đáng, P. Long Châu, TP Vĩnh Long, Vĩnh Long",0986.037.402
+CRM_0368,Cty Tnhh Yla Cosmetics,,Côngtytnhhyla Cosmetics,"Số Nhà 146 Thôn An Thượng, X. Hòa Phú, H. Chương Mỹ, Hà Nội",0883832521
+CRM_0369,CHI NHÁNH CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DỊCH VỤ ĐỈNH PHONG TẠII HÀ NỘI,0111706672,Phạm Thanh Sơn,"212 Lò Đúc, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",0932.371.309
+CRM_0370,Cty Cp Med Connect Media,0111706665,Trần Minh Đức,"Tầng 3, Tòa Nhà 139 Triệu Việt Vương, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",+84905322222
+CRM_0371,Dịch Vụ Tổng Hợp Xã Đức Quang,,Anh Thạch,"Thôn Hạ Tứ, X. Đức Quang",+84918229842
+CRM_0372,Công ty TNHH EDU FUTURE & PARTNERS (NTNN),0319801692,Trần Hoàng Minh,"1/6/3A Đinh Bộ Lĩnh, P. Gia Định",+84798683198
+CRM_0373,TNHH ĐẦU TƯ TMTT VĨNH LONG,,Chị Cung,"Số 655/1, Đường Nguyễn Duy",0919 585 096
+CRM_0374,Cty TM&DV LOGISTICS ĐẠI THẮNG,,Anh Thương,"Số 714, Đường Nguyễn Duy",0932 987 821
+CRM_0375,Cty TNHH BILTONGSHOP,2902297560,Chu Đức Lợi,"Khu Đô Thị Vinaconex 9- Nv10-03, Khối Tân Phú 1, P. Vinh Phú, TP Vinh, Nghệ An",0797276445
+CRM_0376,MẠI - ĐẦU TƯ PHƯƠNG LINH (NTNN),,Công Ty Tnhh Thương Mại - Đầu,"64/4 Võ Oanh, P. Thạnh Mỹ Tây, Q. Bình Thạnh, TP.HCM",0913.836.682
+CRM_0377,Cty 27/7 KHÁCH SẠN CƯỜNG THANH 3 (NTNN),0319801653,Vũ Ngọc Cường,"Số 252/43 - 45 Cao Thắng, P. Hòa Hưng, Q. 10, TP.HCM",0885 035 222
+CRM_0378,Art Academy (Ntnn),0319801389,Anh Thiện,"9/3 Nguyễn Huy Tưởng, P. Gia Định, Q. Bình Thạnh, TP.HCM",0912017664
+CRM_0379,Công ty TNHH AN CORNER (NTNN),,Anh Thanh,"135/1/84 Đường Nguyễn Hữu Cảnh, P. Thạnh Mỹ Tây",0974 655 168
+CRM_0380,Cty TNHH TẬP NGHĨA HÙNG VƯƠNG,2601166476,Nguyễn Viết Hiệp,"Thôn Chanh, X. Thanh Sơn",+84889748749
+CRM_0381,Cty TNHH TIM GLOBAL,3703529635,Nguyễn Văn Hảo,"21 Lô F3, Đường Số 1, Kdc Vĩnh Phú 2, Khu Phố Phú Hội, P. Bình Hòa, TP Thuận An, Bình Dương",0901818369
+CRM_0382,Cty Cp Bệnh Viện Mắt Sài Gòn Đồng Tháp,1402239199,Chị Thêm,"303 Phạm Hữu Lầu, P. Cao Lãnh",0914.839.541
+CRM_0383,CTCP LUMINA,0111705703,Trịnh Đức Kiên,"Số 172 Đường Bưởi, P. Giảng Võ, Q. Ba Đình, Hà Nội",0916 139 733
+CRM_0384,Công Ty Cp Thương Mại An Ngọc Tâm,1702379831,Anh Hiếu,"124 Trần Hưng Đạo, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0793632722
+CRM_0385,Cty Tnhh Thụy Phong Phú Thọ,,Anh Huyền,"Tiểu Khu 11, X. Lương Sơn, H. Lương Sơn, Hòa Bình",0971.701.907
+CRM_0386,Cty TNHH SẢN XUẤT VÀ THƯƠNG MẠI NHỰA SONG HÀ,,Anh Cường,"Số Nhà 16, Đường Hồng Thịnh, Thôn 11, X. Tam Nông, H. Tam Nông, Phú Thọ",0932.071.817
+CRM_0387,Liên Đoàn Lân Sư Rồng Tỉnh Vĩnh Long,2100721552,Lê Thanh Sang,"49B Ấp Lê Văn Quới, X. Tập Ngãi",0919.844.476
+CRM_0388,Htx Công Nghệệ Aff,0111705728,Hoàng Văn Tâm,"Số 08 - A11 Khu Đô Thị Geleximco An Khánh, X. An Khánh, H. Hoài Đức, Hà Nội",0972 283 034
+CRM_0389,"Miễu Bà Chúa Xứ - Ấp Gò Me, Xã Tân Điền",,Huỳnh Văn Trọn,"Ấp Gò Me, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0981 694 072
+CRM_0390,Cty Cổ Phần Xuân Hoàng Green,5400577104,Phạm Ngọc Hân,"Thôn 7, X. An Nghĩa",0989 538 044
+CRM_0391,Tm Dv Habela Home (Mst Nộp Thay Ntnn),,Đặng Trọng Nhân,"24/11, Ấp 16",0916287838
+CRM_0392,"ĐÌNH THẦN - ẤP GÒ ME, XÃ TÂN ĐIỀN",1201738871,Nguyễn Văn Hải,"Ấp Gò Me, X. Tân Điền, H. Gò Công Đông, Tiền Giang",0936 148 195
+CRM_0393,Công Ty Tnhh Thương Mại Dược Phẩm Trung Quân,,Chị Quân,"Xóm Thầy, Thôn Mỹ Lương, X. Trần Phú, H. Chương Mỹ, Hà Nội",+84912200085
+CRM_0394,Cty TNHH PHẦN MỀM SÁNG TẠO FPT,0402366036,Doãn Phú Tài,"Tòa Nhà Fpt Complex, Đường Nam Kỳ Khởi Nghĩa, P. Ngũ Hành Sơn, Q. Ngũ Hành Sơn, Đà Nẵng",0797.068.716
+CRM_0395,Cty TNHH THƯƠNG MẠI DỊCH VỤ KHÁNH VY PHÚ QUỐC,,Trần Khánh Vy,"Tổ 4, Khu Phố Cửa Lấp Dương Tơ, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0971 025 202
+CRM_0396,Công Ty Cp Mayconnect,0111706792,Phạm Xuân Hiếu,"Sb24-36, Sao Biển 24, Kđt Vinhomes Ocean Park, X. Gia Lâm, H. Gia Lâm, Hà Nội",0983.123.500
+CRM_0397,Cty Sản Xuất Dịch VVụ & Thương Mại Phúc Khang,0111706658,Phạm Thị Thùy An,"Số 7B Ngõ 88 Phố Ngũ Nhạc, P. Vĩnh Hưng, Q. Hoàng Mai, Hà Nội",0792.200.793
+CRM_0398,TOYOTA ĐẮK LẮK,,Anh Danh,"Số 167 Nguyễn Thái Bình, P. Tân Lập, Tp.buôn Ma Thuột, Đắk Lắk",0987873632
+CRM_0399,Cty LE MAISON,0111706577,Bùi Văn Dương,"Số 66 Xuân Diệu, P. Tây Hồ, Q. Tây Hồ, Hà Nội",0884425359
+CRM_0400,Công Ty Tnhh Slowlife (Ntnn),0319801300,Kim Kwangjin,"88 Lê Văn Thiêm, P. Tân Hưng, Q. 7, TP.HCM",0794 343 131
+CRM_0401,Công ty TNHH THANG MÁY VÀ THIẾT BỊ MAY PHÁT,,Phùng Văn Lâm,"Nhà Số 3, Ngõ 9 Đường Vạn Phúc",+84886746674
+CRM_0402,Tnhh Đầu Tư Và Phát Triển Hợp Minh Bms,,Lý Quang Hợp,"Số 39 Đường D12, Kdc Hồng Loan",0794118923
+CRM_0403,Công ty TNHH NĂNG LƯỢNG GCL (VIỆT NAM) (NTNN),,Wang Tong,"Tầng 21, Số 5 Công Trường Mê Linh, P. Sài Gòn, Q. 1, TP.HCM",0792609282
+CRM_0404,Công ty CP ĐẦU TƯ HẠ TẦNG NƯỚC CHÂU ÂU (NTNN),0319801798,Anh Mỹ,"Lầu 1, Tòa Nhà Thanh Dung, 179 Nguyễn Cư Trinh, P. Cầu Ông Lãnh, Q. 1, TP.HCM",0792 516 462
+CRM_0405,Sản Lâm Trường Giang,0901258879,Chị Trường,"Chợ Thương Mại Thôn Trai Trang, X. Yên Mỹ, H. Yên Mỹ, Hưng Yên",0793350976
+CRM_0406,Cty TNHH XÂY DỰNG CẦU ĐƯỜNG TRANG TRỌNG,1301177002,Chị Triều,"Thửa Đất Sổ 887, Tờ Bản Đồ Số 24 , Ấp Quới Sơn, X. Giao Long, H. Châu Thành, Bến Tre",0905240778
+CRM_0407,Phần Truyền Thông Thương Mại Và Dịch Vụ Carrox,,Ngô Xuân Thế,"Số 104 Ngõ 381 Nguyễn Khang, P. Yên Hòa",0979.705.253
+CRM_0408,Công ty CP VẬT LIỆU XÂY DỰNG TIẾN PHÁT,5500693256,Anh Ngọc,"Tổ Dân Phố Bó Bun, P. Vân Sơn, Thị X. Mộc Châu, Sơn La",0931928777
+CRM_0409,Cty Thời Trang Tono Việt Nam,,Bùi Xuân Sơn,"Thửa Đất 587, Khu Dịch Vụ Kđt Kim Chung Di Trạch, X. Hoài Đức, H. Hoài Đức, Hà Nội",+84914721230
+CRM_0410,TNHH QUẢN LÝ CHUỖI CUNG ỨNG SEAWING,0700931082,Nguyễn Thanh Xuân,"Phố Nguyễn Tri Phương, Khu Đô Thị Đồng Văn Xanh, Tdp Đông Hả, P. Duy Hà, Thị X. Duy Tiên, Hà Nam",0984.730.467
+CRM_0411,Cty Tnhh Abenla (Ntnn),0319800730,Nguyễn Văn Hải,"594/12 Sư Vạn Hạnh, P. Vườn Lài",0975 647 863
+CRM_0412,Cty TNHH SHIP THUOC,0319799877,Nguyễn Hoàng Quân,"427 Đỗ Văn Dậy, Ấp 27, X. Hóc Môn, H. Hóc Môn, TP.HCM",0794 194 083
+CRM_0413,Vụ Nông Nghiệp Hương Ngọc,2500789273,Trần Viết Hùng,"Ngọc Canh, X. Bình Xuyên",0887000222
+CRM_0414,TNHH SẢN XUẤT VÀ THƯƠNG MẠI LEADAN (MST NỘP THAY NTNN),0319799965,Anh Trường,"37/8B Đường Ấp Đông 1-2, Ấp 78",0984605297
+CRM_0415,TNHH TRAINING UNIPATH,0111705573,Hoàng Thị Thu Hằng,"Thôn 2, X. Bát Tràng, H. Gia Lâm, Hà Nội",0902 838 871
+CRM_0416,TNHH ASENA HOTELS � CHI NHÁNH PHÚ QUỐC � TUANA HOTELS � SONAGA BEACH RESORT,1702379895,Chị Trang,"Khu Tổ Hợp Du Lịch Sonasea Villas And Resort, Tổ 5, Khu Phố, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",+84983818720
+CRM_0417,Cửa Hàng Điện Máy Đức Cường,,Anh Đức,"Kios 4B Hoàng Văn Thụ, P. Tân Sơn Nhất",0798602284
+CRM_0418,Công TTy Tnhh Sản Xuất Thương Mại Và Dịch Vụ Hồng Quang Trần,2701017767,Chị Thu,"Thôn Xuân Thành, X. Lai Thành",0903 677 063
+CRM_0419,Công ty TNHH AN NÔNG AGRI,,Phạm Thanh Liêm,"263 Đường Liêu Bình Hương, Ấp Tân Thành 2, X. Củ Chi, H. Củ Chi, TP.HCM",0793.156.418
+CRM_0420,Cty THƯƠNG MẠI VÀ DỊCH VỤ BÁCH BẢO,,Phạm Thị Thanh Nga,"Thôn Hải Nham, P. Nam Hoa Lư, TP Hoa Lư, Ninh Bình",0971.568.873
+CRM_0421,Cty Tnhh Thương Mại Xây Dựng Điền Xá,,Anh Vũ,"Thôn Chiến Thắng, X. Điền Xá, H. Tiên Yên, Quảng Ninh",0795 108 116
+CRM_0422,"PHÒNG TÀI NGUYÊN, NÔNG NGHIỆP VÀ XÂY DỰNG XÃ NINH PHƯỚC",4500688624,Nguyễn Thị Hồng Nhung,"Thôn Phú Quý 1, X. Ninh Phước, H. Ninh Phước, Ninh Thuận",0884 192 020
+CRM_0423,Công ty TNHH DỊCH VỤ CHĂM SÓC SẮC ĐẸP NHẬT LINH,0319801491,Anh Thúy,"Tầng 27, Tòa Nhà Trụ Sở Điều Hành Và Trung Tâm Thương Mại Vi, P. Hòa Hưng, Q. 10, TP.HCM",0972.591.835
+CRM_0424,phần THỦY ĐIỆN AYUN 2,,Nguyễn Tuấn Anh,"Thôn Groi, X. Lơ Pang, H. Mang Yang, Gia Lai",0916626967
+CRM_0425,CUBICSTACK SOLUTIONS (NTNN),,Nguyễn Trần Phương Duy,"Lầu 5, 546-548 Cách Mạng Tháng Tám, P. Nhiêu Lộc, Q. 3, TP.HCM",0975 688 206
+CRM_0426,Ctcp Kinh Doanh Địa Ốc Nam Dương (Nộp Thay),2301433339,Chị Tài,"Đường Nguyễn Cao Kéo Dài, Khu Khả Lễ 2",+84881070218
+CRM_0427,Cty TNHH NHA KHOA ELITE (NTNN),0319801011,Anh Như,"75 Huỳnh Tịnh Của, P. Xuân Hòa, Q. 3, TP.HCM",0974 564 815
+CRM_0428,VĂN PHÒNG ĐẠI DIỆN - CÔNG TY CỔ PHẦN TRICONS GROUP,0109130092-001,Nguyễn Đăng Đông,"Số Nhà 22, Ngõ 6, Nguyễn Đức Cảnh, Tổ 9, Khu Phố 3, P. Bỉm Sơn, Thị X. Bỉm Sơn, Thanh Hoá",0975622111
+CRM_0429,Công ty TNHH THƯƠNG MẠI VÀ DỊCH VỤ TUẤN MINH TH,,Chị Đức,"Tại Nhà Ông Quách Văn Đức, Thôn Nghĩa Đụng, X. Hà Long, H. Hà Trung, Thanh Hoá",0792.859.833
+CRM_0430,Công ty CP BETTER LIVING VIỆT NAM,0319798626,Trần Thị Liên,"Tầng 8, Tòa Nhà Sgr, 167-169 Điện Biên Phủ, P. Tân Định, Q. 1, TP.HCM",+84938789251
+CRM_0431,Công Ty Tnhh Dịch Vụ Nguyễn Quốc,,Anh Chiến,"87 Ngô Quyền, P. Sơn Tây, Thị X. Sơn Tây, Hà Nội",0919 556 305
+CRM_0432,SX VÀ TM NAM NGỌC LINH,4601682192,Nguyễn Thị Hương,"Tổ Dân Phố Đồng Quán, P. Phổ Yên, TP Phổ Yên, Thái Nguyên",+84931557485
+CRM_0433,Cty Tnhh Hv Holdings Global (Ntnn),0319801406,Đồng Thanh Sơn,"257 Bình Lợi, P. Bình Lợi Trung",0795.734.079
+CRM_0434,Cty ĐẦU TƯ VÀ PHÁT TRIỂN THƯƠNG MẠI ĐẠI THẮNG PHÁT 86,2100721513,Quách Đại Thắng,"125C Quang Trung, P. Trà Vinh, TP Trà Vinh, Trà Vinh",+84905194664
+CRM_0435,EDU FUTURE & PARTNERS (NCCNN),0319801685,Trần Hoàng Minh,"1/6/3A Đinh Bộ Lĩnh, P. Gia Định, Q. Bình Thạnh, TP.HCM",0919 294 398
+CRM_0436,Công Ty Tnhh Dịch Vụ Tư Vấn & Đào Tạo Doanh Nghiệp Facs (Việt Nam) (Ntnn),0319801678,Nguyễn Hoàng Tú,"31/3A Nguyễn Văn Lạc, P. Thạnh Mỹ Tây",0907.834.438
+CRM_0437,Cty Rio,,Nguyễn Tiến Hưng,"Tổ 5, Khu Phố Cửa Lấp Dương Tơ, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0988624275
+CRM_0438,Văn Phòng Đại Diện Công Ty Tnhh Ohfun Terrazzo Việt Nam,,Wang Zhigang,"Tony Homestay, Khu Phố 4 (Hẻm Nhà Tù Phú Quốc), An Thới, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0938825890
+CRM_0439,Cty SẢN XUẤT THƯƠNG MẠI CHẤN KHANG (NTNN),,Chị Quyên,"74-74B Cao Thắng, P. Bàn Cờ",0977 919 615
+CRM_0440,Tnhh Cacao Heyday (Ntnn),0319801029,Chị Sơn,"Tầng 3 Tòa Nhà An Phú Plaza, 117-119 Lý Chính Thắng, P. Xuân Hòa, Q. 3, TP.HCM",0884.053.533
+CRM_0441,Cty TNHH THƯƠNG MẠI DỊCH VỤ DU LỊCH HAY TOUR (NTNN),,Trần Văn Trường,"434 Nguyễn Đình Chiểu, P. Bàn Cờ, Q. 3, TP.HCM",0933 902 673
+CRM_0442,Cty LEADVIEW (NTNN),,Hoàng Bảo Quốc,"518/8 Cách Mạng Tháng Tám, P. Nhiêu Lộc",0907 803 447
+CRM_0443,Tnhh Rongtong Việt Nam,2301433201,"Pei, Kun","Cl2-18 Thuộc Khu Đô Thị Him Lam Green Park, P. Võ Cường, TP Bắc Ninh, Bắc Ninh",0985719700
+CRM_0444,ỦY NHIỆM THU - UBND PHƯỜNG CHIỀNG CƠI,,Anh Vàng,"Số 55, Đường Hoàng Quốc Việt, P. Chiềng Cơi, P. Chiềng Cơi, TP Sơn La, Sơn La",0985893974
+CRM_0445,Công Ty Tnhh Vina Must Tech,2301433272,Anh Nhung,"Lô Số 10, Cn1",0888255681
+CRM_0446,Cty Infinity Software (Ntnn),0319800963,Võ Ngọc Hải Châu,"Tầng 3, Tòa Nhà Acm, 96 Cao Thắng, P. Bàn Cờ, Q. 3, TP.HCM",0795.619.620
+CRM_0447,Cty Oshima'S (Ntnn),0319800956,Chị Khải,"2/37 Cao Thắng, P. Bàn Cờ",0906889776
+CRM_0448,Công Ty Tnhh Kinh Doanh Tmth Nghiêm Thương,1102193602,Nghiêm Thị Thương,"Thửa Đất Số 18, Tờ Bản Đồ Số 120, Đường 824, Ấp 2, X. Đức Hòa, H. Đức Hoà, Long An",+84912208614
+CRM_0449,Tnhh Thiết Kế Và Xây Dựng 945 Design & Build,,Anh Lộc,"108 Trần Đình Xu, P. Cầu Ông Lãnh",0986 852 667
+CRM_0450,Công ty TNHH TRANOVA,,Trương Thành Lâm,"69 Tân Hải, P. Tân Bình, Q. Tân Bình, TP.HCM",0886 310 700
+CRM_0451,ĐẠI DIỆN 2 CÔNG TY TNHH BMS SERVICE,0319461904-002,Chị Hùng,"D8-53, Đường Số 2, Khu Đô Thị Tây Bắc, P. Rạch Giá, TP Rạch Giá, Kiên Giang",+84988470965
+CRM_0452,TNHH ĐẦU TƯ XÂY DỰNG TÂN AN,,Anh Viết,"Số 168A1, Đường Nguyễn Tri Phương",0883078295
+CRM_0453,Công Ty Tnhh Dv Hỗ Trợ Đăng Kiểm Việt Nam,0402365748,Võ Hoàng Uyên,"Số 17 Đường Trần Đại Nghĩa, P. Ngũ Hành Sơn",0905215380
+CRM_0454,Cty Tnhh Một Thành Viên Thương Mại Sản Xuất An Khánh Phát,3801363681,Bùi Thị Nga,"Số Nhà 150, Thôn Phú Hiệp, P. Phước Bình, P. Phước Bình, Bình Phước",0792.353.156
+CRM_0455,BAN QUẢN LÝ DI TÍCH XÃ BẢO YÊN,,Đàm Thị Hoài An,"Thôn 3B, X. Bảo Yên, H. Bảo Yên, Lào Cai",0932.814.536
+CRM_0456,Ctcp Nha Khoa Thật (Ntnn),0319800949,Công Ty Cổ Phần Nha Khoa Thật,"254 Điện Biên Phủ, P. Xuân Hòa, Q. 3, TP.HCM",+84882014370
+CRM_0457,Cty Tnhh Truyền Thông Rankbraino (Ntnn),,Anh Sang,"520 Cách Mạng Tháng 8, P. Nhiêu Lộc, Q. 3, TP.HCM",0917115492
+CRM_0458,Cty MỘT THÀNH VIÊN LADOFOODS (NTNN),,Nguyễn Phú Huy,"221 Điện Biên Phủ, P. Xuân Hòa, Q. 3, TP.HCM",0886.241.276
+CRM_0459,Công ty TNHH MỖI NGÀY (NTNN),0319800875,Nguyễn Lê Thảo Anh,"116/3B Trần Quốc Toản, P. Xuân Hòa",0913.540.726
+CRM_0460,Cty Tnhh Ppf Pro,,Anh Phương,"1130 Huỳnh Tấn Phát, P. Tân Mỹ, Q. 7, TP.HCM",+84798699856
+CRM_0461,Công ty TNHH HOÀNG TRÁC,,Nguyễn Thị Phượng,"Thôn Đoàn Kết, X. Toàn Thắng",0903429719
+CRM_0462,QUY NHƠN - CÔNG TY LUẬT TRÁCH NHIỆM HỮU HẠN DL PINNACLE,0315460498-003,Hồ Văn Ngọc,"(Tầng 1-2) 101 Bế Văn Đàn, P. Quy Nhơn Nam, TP Quy Nhơn, Bình Định",0799.257.636
+CRM_0463,TNHH MTV TIÊU DAO CÁC,0319797090,Trần Hoài Nam,"21 Đường 79, P. Tân Hưng, Q. 7, TP.HCM",0973 760 394
+CRM_0464,TNHH WEHUB,0111703897,Nguyễn Thị Vân Anh,"Số 143 X. Đàn 2, P. Đống Đa, Q. Đống Đa, Hà Nội",0931 922 491
+CRM_0465,TNHH SCHMOLL ASIA PACIFIC VIỆT NAM (NỘP THAY),2301433177,Kuhn Thomas,"Phòng 232, Tầng 2, Tòa Nhà Hoàng Hà, Đường Lê Thái Tổ, P. Võ Cường, TP Bắc Ninh, Bắc Ninh",0912.951.127
+CRM_0466,Công Ty Cp Onair (Cq Tm�T),0319797809,Nguyễn Chi Lăng,"122/7-9 Đường Đặng Văn Ngữ, P. Phú Nhuận",+84792015905
+CRM_0467,Cty Cổ phần ĐẦU TƯ KINH DOANH TẬP ĐOÀN HA,0202376446,Chị Hạ,"Số 45/591 Đường Thiên Lôi, P. An Biên, Q. Lê Chân, Hải Phòng",0938 846 631
+CRM_0468,Kim Anh Tinh (Mst Nộp Thay Ntnn),,Chị Sang,"Số 9/6/1/81 Thạnh Xuân 24, P. Thới An, Q. 12, TP.HCM",0971 397 479
+CRM_0469,Cty Tnhhh Đầu Tư Phát Triển Công Nghệ Hd,0319798270,Trần Văn Dũng,"191 Đỗ Bí, P. Phú Thạnh, Q. Tân Phú, TP.HCM",0911555691
+CRM_0470,TNHH TM DV VÀ SX HÀ AN,0319797573,Anh Dương,"45/43 Võ Thị Đầy, X. Đông Thạnh, H. Hóc Môn, TP.HCM",+84884067275
+CRM_0471,Công ty CP ĐẦU TƯ PHÁT TRIỂN THANH LONG GROUP (NTNN),,Bùi Duy Nam,"Số 529 Nguyễn Oanh, P. Gò Vấp, Q. Gò Vấp, TP.HCM",0918.805.823
+CRM_0472,TNHH THƯƠNG MẠI DỊCH VỤ AMG AUTO,3703529106,Nguyễn Văn Hóa,"Thửa Đất Số 1628, Tờ Bản Đồ 56 (E5.3), Đường N3, Khu Dân Cư, P. Tân Đông Hiệp, TP Dĩ An, Bình Dương",0888109464
+CRM_0473,BĂNG KEO HỢP PHÁT,3703529297,Huỳnh Tấn Lào,"965 Đường Dt743 Khu Phố Tân Long, P. Dĩ An, TP Dĩ An, Bình Dương",0918744533
+CRM_0474,Công ty TNHH THƯƠNG MẠI VÀ ĐẦU TƯ ĐỨC HÙNG,,Lê Công Đức,"Đường Quang Trung, P. Đồng Hới, TP Đồng Hới, Quảng Bình",0973.511.240
+CRM_0475,Công ty TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ ĐẠI HƯNG PHÁT,0319795738,Chị Phúc,"1/35D Ấp Đình, X. Hóc Môn",0792 007 440
+CRM_0476,Cty TNHH L&T COMMERCE VIỆT NAM,0111704315,Đỗ Thế Thường,"Số 48, Ngõ 79, Đường Bát Phúc, Kđt Tân Tây Đô, X. Ô Diên, H. Đan Phượng, Hà Nội",0915494340
+CRM_0477,MÁY MÓC SAMAN (VIỆT NAM) (NỘP THAY),,Anh Cheng,"Khu Đất Mới - Khu Xuân Ổ A, P. Võ Cường",0909014438
+CRM_0478,Cty Tnhh Thương Mại Dịch Vụ Công Nghệ Thế Giới Máy Tính,,Trần Trung Đức,"537 Trần Phú, P. B'lao, TP Bảo Lộc, Lâm Đồng",0902 491 263
+CRM_0479,Công Ty Luật Trách Nhiệm Hữu Hạn Aca,0111703784,Tạ Ngọc Duy,"Tầng 6, Số 107 Nguyễn Phong Sắc, P. Cầu Giấy, Q. Cầu Giấy, Hà Nội",0884.460.521
+CRM_0480,Công ty TNHH DỊCH VỤ VẬN TẢI DŨNG TUYẾN,2500789185,Trương Văn Dũng,"Thôn Trung Mầu, X. Bình Tuyền",+84918891753
+CRM_0481,Cty Cổ phần QUẢN LÝ CCHUỖI CUNG ỨNG XANH JIT,2500789160,Chị Oanh,"Lô D18, Khu Công Nghiệp Bá Thiện Ii, X. Bình Tuyền, H. Bình Xuyên, Vĩnh Phúc",0986 989 491
+CRM_0482,VĂN PHÒNG LUẬT SƯ ĐÌNH PHỔ,,Nguyễn Đình Phổ,"Thôn Đồng Văn, X. Đồng Lê, H. Tuyên Hoá, Quảng Bình",0935.000.773
+CRM_0483,Công ty TNHH QUỐC TẾ HACACA,0319798400,Chị Châu,"74/19 Vườn Lài, P. Phú Thọ Hòa",+84908884561
+CRM_0484,Công ty TNHH GIẢI PHÁP CÔNG NGHỆ BLUETECH (NỘP THAY NTNN),4101701295,Đinh Thành Tài,"29/35 Đường 1/5, P. Quy Nhơn, TP Quy Nhơn, Bình Định",+84932292344
+CRM_0485,Cty TNHH AUSSIE SECUREE & CO (NỘP THAY NTNN),,Nguyễn Ngọc Thanh,"Lô C64, Khu Đô Thị Thương Mại Bắc Sông Hà Thanh (Khu C), P. Quy Nhơn Đông, TP Quy Nhơn, Bình Định",0799.123.077
+CRM_0486,Ctcp Tc Auto Việt Nam,0111702237,Chị Tuấn,"Đường 48, Thôn Yên Vinh, X. Quang Minh, H. Mê Linh, Hà Nội",0977.550.273
+CRM_0487,Công ty TNHH THƯƠNGG MẠI VÀ ĐẦU TƯ NHẬT GIA NGUYÊN,0111703946,Đinh Thành Tài,"Số 78B Ngách 173/68 Hoàng Hoa Thám, P. Ngọc Hà",+84796987049
+CRM_0488,Công Ty Luật Hợp Danh Đại An Phát-Chi Nhánh Quảng Ninh,,Anh Nga,"Số 85 Lê Thanh Nghị, P. Cẩm Phả, TP Cẩm Phả, Quảng Ninh",0881 353 738
+CRM_0489,Cty Tmdv Dt Nguyễn Kim Anh,,Nguyễn Thị Kim Anh,"122 Tỉnh Lộ 9 Ấp Rừng Sến, X. Đức Lập, H. Đức Hoà, Long An",+84799257575
+CRM_0490,Công Ty Luật Trách Nhiệm Hữu Hạn Một Thành Viên Trí Huệ Và Cộng Sự,,Anh Huệ,"Số Nhà 74, Đường Lý Thường Kiệt, Tổ Dân Phố 9, P. Nam Đông Hà, TP Đông Hà, Quảng Trị",0981677053
+CRM_0491,HTX THƯƠNG MẠI DỊCH VỤ VÀ XÂY DỰNG GIA PHÚC,,Nguyễn Thanh Ánh,"Long Châu, X. Đồng Xuân, H. Đồng Xuân, Phú Yên",0971085380
+CRM_0492,Cty Kochi Việt Nam (Nccnn),0319798753,Anh Nam,"1004/5A Đường Hương Lộ 2, P. Bình Trị Đông",0795 270 603
+CRM_0493,LẮP THÀNH TRRUNG,6300399918,Nguyễn Hồng Vũ,"Thửa Đất Số 2791, Tờ Bản Đồ Số 03, Ấp Thuận Hưng, X. Châu Thành, H. Châu Thành, Hậu Giang",0901.376.043
+CRM_0494,Cty TNHH PHÒNG KHÁM QUỐC TẾ HELIO,0319798986,Quách Kim Loan,"305 Đường 3/2, P. Vườn Lài",0884588598
+CRM_0495,"VĂN PHÒNG ĐẠI DIỆN HEBEI NONGSYN TENGGE NANOTECHNOLOGY CO., LTD. TẠI THÀNH PHỐ HỒ CHÍ MINH",,Tạ Thị Thục,"Số 177/40, Đường Văn Thân, P. Bình Tiên, Q. 6, TP.HCM",+84974571184
+CRM_0496,Cty Thương Mại Và DDịch Vụ Shc,0202376534,Đỗ Tiến Cường,"L519 Khu Đô Thị Him Lam Hùng Vương, P. Hồng Bàng, Q. Hồng Bàng, Hải Phòng",0983 799 479
+CRM_0497,Tnhh Thương Mại Và Dịch Vụ Lâm Bầu Xô,0111704668,Nguyễn Sơn Lâm,"Thôn Cổ Châu, X. Phú Xuyên, H. Phú Xuyên, Hà Nội",0938.901.341
+CRM_0498,Công Ty Tnhh Xây Dựng Và Thương Mại Vũ Ánh,2803254284,Lê Nguyên Vũ,"Số Nhà 874 Lê Thái Tổ, X. Triệu Sơn, H. Triệu Sơn, Thanh Hoá",+84938733278
+CRM_0499,"Văn Phòng Đại Diện Shanghai Baosight Software Co., Ltd Tại Thành Phố Hà Nội",0111703777,Tong Hui,"Phòng 13, Tầng 11, Tòa Nhà Cv Tower, Số 117 Đường Trần Duy H, P. Yên Hòa, Q. Cầu Giấy, Hà Nội",0977.400.744
+CRM_0500,"THÔNG, THƯƠNG MẠI VÀ DỊCH VỤ SOL ENTERTAINMENT",0319797083,Ngô Hoàng Uyển Vi,"Số 21 Hẻm Vườn Điều, P. Tân Hưng, Q. 7, TP.HCM",0979405462
+CRM_0501,CÔNG TY CP THƯƠNG MẠI VÀ DỊCH VỤ NKMEDIA,2500789202,Nguyễn Văn Kiên,"Nhà Ông Lưu Văn Tư, Tdp Đồng Lý, X. Xuân Lãng, H. Bình Xuyên, Vĩnh Phúc",+84911766964
+CRM_0502,Cty TNHH GRGR,3703529272,Phạm Quang Nhật,"Số 26/30, Khu Phố Bình Đường 1, P. Dĩ An, TP Dĩ An, Bình Dương",+84916295368
+CRM_0503,Tnhh Thương Mại Dịch Vụ Sức Khỏe Khoa Học,,Lê Quỳnh Trang,"Tầng 3, Số 159 Đường Nguyễn Tất Tố",0903 417 357
+CRM_0504,Hospitality Vietnam,,Li Gennadii,"90 - 92 Dương Tự Minh, P. An Hải, Q. Sơn Trà, Đà Nẵng",0794.249.276
+CRM_0505,Công Ty Trách Nhiệm Hữu Hạn Một Thành Viên Nội Thất Phú Quốc,1702379662,Chị Hận,"Đường Đất Đỏ, Tổ 1, Khu Phố 7 An Thới, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0796855823
+CRM_0506,Tnhh Hiền Hải Đăng,,Lê Thị Bích Hiền,"Tổ 1, Khu Phố Suối Cát, P. Xuân Lộc, P. Xuân Lộc, Đồng Nai",0902 267 580
+CRM_0507,Công Ty Cp Thủy Điện Hỏm Dưới,5300859151,Trịnh Duy Chủ,"Thôn Hỏm Dưới, X. Nậm Chày, H. Văn Bàn, Lào Cai",0903829442
+CRM_0508,TNHH MTV TRANG ANH TRẦN,,Trần Thị Thùy Trang,"C8/1 Đường Nữ Dân Công, Tổ 2, Ấp 3A, X. Vĩnh Lộc, H. Bình Chánh, TP.HCM",0905 667 182
+CRM_0509,Công ty TNHH GP INVEST,0111703801,Nguyễn Minh Diến,"Tầng 11, Số 275 Nguyễn Trãi, P. Khương Đình, Q. Thanh Xuân, Hà Nội",0918864545
+CRM_0510,Ctcp Kinh Doanh Ô Tô Cẩm Phả Quảng Ninh Nộp Thuế Thay Nhà Cung Cấp Nước Ngoài,5702240805,Nguyễn Thuý Hằng,"Tổ 7, Khu Diêm Thủy, P. Cẩm Phả, TP Cẩm Phả, Quảng Ninh",0979 542 617
+CRM_0511,Cty Tnhh Thiết Bị Công Nghệ Phòng Tắm Và Nhà Bếp Jlj,,Anh Đặng,"Số 87A, Ấp 3A Phước Lợi",0908420808
+CRM_0512,Công Ty Tnhh Đầu Tư Thương Mại Và Dịch Vụ Anh Khang Group,,Chị Anh,"Số Nhà 15, Ngõ 521/43, Tổ Dân Phố Nhật Tảo, P. Phú Thượng, Q. Tây Hồ, Hà Nội",0979085747
+CRM_0513,BỘ THAM MƯU QUÂN KHU 9,1801844342,Chị Công,"Số 45, Đường Cách Mạng Tháng Tám, P. Bình Thủy, Q. Bình Thuỷ, Cần Thơ",0977 539 175
+CRM_0514,TNHH NHA KHOA VIỆT PHÁP QUY NHƠN (NỘP THAY NTNN),,Anh Fa,"02A Diên Hồng, P. Quy Nhơn, TP Quy Nhơn, Bình Định",0978.646.669
+CRM_0515,Ctcp Tóc Đẹp La Hair,0111704675,Nguyễn Thái,"4B Ngách 52 Ngõ 562 Thụy Khuê, P. Tây Hồ, Q. Tây Hồ, Hà Nội",0794.820.311
+CRM_0516,Công Ty Tnhh Hse Hùng Vương,2500789178,Vũ Trọng Nghĩa,"Tầng 2 Căn L9.10 Khu Đô Thị Vci Định Trung, P. Vĩnh Phúc",0795307767
+CRM_0517,Cty NGŨ KIM VỆ DUNG,0319795865,Lê Thị Mỹ Dung,"D6/37A Ấp 13, X. Bình Lợi",0796 376 844
+CRM_0518,HUỲNH THANH PHƯƠNG,3703529441,Anh Phương,"880 Nguyễn Thị Minh Khai, Khu Phố Tân Thắng 1, P. Tân Đông Hiệp, TP Dĩ An, Bình Dương",0977 256 620
+CRM_0519,Công Ty Tnhh Mtv Huyền Tùng,5901263966,Lại Văn Tùng,"Làng Amo, X. Bờ Ngoong, H. Chư Sê, Gia Lai",+84888401611
+CRM_0520,Cty Rovela Pay,0319798802,Nguyễn Thị Huỳnh Linh,"Tòa Nhà The Waterfront Saigon, Số 1-1A-2, Đường Tôn Đức Thắn, P. Sài Gòn, Q. 1, TP.HCM",+84905864365
+CRM_0521,Tnhh Gia Sư Eteacher,,Anh Nghĩa,"Phòng 1505, Tầng 15, Tòa Nhà Vincom Center, 72 Lê Thánh Tôn, P. Sài Gòn, Q. 1, TP.HCM",0918519213
+CRM_0522,Cty Cổ Phần Dịch Vụ Quốc Tế Dk Brothers,0319798834,Trần Quang Vinh,"Số 131 Đường Nguyễn Thái Bình, P. Bến Thành, Q. 1, TP.HCM",+84906280065
+CRM_0523,Tnhh Thương Mại Dịch Vụ Mona (Ntnn),0319799041,Chị Nga,"Số 65, Đường Số 3, Khu Cityland Center Hills, P. Hạnh Thông, Q. Gò Vấp, TP.HCM",0909 520 056
+CRM_0524,Cty Cổ phần HỆ THỐNG BỆNH VIỆN RĂNG HÀM MẶT SÀI GÒN - SYDNEY (NTNN),0319799027,Trương Trọng Quang,"61 Trần Quốc Tuấn, P. Hạnh Thông, Q. Gò Vấp, TP.HCM",+84932868569
+CRM_0525,Công ty CP BMFE (MST NỘP THAY NCCNN),,Huỳnh Thị Thanh Tuyền,"129/8 Đường Trương Thị Như, Ấp 17",+84937698228
+CRM_0526,Cty CP THƯƠNG MẠI VÀ DỊCH VỤ KATSUMA,,Anh Phong,"Ấp 3, X. Bến Lức",0939.435.677
+CRM_0527,TNHH DỊCH VỤ CÔNG NGHỆ VÀ TRUYỀN THÔNG HK,0319796097,Anh Minh,"40/7A Đường Hoàng Bật Đạt, P. Tân Sơn, Q. Tân Bình, TP.HCM",0904.761.972
+CRM_0528,Tnhh Kim Nguyên Biotech,0111704530,Nguyễn Mạnh Hải,"Căn Thương Mại Dịch Vụ Rv.06.Dv02 � 0615, Tầng 6 Tòa River D",+84976929574
+CRM_0529,CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI IN QUẢNG CÁO BẰNG HỮU-PHÂN XƯỞNG SẢN XUẤT IN BAO BÌ BẰNG HỮU,,Nguyễn Thị Hoàng Oanh,"67B Hoàng Kế Viêm, P. Bảy Hiền, Q. Tân Bình, TP.HCM",0986.733.719
+CRM_0530,Tnhh Thương Mại Và Dịch Vụ Vua Ruy Băng,0111704516,Anh Anh,"Thôn Đoài, X. Vĩnh Thanh, H. Đông Anh, Hà Nội",+84791730107
+CRM_0531,GIẢI PHÁP CÔNG NGHỆ HIGH VISION (NTNN),0319798778,Trần Văn Dũng,"271/15 Lê Đình Cẩn, Khu Phố 5, P. Tân Tạo, Q. Bình Tân, TP.HCM",+84984224650
+CRM_0532,MẠI DỊCH VỤ VIỄN THÔNG PQC,1702379655,Hoàng Ngọc Bình,"Tổ 9, Khu Phố Cây Thông Trong Cửa Dương, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0971272439
+CRM_0533,Cty TƯ VẤN XÂY DỰNG NGUYỄN ĐĂNG,0319797686,Nguyễn Thạch Duy,"Số 532/1 Khu Y Tế Kỹ Thuật Cao, P. An Lạc, Q. Bình Tân, TP.HCM",0794.092.679
+CRM_0534,Cty PHÚ THỊNH GREEN,5300859088,Anh Nam,"Tổ 6 Xuân Tăng, P. Cam Đường, TP Lào Cai, Lào Cai",+84887585314
+CRM_0535,Tnhh Xây Dựng Và Thương Mại Gia Niên,4300936284,Chị Ngọc,"Thôn Quang Mỹ, X. Đông Sơn, H. Bình Sơn, Quảng Ngãi",0918360806
+CRM_0536,Cty Cổ phần BỐN MÙA TOÀN CẦU,0111704682,Nguyễn Anh Tuấn,"Tầng 5,Tòa Nhà 2-4A Vọng Hà, P. Hồng Hà, Q. Tây Hồ, Hà Nội",0972182291
+CRM_0537,Cty CP THƯƠNG MẠI THÀNH CÔNG HD,0801511415,Nguyễn Thị Ngọc Mai,"Số 199 Lê Thanh Nghị, P. Lê Thanh Nghị, TP Hải Dương, Hải Dương",0798 720 488
+CRM_0538,Công Ty Tnhh Nhôm Xanh Việt Nhật,,Nguyễn Văn Phong,"Số 193 Đường Kênh, P. Nam Định",0982.291.011
+CRM_0539,Cty TNHH THIẾT BỊ MÁY MÓC TRƯỜNG TRẤN AN HUY,2301433145,"Wang, Sheng","Khu 3 Đại Phúc, P. Võ Cường, TP Bắc Ninh, Bắc Ninh",0881.098.773
+CRM_0540,& DVVT XUÂN HẢI,,Bùi Văn Đạo,"Thôn Tân Minh, X. Yên Trị, H. Yên Thuỷ, Hòa Bình",0905 127 746
+CRM_0541,Cp Phát Triển H'Finess Mỹ Đình 2,0111704629,Chị Châm,"Liền Kề Tt03-03, Dự Án Hải Đăng City, Đường Nguyễn Cơ Thạch, P. Từ Liêm, Q. Nam Từ Liêm, Hà Nội",0985 253 913
+CRM_0542,Cty DỊCH VỤ VÀ THƯƠNG MẠI THÀNH NHUNG,,Anh Thành,"Đường Đt757B, Tổ 1",+84908295102
+CRM_0543,Thu - Ubnd Phường Chiềng Sinh,5500693224,Lò Ngọc Nga,"Số 486, Đường Lê Duẩn, P. Chiềng Sinh, Tỉnh Sơn La, P. Chiềng Sinh, TP Sơn La, Sơn La",+84985826945
+CRM_0544,Tnhh Doctor Face (Ntnn),0319799034,Trương Nguyễn Hoàng Oanh,"450 Đường 3/2, P. Hòa Hưng",0939398500
+CRM_0545,Cty TNHH KS-MART,6101319001,Trần Thị Kim Sáng,"Số 334A, Đường Bà Triệu",0986 012 858
+CRM_0546,Văn Phòng Đại Diện Công Ty Tnhh Dvtm Và Đầu Tư Xây Dựng Minh Phát,,Lê Văn Thành,"759 Nguyễn Chí Thanh, Khu Vực 8, P. Thới An Đông, Q. Bình Thuỷ, Cần Thơ",0794 942 850
+CRM_0547,Ctcp Sanddtechs,0111703625,Anh Đoài,"Số 4 Ngách 60 Ngõ 543, Đường Giải Phóng, P. Tương Mai, Q. Hoàng Mai, Hà Nội",+84938644782
+CRM_0548,TNHH ALTA REALTY,,Hồ Văn Thiện,"Số Nhà 118 Đường N3D (Dự Án Khu Đô Thị Sài Gòn Bình An), P. Bình Trưng",0971.854.670
+CRM_0549,XUẤT THƯƠNG MẠI SƠN DƯƠNG PLYWOOD,,Nguyễn Thị Hiền,"89/10 Nguyễn Công Hoan, Khu Phố Đông B, P. Đông Hòa, TP Dĩ An, Bình Dương",+84931812839
+CRM_0550,Cty DECOOR TTT,,Trương Thành Tài,"993/5 Huỳnh Tấn Phát, Khu Phố Lập Thành, P. Bà Rịa, TP Bà Rịa, Bà Rịa - Vũng Tàu",0901437244
+CRM_0551,Công Ty Tnhh Tym MMáy Pin,,Chị Tùng,"31 Tôn Thất Thuyết, P. Xóm Chiếu",0978965894
+CRM_0552,Cty Thương Mại Xây Dựng Giàu Phát Đạt,,Chị Dàu,"159C Đề Thám, P. Cầu Ông Lãnh",0934 354 432
+CRM_0553,Công Ty Cp Điện Gió Huy Anh Hbt,,Chị Hưng,"Số 30_A4, Khu Phố 2, P. Sơn Đông, TP Bến Tre, Bến Tre",+84916009424
+CRM_0554,Tnhh Thương Mại Dịch Vụ Đầu Tư Xây Dựng Thiên Hà Pt,1301176954,Anh Hùng,"95C, Khu Phố 1, P. An Hội, TP Bến Tre, Bến Tre",0901675393
+CRM_0555,Tnhh Tien Dk,0111704202,Đặng Trúc Thuỷ Tiên,"Tầng 12, Tòa Nhà Vinafor",0938105753
+CRM_0556,TNHH THƯƠNG MẠI ĐVQ,0111704273,Đoàn Văn Quang,"Số Nhà 67B, Đường Sau Làng, Thôn Cổ Dương, X. Phúc Thịnh, H. Đông Anh, Hà Nội",0907576443
+CRM_0557,Tnhh Cơ Khí Chính Xác Huy Hưng,,Phùng Quốc Huy,"Số Nhà 01, Đường 08",0799118085
+CRM_0558,Cty TNHH XÂY DỰNG VÀ CƠ KHÍ KIẾN ANH,,Anh Nam,"Số 19 Đường N6-5A, Tổ 6, Khu Phố Đồng Sổ, X. Bàu Bàng, H. Bàu Bàng, Bình Dương",+84989690046
+CRM_0559,Văn Phòng Đại Diện Tại Cảng Quốc Tế Long An � Công Ty Cổ Phần Công Nghệ Visakai,,Phạm Hồng Phúc,"Số 68, Đường Tỉnh 830",0888 191 561
+CRM_0560,Công ty TNHH DỊCH VỤ THƯƠNG MẠI PHƯƠNG OANH,0601334279,Đào Kim Oanh,"64 Vũ Hữu Lợi, P. Nam Định, TP Nam Định, Nam Định",0908.653.361
+CRM_0561,Tnhh Kim Thành Lào Cai,5300859095,Phạm Thị Quế Anh,"Số Nhà 054, Đường Trần Thánh Tông, Tdp 2 Duyên Hải, P. Lào Cai, TP Lào Cai, Lào Cai",0905 784 744
+CRM_0562,Hợp Tác Xã Nông Nghiệp Thái Hưng,1702379408,Anh Vũ,"Tổ 2, Ấp Thái Hưng",+84798004666
+CRM_0563,Tnhh Sh Bảo Ngọc,,Anh Hiếu,"Thôn Hoàng Phài, X. Ngân Sơn, H. Ngân Sơn, Bắc Kạn",+84976074675
+CRM_0564,Ctcp Công Nghệ J-Service,0319795858,Chị Danh,"32/21/10 Hà Thị Khiêm, P. Trung Mỹ Tây",+84983745191
+CRM_0565,Cty Tnhh Đầu Tư Phát Triển Thương Mại Và Du Lịch Bảo Châu,1702379535,Bùi Nguyễn Nguyên Phương,"147 Trần Hưng Đạo, Khu Phố 7, Dương Đông, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0797 315 720
+CRM_0566,Cty SẢN XUẤT THƯƠNG MẠI KHÔI NGUYÊN KHANG,,Chị Thiên,"Số 131, Tổ 61, Khu Phố 3, P. Trấn Biên, P. Trấn Biên, Đồng Nai",+84793576087
+CRM_0567,"VĂN PHÒNG ĐẠI DIỆN TBEA HENGYANG TRANSFORMER CO., LTD TẠI THÀNH PHỐ HÀ NỘI",,Liu Bing,"Tầng 6 Tòa Nhà Diamond Flower, 48 Lê Văn Lương, P. Yên Hòa, Q. Cầu Giấy, Hà Nội",0905.521.936
+CRM_0568,XUẤT VÀ THƯƠNG MẠI DỊCH VỤ BẢO MINH,0202376206,Lê Văn Thế,"Số Hp10 Lk2 Hoa Phượng Ngõ 122 Đường Hạ Lý, P. Hồng Bàng, Q. Hồng Bàng, Hải Phòng",+84931545620
+CRM_0569,TNHH MYCO ASSOCIATES,,Chị Powell,"Số 99 Đường Số 4, Khu Phố 5, P. Bình Trưng, TP Thủ Đức, TP.HCM",0906490186
+CRM_0570,Cty XUÂN LỰC VIỆT NAM,0901258734,Nguyễn Xuân Lực,"Đường Phạm Bạch Hổ, Tổ Dân Phố Phúc Thọ, P. Thượng Hồng, Thị X. Mỹ Hào, Hưng Yên",0981462501
+CRM_0571,CHI NHÁNH HÀ NỘI - CÔNG TY CỔ PHẦN QUỐCC TẾ VẬN CHUYỂN CÔNG NGHỆ TT 4.0,,Nguyễn Thanh Tâm,"Số Nhà 16, Đường Đào Duy Tùng, Thôn Hùng Sơn, X. Đông Anh, H. Đông Anh, Hà Nội",0937 635 818
+CRM_0572,Công ty TNHH YB FOODS,0111704280,Thái Ngọc Diệp,"52 Ngách 66 Ngõ Hoà Bình 7, Phố Minh Khai",0885 583 221
+CRM_0573,CTCP BA VÌ S.VRAC,0111704266,Vũ Thị Ngân,"Số Nhà 05 Ngách 64 Xóm Chùa, Thôn Mai Trai",+84903914938
+CRM_0574,TNHH XUAN VINH CORPORATION - CHI NHÁNH ĐÀ NẴNG,0111246619-001,Nguyễn Thị Thủy,"70 Trần Thủ Độ, P. Cẩm Lệ, Q. Cẩm Lệ, Đà Nẵng",0918.239.518
+CRM_0575,Cty TNHH SAAM GROUP,6101318992,Nguyễn Thị Thanh Loan,"184 Trương Hán Siêu, P. Đăk Cấm, TP Kon Tum, Kon Tum",0974.817.205
+CRM_0576,Tnhh Rạp Chiếu Phim - Thể Thao Và Giải Trí Ngôi Sao Huế (Nộp Hộ Nhà Thầu),3301770456,Nguyễn Sơn,"25 Hai Bà Trưng, P. Thuận Hóa",0939 192 991
+CRM_0577,Cty Cổ phần CÔNG NGHỆ LED-AVAN QUỐC TẾ,,Lê Đức Tâm,"1106-1108 Phạm Văn Đồng, P. Thủ Đức, TP Thủ Đức, TP.HCM",0906 426 272
+CRM_0578,Công ty CP SẢN XUẤT THƯƠNG MẠI XUẤT NHẬP KHẨU HOA MINH,,Huỳnh Thị Dung,"5B Hoàng Hữu Nam, P. Long Bình, TP Thủ Đức, TP.HCM",0799.067.775
+CRM_0579,Trung Tâm Học Tập Cộng Đồng Phường Phú Bài,3301770424,Anh Sơn,"905 Nguyễn Tất Thành, P. Phú Bài",+84887197881
+CRM_0580,Công Ty Tnhh Phát Triển Sản Xuất An Nhiên,,Lê Thị Hoàng My,"31B Đường Số 30, Ấp Hậu",0904 457 987
+CRM_0581,Công ty TNHH SẢN XUẤT THƯƠNG MẠI NHÂN TRÍ PHÁT,,Phạm Phước Nhân,"683Ap Khu Phố Bình Sơn, P. Thuận An, TP Thuận An, Bình Dương",0882.633.469
+CRM_0582,VỤ THƯƠNG MẠI THỰC PHẨM BN,0319796058,Nguyễn Thanh Phong,"1016/19,Tầng 2, Khu Phố Sky Garden 2 (Lô R1-2),Đường Nguyễn, P. Tân Hưng, Q. 7, TP.HCM",+84886530375
+CRM_0583,Công ty TNHH MTV THƯƠNG MẠI VÀ DỊCH VỤ PHƯƠNG LINH,0601334286,Vũ Trọng Bằng,"Thôn Cầu Cổ 2, X. Ý Yên",+84936594695
+CRM_0584,Sươnng Beauty,0319795992,Anh Sương,"26/1B, Khu Phố 28",+84905437294
+CRM_0585,CÔNG TY TRÁCH NHIỆM HỮU HẠN THƯƠNG MẠI KIM ĐIỆP - HÒN ĐẤT,,Lưu Thị Điệp,"0275, Tổ 6, Ấp Chòm Sao, X. Hòn Đất, H. Hòn Đất, Kiên Giang",0934 733 778
+CRM_0586,CHI NHÁNH CÔNG TY CỔ PHẦN QUẢNG CÁO SỰ KIỆN XUYÊN VIỆT,,Nguyễn Văn Nhân,"91 Đỗ Bí, P. Phú Thạnh, Q. Tân Phú, TP.HCM",+84916025328
+CRM_0587,Cty TNHH TẦM NHÌN MỚI Á CHÂU,0319798489,"Wang, Yuhui","Số 17-19 Đường Trần Hưng Đạo, P. Bến Thành, Q. 1, TP.HCM",0973 878 219
+CRM_0588,Cty Tnhh Cơ Khí Chính Xác Lạc Hồng,0901258727,Đỗ Thị Sen,"Thôn Thái Lạc, X. Như Quỳnh",0982.029.363
+CRM_0589,Công ty TNHH THỰC PHẨM RA FOOD,1602238724,Chị Rau,"Đường Số 17, Kđt Sao Mai, Tổ 6, Ấp Vĩnh Phúc, X. Châu Phú, H. Châu Phú, An Giang",0889 452 190
+CRM_0590,TNHH VAS GLOBAL SERVICES,0319796040,Nguyễn Vũ Trùng Dương,"Số 37, Đường Số 1 (Khu Dân Cư Park Riverside), Khu Phố 3, P. Long Trường, TP Thủ Đức, TP.HCM",0937.971.383
+CRM_0591,Công Ty Tnhh Bia 24/7,1402239128,Trần Thái Ngọc,"Số 19, Tổ 16, Ấp Phú Hòa, X. Phú Hựu, H. Châu Thành, Đồng Tháp",+84935873820
+CRM_0592,Cty Cổ phần MILANO TECH STUDIO,0402365515,Nguyễn Văn Trần Hải,"193 Nguyễn Công Hoan, P. An Khê, Q. Thanh Khê, Đà Nẵng",+84931577052
+CRM_0593,TNHHH TMDV NGỌC TRUNG DUNG,,Lường Văn Hinh,"Số 08, Đường Đh 413",0931219187
+CRM_0594,Ban Quản Trị Nhà Chung Cư A6-A7,3604133336,Nguyễn Thị Lộc,"Chung Cư A6-A7, Dường Nguyễn Ái Quốc, Kp. Bình Thiền, P. Trấn Biên, P. Trấn Biên, Đồng Nai",0918120021
+CRM_0595,Cty TNHH TC ELECTRONICS VIỆT NAM,,Anh Cường,"Số Nhà 21 Đường Chợ Mơ, Thôn Mai Trai, X. Cổ Đô, H. Ba Vì, Hà Nội",+84984591012
+CRM_0596,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH AVC GROUP TẠI NỘI BÀI,,Phùng Anh Vũ,"Tầng 4, Toà Nhà Skycoffe, X. Nội Bài, H. Sóc Sơn, Hà Nội",0793.947.840
+CRM_0597,TNHH DỊCH VỤ VÀ TƯ VẤN TACA,0402365240,Anh Quyên,"87/15 Dũng Sỹ Thanh Khê, P. Thanh Khê, Q. Thanh Khê, Đà Nẵng",0793.350.321
+CRM_0598,Công Ty Tnhh Dv Xông Hơi Diễm Trinh - Massage Hồng Kông,,Phạm Quốc Hiền,"Thửa Đất Số 100, Tờ Bản Đồ Số 22, Đường Tỉnh 883, Ấp 1, X. Giao Long, H. Châu Thành, Bến Tre",0887.707.916
+CRM_0599,TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP SƠN QUANG,,Chị Thảo,"180/9 Lạc Long Quân, P. Bình Thới, Q. 11, TP.HCM",0913277900
+CRM_0600,TNHH MTV HÀ GIANG LOOP ADVENTURE,5100521809,Nguyễn Văn Việt,"Tdp 33, Thôn Lúp",0931468929
+CRM_0601,Tnhh Công Nghệ Hà An - Chi Nhánh Miền Bắc,4401138027,Huỳnh Anh Khoa,"Thôn Mỹ Phú, X. Hòa Thịnh",+84905743803
+CRM_0602,CÔNG TY LUẬT TNHH - CHI NHÁNH SÀI GÒN,4202072043,Mai Viết Tâm,"53A Đống Đa, P. Nha Trang, TP Nha Trang, Khánh Hòa",0932.025.604
+CRM_0603,BAN CHỈ HUY QUÂN SỰ XÃ NAM CÁT - CHI NHÁNH HÀ NỘI,4001344240,Vũ Văn Phước,"Đường Số 2, Thôn Agrồng",0915 378 695
+CRM_0604,Cty TNHH HOMEMARK VIỆT - CHI NHÁNH ĐÀ NẴNG,0111703978,Nguyễn Hữu Toàn,"Số 160 Đa Sỹ, P. Kiến Hưng",+84987673968
+CRM_0605,Cty Tnhh Tm & Dv Điện Máy Vũ - Chi Nhánh Miền Bắc,2200836892,Phạm Ngọc Hà,"Số Nhà163, Đường 9B",+84887743849
+CRM_0606,Cty TNHH TƯ VẤN VÀ GIÁO DỤC WISE HÒA - CHI NHÁNH ĐÀ NẴNG,2500789266,Trần Tuấn Đại,"L3-02, Kđt Vci Mountain View, P. Vĩnh Phúc, TP Vĩnh Yên, Vĩnh Phúc",+84797711130
+CRM_0607,Công ty TNHH GK ARTS (NỘP THAY THUẾ NHÀ - CHI NHÁNH ĐÀ NẴNG,4601682153,Nguyễn Đức Thụy,"Số 3,Ngõ 158,Đường Phan Đình Phùng,Tổ Dân Phố 5, P. Phan Đình Phùng, TP Thái Nguyên, Thái Nguyên",0917 267 857
+CRM_0608,Cty CP ĐẦU TƯ SẢN XUẤT XUẤT NHẬP KHẨU KIM - CHI NHÁNH ĐÀ NẴNG,1102193634,Nguyễn Thị Phượng,"637 Ấp Mới 1, X. Mỹ Hạnh",0881 531 614
+CRM_0609,Công Ty Tnhh Tài Anh Hưng - Chi Nhánh Hà Nội,3604133304,Thạch Sấch,"C243, Đường Trần Quốc Toản, Khu Phố 2, P. Trấn Biên, P. Trấn Biên, Đồng Nai",0979 758 287
+CRM_0610,Công ty TNHH - CHI NHÁNH HÀ NỘI,1102193659,Trần Trung Huấn,"47C, Tỉnh Lộ 825, Ấp Khiêm Cương, X. Hậu Nghĩa, H. Đức Hoà, Long An",0988 854 131
+CRM_0611,Cty Cổ phần - CHI NHÁNH ĐÀ NẴNG,0111704160,Nguyễn Tô Đông,"15Av Hồ Xuân Hương, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",0911.405.702
+CRM_0612,Tnhh Optris Việt - Chi Nhánh Miền Bắc,0111703985,Hoàng Trường Giang,"Số 48 Đường Trung Thuỷ, Thôn 2, X. Liên Minh, H. Đan Phượng, Hà Nội",0917399305
+CRM_0613,CHI NHÁNH MIỀN BẮC,0801511119,Lê Văn Học,"Xóm Nhân Hiền, Thôn Hợp Đức, X. Hà Đông, H. Thanh Hà, Hải Dương",+84901478643
+CRM_0614,Tnhh Công Ty Tnhh Tm Và Xnk Hoa Bình - Chi Nhánh Đà Nẵng,0319798376,Nguyễn Hải Đăng,"6/8 Ấp 4, X. Nhà Bè",0913.183.688
+CRM_0615,Công Ty Tnhh Dịch Vụ Thương Mại Và Vận Tải Đức - Chi Nhánh Đà Nẵng,0111703713,Nguyễn Thị Thu Hà,"Số 4, Ngõ 62, Phố Văn Hội, P. Đông Ngạc, Q. Bắc Từ Liêm, Hà Nội",0796.945.614
+CRM_0616,Cty TNHH PHAN CẨM - CHI NHÁNH MIỀN BẮC,0402365988,Lương Thị Tuyền,"114 Dương Văn An, P. Sơn Trà, Q. Sơn Trà, Đà Nẵng",0989 093 899
+CRM_0617,Tnhh Phi Beauty Spa - Chi Nhánh Sài Gòn,1102193722,Nguyễn Thị Ngát,"Số 45 Đường D10, Ấp 3",0972746867
+CRM_0618,Cty XÂY DỰNG GIA BẢO ĐẦM - CHI NHÁNNH ĐÀ NẴNG,0319797608,Dương Thị Bích Liễu,"118/17B Đường Tx13, Khu Phố 25, P. Thới An, Q. 12, TP.HCM",+84982978405
+CRM_0619,Công Ty Tnhh Mtv Tú - Chi Nhánh Sài Gòn,2301433233,Nguyễn Văn Hải,"Khu Vạn Phúc, P. Kinh Bắc, TP Bắc Ninh, Bắc Ninh",0983 098 297
+CRM_0620,Cty Cp Tập Đoàn Phương Nam Việt Nam - Chi Nhánh Đà Nẵng,0111704717,Trịnh Quang Duy Anh,"256 Trần Khát Chân, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",0881.052.281
+CRM_0621,Công ty TNHH CHC - CHI NHÁNH SÀI GÒN,4900952714,Hoàng Thị Bích Phượng,"Thôn Kép I, X. Yên Bình, H. Hữu Lũng, Lạng Sơn",0933.028.500
+CRM_0622,TRUNG TÂM GIÁO DỤC NGHỀ NGHIỆP TỔNG HỢP TP.HCM (MST NỘP THAY - CHI NHÁNH MIỀN BẮC,0319799059,Trần Thanh Thủy,"Tòa Nhà Ereka Center Building, 17 Hồ Bá Kiện",0985 025 451
+CRM_0623,MẠI DỊCH VỤ SẢN XUẤT NÔNG LÂM NGHIỆP THÁI - CHI NHÁNH HÀ NỘI,0302518831-003,Trần Văn Nghĩa,"Phòng 1008, Tòa Nhà 198 Nguyễn Tuân",+84975436935
+CRM_0624,TRIỂN GIÁO DỤC QUỐC TẾ - CHI NHÁNH HÀ NỘI,0111704153,Nguyễn Thị Bích Thủy,"Số 18 Ngõ 63, Đường Thiên Hiền",0983475055
+CRM_0625,TNHH VẬN TẢI THỦY THUẬN - CHI NHÁNH SÀI GÒN,5702240869,Chu Thị Kim Oanh,"Tổ 1, Khu 1, P. Cao Xanh, TP Hạ Long, Quảng Ninh",0938 267 973
+CRM_0626,Cty CP - CHI NHÁNH MIỀN BẮC,0111703953,Trần Văn Toàn,"Tầng 10, Toà Nhà Ceo, Lô Hh2-1, Khu Đô Thị Mới Mễ Trì Hạ, Đư, P. Từ Liêm, Q. Nam Từ Liêm, Hà Nội",0984.239.514
+CRM_0627,Công ty TNHH THƯƠNG MẠI DỊCH VỤ - CHI NHÁNH HÀ NỘI,0402365755,Đinh Thị Nhật Hiền,"Số 89/2 Trần Quang Khải, P. Sơn Trà, Q. Sơn Trà, Đà Nẵng",0971.597.243
+CRM_0628,Cty Tnhh Thương Mại Quốc Tế Osanno Việt Nam - Chi Nhánh Hà Nội,0202376541,Hồ Thị Thanh Thuỷ,"Số 70 Phương Lung, P. Hưng Đạo",+84791070993
+CRM_0629,TNHH MTV DUNG - CHI NHÁNH SÀI GÒN,0111703745,Trần Thị Cúc,"Số 50A, Phố Yên Hoà, P. Yên Hòa, Q. Cầu Giấy, Hà Nội",0884816013
+CRM_0630,Cty TNHH MỘT THÀNH VIÊN PHẠM HỮU - CHI NHÁNH MIỀN BẮC,0901258822,Hoàng Thái Huy,"Thôn Nguyễn Bình, X. Nguyễn Văn Linh, H. Yên Mỹ, Hưng Yên",0971.374.250
+CRM_0631,Cty TƯ VẤN VÀ XÂY DỰNG TÚ ANH - CHI NHÁNH SÀI GÒN,0316424679-002,Nguyễn Văn Tuấn,"Thôn Quảng Phong, X. Lưu Vệ, H. Quảng Xương, Thanh Hoá",0792 016 213
+CRM_0632,Tnhh À La Main D' - Chi Nhánh Đà Nẵng,2803254196,Nguyễn Hoàng Hà,"Lô Số Cl03-36 Mbqh 1879, Khu Phố Đông Xuân, P. Đông Sơn, TP Thanh Hoá, Thanh Hoá",+84889905896
+CRM_0633,Văn Phòng Đại Diện Airman Inc. Tại Thành Phố Hồ Chí - Chi Nhánh Đà Nẵng,0111704594,Phạm Đức Phương,"Số 150, Phố Hồng Mai, P. Bạch Mai, Q. Hai Bà Trưng, Hà Nội",0906 031 774
+CRM_0634,Chi Nhánh Hưng Yên - Tttm Vincom Mega Mall Ocean City - Công Ty Tnhh Một Thành Viên Thương Mại - Chi Nhánh Hà Nội,0111704587,Trần Anh Bình,"P901 Nhà Thí Nghiệm, Trường Đh Xây Dựng, Số 55 Giải Phóng, P. Bạch Mai, Q. Hai Bà Trưng, Hà Nội",+84883913961
+CRM_0635,Cty Tnhh Minh KKa - Chi Nhánh Đà Nẵng,0319798880,Nguyễn Thị Hà,"Tầng 2, Toà Nhà Yoco, 41 Nguyễn Thị Minh Khai, P. Sài Gòn, Q. 1, TP.HCM",0934856793
+CRM_0636,Tnhh Xây Dựng Ca Phan - Chi Nhánh Hà Nội,0319798922,Kiều Vân Anh,"8/4B Đinh Tiên Hoàng, P. Sài Gòn, Q. 1, TP.HCM",0917 612 804
+CRM_0637,Cty Cp Đào Tạo Lái Xe Quảng - Chi Nhánh Miền Bắc,0319798947,Võ Xuân Trung,"Lầu 4 Số 15 Trần Khắc Chân, P. Tân Định, Q. 1, TP.HCM",0792528798
+CRM_0638,Cty Dragonauto Omoda & - Chi Nhánh Miền Bắc,0319798954,Nguyễn Lương Tiến,"Phòng 1901, Tầng 19, Tòa Nhà Saigon Trade Center, 37 Tôn Đức, P. Sài Gòn, Q. 1, TP.HCM",+84907415429
+CRM_0639,Phòng Kinh Tế Xã Diên - Chi Nhánh Hà Nội,0319797492,Phạm Tiến Dũng,"89M Đường Số 48, Khu Phố 6, P. Hiệp Bình, TP Thủ Đức, TP.HCM",0932 060 139
+CRM_0640,Ngân Hàng Trách Nhiệm Hữu Hạn Một Thành Viên Industrial Bank Of Korea (Việt Nam) - Chi Nhánh Hà - Chi Nhánh Sài Gòn,3301770417,Nguyễn Văn Phon,"An Hòa, P. Hương An, Q. Phú Xuân, TP Huế",0904292019
+CRM_0641,Cty Tnhh Hà Kim Beauty Clinic - Chi Nhánh Hà Nội,2401096895,Thân Thị Quỳnh Như,"Lô 15-16 Đường Võ Nguyên Giáp, P. Tiền Phong, TP Bắc Giang, Bắc Giang",0794.285.152
+CRM_0642,Tnhh Sxtm Ha Pas Nk Yd Talent - Chi Nhánh Miền Bắc,5901263892,Đinh Ta Bi,"52/12 Trần Hưng Đạo , Tổ 6, P. Pleiku, TP Pleiku, Gia Lai",+84885953340
+CRM_0643,Cty TNHH TM TK XÂY DỰNG NHẬT - CHII NHÁNH ĐÀ NẴNG,0601334247,Đoàn Văn Tiền,"Tổ Dân Phố Hồng Tiến, P. Hồng Quang, TP Nam Định, Nam Định",+84905017692
+CRM_0644,Cty KHÁCH SẠN - CHI NHÁNH HÀ NỘI,6400485695,Quang Phi Sơn,"Đăk Nang, X. Quảng Phú, H. Krông Nô, Đắk Nông",0937 125 514
+CRM_0645,Cty CP GIẢI TRÍ CÔNG NGHỆ - CHI NHÁNH ĐÀ NẴNG,0801511408,Cao Thị Thanh Thảo,"Số 67 Bạch Đằng, P. Lê Thanh Nghị, TP Hải Dương, Hải Dương",0918 598 437
+CRM_0646,Cty Tnhh Jk - Chi Nhánh Hà Nội,6400485663,Dương Quốc Thịnh,"Tổ Dân Phố 3, P. Bắc Gia Nghĩa, TP Gia Nghĩa, Đắk Nông",0987 398 246
+CRM_0647,Công Ty Cp Nhà Phương Nam Việt Nam - Chi Nhánh Hà Nội,6400485670,Nguyễn Thị Lài,"Tổ Dân Phố Gia Nghĩa, P. Đông Gia Nghĩa, TP Gia Nghĩa, Đắk Nông",0974.384.495
+CRM_0648,Cty TNHH 1TV KIM - CHI NHÁNH MIỀN BẮC,5901263927,Nguyễn Duy Khánh,"Số 17, Đường Lê Hồng Phong",0916515490
+CRM_0649,Cty Thiết Kế & Trang Trí Mềm - Chi Nhánh Sài Gòn,5901263998,Trần Đức Huệ,"Thôn Ia Tô, X. Ia Krái",0977 144 514
+CRM_0650,Công ty TNHH - CHI NHÁNH ĐÀ NẴNG,0402365730,Tạ Thái Dương,"K14/20 Lưu Quang Thuận, P. Ngũ Hành Sơn",0979 396 454
+CRM_0651,Công Ty Tnhh Mtv Văn Hoàng - Chi Nhánh Sài Gòn,4202072117,Võ Xuân Hải,"Tổ Dân Phố 4, P. Ninh Hòa, Thị X. Ninh Hoà, Khánh Hòa",0906.968.998
+CRM_0652,TNHH ƯƠM MẦM KHỞI NGHIỆP CÔNG NGHỆ VIỆT SEED - CHI NHÁNH SÀI GÒN,0801511461,Bùi Thùy Linh,"Số 91, Phố Nguyễn Lương Bằng",0979178179
+CRM_0653,Cty IBERTOE BASKETBALL - CHI NHÁNH ĐÀ NẴNG,0319798746,Huỳnh Quang Trí,"163/25/23 Tô Hiến Thành, P. Hòa Hưng",+84935145250
+CRM_0654,TM HUYỀN - CHI NHÁNH MIỀN BẮC,1702379609,Nguyễn Đăng Phán,"Tổ 4, Khu Phố Rạch Hàm Hàm Ninh, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0913.972.578
+CRM_0655,"TNHH MỘT THÀNH VIÊN CƠ ĐIỆN, ĐIỆN LẠNH SONG KHANG - CHI NHÁNH SÀI GÒN",0700930963,Lại Thị Oanh,"Tdp Mễ Nội, P. Phủ Lý, TP Phủ Lý, Hà Nam",0916.125.080
+CRM_0656,Cty Tnhh 1Tv Thương Mại-Dịch Vụ-Công Trình Xây Dựng Thiện - Chi Nhánh Hà Nội,5901263885,Võ Văn Thịnh,"02 Phan Đình Giót, P. Pleiku",0799 526 898
+CRM_0657,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH SHORT HILLS VIỆT NAM TẠI HÀ - CHI NHÁNH MIỀN BẮC,4700305798,Nông Thị Thanh Thiếp,"Thôn Cốc Lùng, X. Nam Cường, H. Chợ Đồn, Bắc Kạn",0915 765 418
+CRM_0658,TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ - CHI NHÁNH ĐÀ NẴNG,4202071949,Nguyễn Phú Cường,"Tổ Dân Phố 9, P. Ninh Hòa, Thị X. Ninh Hoà, Khánh Hòa",0884 433 944
+CRM_0659,BAN QUẢN TRỊ TÒA NHÀ CHUNG CƯ THE - CHI NHÁNH ĐÀ NẴNG,2803254291,Đỗ Văn Khiêm,"Số 490 Đại Lộ Lê Lợi, P. Hạc Thành, TP Thanh Hoá, Thanh Hoá",0974 424 539
+CRM_0660,Cty Tnhh Tmck Vinh An - Chi Nhánh Miền Bắc,0319799330,Nguyễn Tuấn Khởi,"Số 60 Nguyễn Văn Thủ, P. Tân Định",0971 401 273
+CRM_0661,Công ty TNHH MTV HAPAS NK YD ROYAL - CHI NHÁNH HÀ NỘI,0319799348,Phan Văn Thịnh,"121/45 Lê Thị Riêng, P. Bến Thành, Q. 1, TP.HCM",0937 516 266
+CRM_0662,Công ty TNHH THƯƠNG MẠI QUỐC TẾ NGỌC - CHI NHÁNH SÀI GÒN,0319799355,Phạm Thanh Tuấn,"124 Sương Nguyệt Ánh, P. Bến Thành, Q. 1, TP.HCM",0912 864 285
+CRM_0663,Cty TNHH CÔNG NGHỆ HIỂN THỊ - CHI NHÁNH HÀ NỘI,0111704001,Hoàng Thế Quyền,"Đội 1, Thôn Huỳnh Cung, X. Đại Thanh, H. Thanh Trì, Hà Nội",0799.028.866
+CRM_0664,- CHI NHÁNH MIỀN BẮC,0111703992,Nguyễn Văn Nghị,"Cụm 1, Quỳnh Đô",+84971909906
+CRM_0665,TNHH NINA HOMES - CHI NHÁNH HÀ NỘI,0319798859,Lê Xuân Hậu,"Tầng 1, 11 Lê Thánh Tôn, P. Sài Gòn, Q. 1, TP.HCM",+84933253343
+CRM_0666,Cty CP ĐẦU TƯ VÀ KINH DOANH BẤT ĐỘNG SẢN CENTRAL - CHI NHÁNH MIỀN BẮC,0111704562,Nguyễn Quỳnh Nga,"Tầng 10, Toà Nhà Viwaseen, Số 48 Tố Hữu, P. Đại Mỗ, Q. Nam Từ Liêm, Hà Nội",0909664766
+CRM_0667,TNHH DỊCH VỤ & THỜI TRANG HƯƠNG - CHI NHÁNH MIỀN BẮC,0319798707,Đặng Thị Thanh,"29/242 Đường Song Hành, Khu Phố 7, P. Đông Hưng Thuận, Q. 12, TP.HCM",0931 864 380
+CRM_0668,Cty TNHH MÁY TÍNH NÔNG THẾ - CHI NHÁNH ĐÀ NẴNG,3502597272,Lê Thanh Sang,"1/26 Lê Lợi, X. Ngãi Giao, H. Châu Đức, Bà Rịa - Vũng Tàu",+84982109527
+CRM_0669,TNHH THƯƠNG MẠI W.STORE - CCHI NHÁNH HÀ NỘI,0319798224,Trần Ngọc Hương,"707 Nguyễn Thị Định, P. Cát Lái, TP.HCM, P. Cát Lái, TP Thủ Đức, TP.HCM",0886.476.536
+CRM_0670,TNHH CONNECT AND INSPIRE - CHI NHÁNH MIỀN BẮC,3502597297,Nguyễn Hoàng Việt,"136 Mạc Đĩnh Chi, P. Vũng Tàu, TP Vũng Tàu, Bà Rịa - Vũng Tàu",0987 339 392
+CRM_0671,CHI NHÁNH - CÔNG TY TNHH CÔNG NGHỆ SINH HỌC BIOPRO KHÁNH - CHI NHÁNH SÀI GÒN,0111703921,Nguyễn Đình Hà,"Số Nhà 120 Đường Nguyễn Thái Học, P. Ba Đình, Q. Ba Đình, Hà Nội",0919 311 187
+CRM_0672,Cty Cổ phần NĂNG LƯỢNG BP - CHI NHÁNH MIỀN BẮC,1501176609,Đào Minh Thông,"Số C5.11, Đường D5, Kdc Mekong City, Ấp Mỹ Lợi, P. Cái Vồn, Thị X. Bình Minh, Vĩnh Long",+84909234564
+CRM_0673,Công ty TNHH DV PHÒNG KHÁM ĐA KHOA TÊN - CHI NHÁNH ĐÀ NẴNG,0319799108,Lâm Thái An,"197 Tô Hiến Thành, P. Hòa Hưng, Q. 10, TP.HCM",0917338978
+CRM_0674,MẠI XÂY DỰNG SAN LẤP SÔNG - CHI NHÁNH MIỀN BẮC,0111704192,Nguyễn Trường Thọ,"Số 59 Xóm Am, Thôn Cao Xá, X. Dân Hòa, H. Thanh Oai, Hà Nội",+84887184608
+CRM_0675,ĐẠI - CHI NHÁNH ĐÀ NẴNG,4300936277,Phạm Công Tuấn,"216 Hùng Vương, P. Nghĩa Lộ",0979 705 947
+CRM_0676,Cty TNHH THUỶ SẢN - CHI NHÁNH SÀI GÒN,1001132875-001,Vũ Ngọc Huân,"Alk03-11, Khu Đô Thị Yên Bái Riverside, Đường Bách Lẫm, P. Âu Lâu, TP Yên Bái, Yên Bái",0936.188.294
+CRM_0677,Cty TNHH PHÒNG KHÁM DA LIỄU AVO - CHI NHÁNH MIỀN BẮC,5801586240,Hà Văn Đài,"Số Nhà 27, Tổ Dân Phố 15, Đường Văn Cao, P. 1 Bảo Lộc, TP Bảo Lộc, Lâm Đồng",0983.483.057
+CRM_0678,Nghệ Xanh Gia Hưng (Nộp Hộ - Chi Nhánh Sài Gòn,0111704805,Nguyễn Đức Tú,"Đội 5, Sơn Trung, X. Quốc Oai, H. Quốc Oai, Hà Nội",0792 637 663
+CRM_0679,Cty XÂY DỰNG ĐẦU TƯ HƯNG THỊNH - CHI NHÁNH MIỀN BẮC,9000591574,Đỗ Thị Hương,"140 Nguyễn Văn Thủ, P. Tân Định, Q. 1, TP.HCM",0983 088 685
+CRM_0680,Tư Thương Mại Và Dịch Vụ Đức - Chi Nhánh Đà Nẵng,4300936206,Võ Văn Hưng,"Thôn Đông Mỹ, X. Vệ Giang",0988955061
+CRM_0681,Công Ty Tnhh Vận Tải Lưu - Chi Nhánh Sài Gòn,0901258798,Tô Xuân Trung,"Thôn Xuân Cầu, X. Nghĩa Trụ",+84983940514
+CRM_0682,Công Ty Tnhh Shynh Group Holding - Chi Nhánh Hà Nội,0901258766,Lê Hồng Hải,"Thôn Bùi Xá, X. Nghĩa Dân, H. Kim Động, Hưng Yên",0796870597
+CRM_0683,Cty Xd Nam Tiến - Chi Nhánh Sài Gòn,3703528984,Lê Thị Hải,"17 N4, Kdc Đông An",+84907713246
+CRM_0684,CTCP CÔNG NGHỆ BẤT ĐỘNG SẢN SOUTHERN TECH - CHI NHÁNH HÀ NỘI,0319799468,Từ Thị Cẫm Giang,"76/28K Phan Tây Hồ, P. Cầu Kiệu",0978682291
+CRM_0685,Công ty CP QUỐC TẾ BẢO - CHI NHÁNH ĐĐÀ NẴNG,1201738744,Ni Tiandong,"Lô Bi-2, Khu Công Nghiệp Tân Hương, X. Tân Hương, H. Châu Thành, Tiền Giang",0986.783.729
+CRM_0686,CTCP THƯƠNG MẠI DỊCH VỤ BẢO VỆ THIÊN - CHI NHÁNH ĐÀ NẴNG,0319799235,Nguyễn Quốc Anh,"61/21 Lưu Nhân Chú, P. Tân Sơn Nhất",0906.182.567
+CRM_0687,Cty TNHH KITCHEN TECH - CHI NHÁNH ĐÀ NẴNG,0319799203,Trần Hoàng Châu,"66/3 Bùi Thị Xuân, P. Tân Sơn Nhất, Q. Tân Bình, TP.HCM",+84971813609
+CRM_0688,Gỗ Phạm - Chi Nhánh Miền Bắc,0319799179,Nguyễn Thị Hương Lan,"32 Bắc Hải, P. Tân Hòa, Q. Tân Bình, TP.HCM",+84989514901
+CRM_0689,Cty Cổ Phần Lụa Nha - Chi Nhánh Hà Nội,1501176574,Lâm Lợi,"Thửa Đất Số 76, Tờ Bản Đồ Số 22, Ấp Hòa Thuận, X. Hòa Hiệp, H. Tam Bình, Vĩnh Long",+84904715003
+CRM_0690,Cty CP THƯƠNG MẠI VÀ DỊCH VỤ - CHI NHÁNH ĐÀ NẴNG,0319798721,Nguyễn Thị Hằng,"45/2Z Đường Nhà Vuông, X. Bà Điểm",0986 487 300
+CRM_0691,Cty THƯƠNG MẠI DU LỊCH TÂM ĐỨC ĐỒI - CHI NHÁNH SÀI GÒN,3703529402,Phạm Nguyễn Hải Dương,"Số 40/03, Đường Quốc Lộ 13",0883.814.560
+CRM_0692,Cty Thương Mại Dịch Vụ Amira - Chi Nhánh Hà Nội,0319797693,Trần Duy Nhất,"Số 11, Đường Số 22, P. Hiệp Bình, TP Thủ Đức, TP.HCM",+84913584208
+CRM_0693,Cty TNHH - CHI NHÁNH ĐÀ NẴNG,0319795382,Nguyễn Thị Phượng,"181 Đường 3B, X. Tân Vĩnh Lộc, H. Bình Chánh, TP.HCM",0883.944.037
+CRM_0694,Cty EZ - CHI NHÁNH ĐÀ NẴNG,5300859144,Vũ Hoàng Anh,"Thôn Tân Thành, X. Bảo Thắng, H. Bảo Thắng, Lào Cai",+84973200744
+CRM_0695,CTCP TRUYỀN THÔNG SỐ - CHI NHÁNH MIỀN BẮC,3401296092,Trần Văn Khanh,"37 Nguyễn Tất Thành, Thôn Chợ Lầu 1, X. Bắc Bình, H. Bắc Bình, Bình Thuận",+84937996164
+CRM_0696,TNHH MTV THƯ - CHI NHÁNH HÀ NỘI,0319795375,Châu Ngọc Mạnh,"Tầng 1 Toà Nhà 69/23-25 Nguyễn Cửu Đàm, P. Tân Sơn Nhì, Q. Tân Phú, TP.HCM",+84918441148
+CRM_0697,Ctcp Hitex Đông - Chi Nhánh Sài Gòn,5702240883,Đinh Văn Tùng,"Khu Phố Vĩnh Phú, P. Mạo Khê, Thị X. Đông Triều, Quảng Ninh",+84973870563
+CRM_0698,Công Ty Tnhh Buffet Sen - Chi Nhánh Đà Nẵng,1702379736,Trương Anh Việt,"121 Milan, Sunset Town",0971 030 229
+CRM_0699,TRÁCH NHIỆM HỮU HẠN KIM HẢI GIA - CHI NHÁNH HÀ NỘI,1702379711,Đào Xuân Quý,"48 Positano, Sunset Town",0989.500.945
+CRM_0700,Công ty TNHH DU LỊCH VÀ DỊCH VỤ HƯNG - CHI NHÁNH HÀ NỘI,1702379729,Trương Anh Việt,"At01-03 New An Thới, Tổ 6, Khu Phố 6 An Thới, Đặc Khu Phú Quốc, TP Phú Quốc, Kiên Giang",0888 570 753
+CRM_0701,Cty Kiến Trúc Và Xây Dựng Hùng Cường,,Vũ Văn Cường,"Tổ Dân Phố Thống Nhất, P. Thiên Trường",0906 691 004
+CRM_0702,Cty XNK THƯƠNG MẠI THUẬN AN,5300859105,Đoàn Thị Hiền,"Số Nhà 026 Bình Minh, P. Cam Đường, TP Lào Cai, Lào Cai",0985606099
+CRM_0703,Cty PUTAD,0319797703,Nguyễn Đình Luận,"Số 62/4 Ấp Xuân Thới Thượng 10, X. Bà Điểm, H. Hóc Môn, TP.HCM",0907191406
+CRM_0704,CÔNG TY TRÁCH NHIỆM HỮU HẠN LOGISTICS VEREX,3604133329,Phan Đình Cảnh,"Tổ 6, Ấp 1, P. Long Thành, P. Long Thành, Đồng Nai",+84918516982
+CRM_0705,TNHH THƯƠNG MẠI VÀ DỊCH VỤ ĐẠI AN MỘC CM,,Nguyễn Văn Khởi,"Thửa Đất Số 505, Tờ Bản Đồ Số 7, Khóm 3, P. An Xuyên, TP Cà Mau, Cà Mau",0882897708
+CRM_0706,Cty CUNG CẤP THIẾT BỊ NƯỚC HÒA NGUYÊN,0202376527,Nguyễn Hoàng Chính,"Số 40 Đường Chu Văn An, P. Gia Viên, Q. Ngô Quyền, Hải Phòng",0975 907 526
+CRM_0707,Quỹ Khuyến Tài Đấất Mũi,2001416621,Nguyễn Minh Luân,"01 Đường Bà Triệu, P. Tân Thành, TP Cà Mau, Cà Mau",0914290966
+CRM_0708,Sản XXuất Và Thương Mại Bba,2701017728,Trâ�N Văn Trươ�Ng,"Lô A3.3 Khu Công Nghiệp Khánh Phú, P. Đông Hoa Lư",+84931863425
+CRM_0709,"CÔNG TY YASUDA ENGINEERING CO.,LTD",0319799080,Hoàng Đức Quang,"Az Building, 94-96 Đường Số 2, Cư Xá Đô Thành, P. Bàn Cờ, Q. 3, TP.HCM",0918.975.678
+CRM_0710,Tnhh Kinh Doanh Tổng Hợp Đức Ngọc,3101163214,Lưu Đức Ngọc,"Số 134 Đường F325, P. Đồng Thuận, TP Đồng Hới, Quảng Bình",0986251205
+CRM_0711,Balcona Đà Nẵng - Chi Nhánh Công Ty Cổ Phần Sao Vàng Nha Trang,0402365956,Đỗ Mạnh Thắng,"Số Nhà 288 Đường Võ Nguyên Giáp, P. Ngũ Hành Sơn, Q. Ngũ Hành Sơn, Đà Nẵng",0982186314
+CRM_0712,Cty Cổ phần CÔNG NGHỆ PHẦN MỀM SHD,0111703590,Nguyễn Thị Minh Trang,"Số 7/34/110 Đường Trung Kính, P. Yên Hòa",0933.729.248
+CRM_0713,DỊCH VỤ - DỮ LIỆU CÔNG NGHỆ THÔNG TIN VI NA,9000591581,Kelly Yin Hon Wong,"Tòa Nhà Golden King, Số 15 Nguyễn Lương Bằng",0982 359 191
+CRM_0714,Cty CP CSSK SMED CARE,2601166469,Lê Thị Lan Anh,"Tầng 1,2,3,4 Số 74 Đường Nguyễn Du, P. Nông Trang, TP Việt Trì, Phú Thọ",0976.600.960
+CRM_0715,Ban Quản Lý Rừng An Giang,1702379750,Thái Văn Nhân,"1226A, Nguyễn Trung Trực, P. Rạch Giá, TP Rạch Giá, Kiên Giang",+84888618871
+CRM_0716,ỦY NHIỆM THU - UBND PHƯỜNG CHIỀNG AN,5500693249,Nguyễn Huy Hoàng,"Tổ 4, P. Chiềng An, Tỉnh Sơn La, P. Chiềng An, TP Sơn La, Sơn La",0796.846.611
+CRM_0717,Công ty TNHH CÔNG NGHỆ PHẦN MỀM TREMENU,,Nguyễn Trung Việt,"Thôn Đồng Kênh, X. Chí Minh, H. Tứ Kỳ, Hải Dương",0794016959
+CRM_0718,TRƯỜNG CAO ĐẲNG HÀ NỘI,0111704770,Lê Thị Quỳnh Anh,"Km3+350 Đường Phan Trọng Tuệ, X. Đại Thanh, H. Thanh Trì, Hà Nội",0938979467
+CRM_0719,Cty TNHH BỆNH VIỆN MẮT QUỐC TẾ CUNG HỒNG SƠN,0111704756,Cung Bỉnh Trung,"Số 709 Giải Phóng, P. Tương Mai, Q. Hoàng Mai, Hà Nội",0981.875.771
+CRM_0720,Hợp Tác Xã Thương Mại Dịch Vụ Tiêu Dùng Co-Op Miền Tây,1201738705,Trần Quốc Việt,"Số 35, Ấp Bắc, P. Đạo Thạnh, TP Mỹ Tho, Tiền Giang",0795.598.041
+CRM_0721,Cty MỘT THÀNH VIÊN HOÀNG GIA HGI,0111703664,Hoàng Bảo Ngọc,"Số 79 Thượng Hội, X. Ô Diên, H. Đan Phượng, Hà Nội",0906 925 407
+CRM_0722,Ban Quản Lý Dự Án Ecomore 3,0111704650,Phan Trọng Lân,"Số 1 Yecxanh, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",+84919376812
+CRM_0723,TNHH ĐẠT THÀNH 79,1702379616,Đặng Thị Huyền Trân,"152 Nguyễn Văn Tố, P. Rạch Giá, TP Rạch Giá, Kiên Giang",+84977128933
+CRM_0724,Cty SEMBO FISHING,1102193803,Ngô Quốc Trường,"95 Võ Văn Tần, Khu Phố 2, X. Vĩnh Hưng, H. Vĩnh Hưng, Long An",0983642254
+CRM_0725,Cty TNHH QUỐC CƯỜNG ELIP,,Trần Thị Quỳnh Nhung,"102-104 Thái Văn Lung, P. Hòa Xuân",+84882041767
+CRM_0726,BAN CHỈ HUY QUÂN SỰỰ XÃ MỸ THUẬN,1702379704,Phạm Văn Luân,"Số 368 Ấp Phước Thạnh, X. Mỹ Thuận",0905 927 650
+CRM_0727,Cty Cp Tiumpower,,Võ Văn Quá,"K29/186/02/02 Trần Ngọc Sương, P. Cẩm Lệ",+84882656939
+CRM_0728,Cty Tnhh Đầu Tư Xây Dựng Và Thương Mại Nam Home,2401096969,Vũ Trí Nam,"Số Nhà 26, Đường Võ Thị Sáu, P. Bắc Giang, TP Bắc Giang, Bắc Giang",0911.751.049
+CRM_0729,Cty Tnhh Bình Bảo Minh - Chi Nhánh Hải Dương,0801511479,Nguyễn Tiến Tiến,"Khu 4, Đường Ngô Quyền, P. Thành Đông, TP Hải Dương, Hải Dương",0881537998
+CRM_0730,Hợp Tác Xã Du Lịch Sinh Thái Biển Nha Trang,4202072050,Lê Văn Sơn,"Tổ Dân Phố Lương Sơn, P. Bắc Nha Trang, TP Nha Trang, Khánh Hòa",+84979865174
+CRM_0731,TỔ HỢP TÁC CHĂN NUÔI TRUNG TUUYỂN,3200765146,Nguyễn Võ Trung Tuyển,"Thôn Cam Sơn, X. Cam Lộ, H. Cam Lộ, Quảng Trị",+84798470126
+CRM_0732,Cty LLA HOLDINGS,,Nguyễn Thị Kim Liên,"Tầng 12A, Tòa Nhà Hapro Building",+84905869164
+CRM_0733,Cty Heebe Vn,0319798873,Phạm Thị Trà Giang,"108 Trần Đình Xu, P. Cầu Ông Lãnh, Q. 1, TP.HCM",0791 525 943
+CRM_0734,Công Ty Tnhh Sản Xuất Thương Mại Và Kỹ Thuật Minh Khôi (Ntnn),0319798760,Đỗ Văn Khanh,"354/47/12/48 Đường Lê Đức Anh, Khu Phố 11, P. Bình Tân, Q. Bình Tân, TP.HCM",0932 721 840
+CRM_0735,TNHH LYS D'AZUR VOOYAGE VIỆT NAM,0111704788,Nguyễn Thị Hải Vân,"Thôn Tình Lam, X. Hưng Đạo, H. Quốc Oai, Hà Nội",0975 289 736
+CRM_0736,Công ty CP GREEN HORIIZON CAPITAL,,Vương Thị Huyền,"Phòng A6, Mpro Office, Tòa Nhà Times Tower, 35 Đường Lê Văn, P. Thanh Xuân, Q. Thanh Xuân, Hà Nội",0932048328
+CRM_0737,Công Ty Tnhh Lạc Viên Spa,0319798908,Bùi Thị Bích Như,"Số 7/2 Nguyễn Thị Minh Khai, P. Sài Gòn, Q. 1, TP.HCM",0797 320 890
+CRM_0738,Cty TNHH WECOZY,0111704523,Võ Thị Phương Thảo,"Số 03 Lê Văn Hưu, P. Hai Bà Trưng",0974.871.101
+CRM_0739,TTA GLOBAL,0111704259,Hà Văn Chung,"Tầng 3 Và 4, Số 314 Phố Huế, P. Hai Bà Trưng, Q. Hai Bà Trưng, Hà Nội",0912 079 018
+CRM_0740,Cty Thư Lê Ht,1102193810,Lê Phạm Anh Thư,"Thửa Đất Số 99, Tờ Bản Đồ Số 14, Ấp Vĩnh Phước, X. Phước Lý, H. Cần Giuộc, Long An",0981.386.725
+CRM_0741,Công ty CP TƯ VẤN XÂY DỰNG VÀ ĐẦU TƯ PHÁTT TRIỂN MINH QUANG,0111703752,Nguyễn Quang Quý,"Số 64 Ngõ 11 Thôn Bách Lộc, X. Phúc Thọ, H. Phúc Thọ, Hà Nội",0974 491 783
+CRM_0742,XÂY DỰNG THƯƠNG MẠI ĐẠI PHÚ VINH,1801844279,Huỳnh Quốc Sĩ,"L42-09A, Đường Số 30, Kdc Ngân Thuận, P. Bình Thủy, Q. Bình Thuỷ, Cần Thơ",0791 615 379
+CRM_0743,Nghĩa Biên HHòa,3604133375,Phạm Văn Nghĩa,"Số 18, Khu Dân Cư Phú Gia 1, Đường N6, Khu Phố 2, P. Trấn Biên, P. Trấn Biên, Đồng Nai",+84979436521
+CRM_0744,Cty Cổ Phần Môi Trường T&T,,Đinh Thị Huyền,"Số 90/18 Nguyễn Biểu, P. Bắc Nha Trang, TP Nha Trang, Khánh Hòa",0908 928 090
+CRM_0745,Ban Chỉ Huy Quân Sự Xã Tập Sơn,,Thạch Long,"Ấp Leng, X. Tập Sơn, H. Trà Cú, Trà Vinh",+84986397787
+CRM_0746,Tnhh Haven Studio,,Nguyễn Thế Việt,"K72/50 Nguyễn Văn Thoại, P. Ngũ Hành Sơn, Q. Ngũ Hành Sơn, Đà Nẵng",0988 703 946
+CRM_0747,ĐẠI DIỆN WORKSMATE INC TẠI THÀNH PHỐ HÀ NỘI,,Phạm Thị Trà My,"Tầng 3, Tòa Nhà Dolphin Plaza",+84931862720
+CRM_0748,Công Ty Luật Trách Nhiệm Hữu Hạn Vietnamcredit,,Vũ Thị Huyền Trang,"Số Nhà 699, Đường An Thượng - Đông La, Xóm 2, Thôn Đồng Nhân, X. An Khánh, H. Hoài Đức, Hà Nội",+84884746710
+CRM_0749,TNHH LULU SAIGON,,Nguyễn Luân Vũ,"1A Phan Tôn, P. Tân Định, Q. 1, TP.HCM",0915 571 315
+CRM_0750,Công ty TNHH KIM PET VIỆT NAM (NTNN),0319798792,Trịnh Thị Kim Anh,"137/101 Phan Anh, P. Bình Trị Đông, Q. Bình Tân, TP.HCM",0908 000 680
+CRM_0751,Cp Kỹ Thuật Vintech Việt Nam,0700930970,Tống Văn Đạt,"Tdp Mễ Nội, P. Phủ Lý, TP Phủ Lý, Hà Nam",+84888104118
+CRM_0752,Cty NÔNG NGHIỆP CÔNG NGHỆ CAO TRRUNG SƠN,0319797950,Lê Ngọc Long,"134 Hà Huy Tập, P. Tân Hưng, Q. 7, TP.HCM",0974.288.989
+CRM_0753,Công ty TNHH DỊCH VỤ PHÚC ĐINH,0319798513,Đinh Quang Phúc,"Số 88/4 Mạc Đĩnh Chi, P. Tân Định",0985 725 139
+CRM_0754,Công ty CP DỊCH VỤ QUỐC TẾ DK BROTHERS,0319798545,Trần Quang Vinh,"Số 131 Đường Nguyễn Thái Bình, P. Bến Thành",+84918761297
+CRM_0755,CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN SẢN XUẤT THƯƠNG MẠI YẾN SÀO MINH LONG,1201738712,Chế Minh Hiền,"Số 146, Đường 97B, Khu Phố Hưng Long, Tổ 10, P. Sơn Qui, TP Gò Công, Tiền Giang",0931 269 749
+CRM_0756,Công ty TNHH CÔNG NGHỆ SỨC KHỎE HÀN VIỆT KOREA (MST NỘP THAY NTNN),0319798961,Nguyễn Văn Bé Hai,"56/26/12/3 Đường Ht45, Khu Phố 1, P. Tân Thới Hiệp, Q. 12, TP.HCM",0975.371.229
+CRM_0757,Bệnh Viện Jw Hànn Quốc,0319798866,Nguyễn Phan Tú Dung,"Số 44-46-48-50 Đường Tôn Thất Tùng, P. Bến Thành",0919 865 392
+CRM_0758,Cty Omnix Group Holdings (Ntnn),0319798785,Hoàng Trung Thành,"578-580 Hương Lộ 2, P. Bình Trị Đông, Q. Bình Tân, TP.HCM",+84791390553
+CRM_0759,TNHH THƯƠNG MẠI XUẤT NHẬP KHẨU QUỐC TẾ HĐTN,,Tráng Seo Tiên,"Số 264 Đường Láng, P. Láng, Q. Đống Đa, Hà Nội",+84798002554
+CRM_0760,Công Ty Luật Tnhh Minh Khôi Justitia,,Hoàng Minh Khôi,"1114 Vĩnh Lộc, X. Tân Vĩnh Lộc, H. Bình Chánh, TP.HCM",+84932146081
+CRM_0761,Cty TNHH YES STUDY,0319798577,Khưu Đức Anh Huy,"Tầng 9, 277 � 279 Lý Tự Trọng, P. Bến Thành, Q. 1, TP.HCM",+84797584083
+CRM_0762,Phần Somo Gold,0319798552,Nguyễn Thị Thanh Hoa,"160/22 Cô Giang, P. Cầu Ông Lãnh, Q. 1, TP.HCM",0904.430.363
+CRM_0763,Công ty TNHH APPROACH F&B,,Kang Kyunghoon,"23 Đường Tôn Đức Thắng, P. Sài Gòn, Q. 1, TP.HCM",0911870935
+CRM_0764,Cty TNHH THƯƠNNG MẠI TRẦN NGUYỄN TECHNOLOGY,0319795449,Trần Văn Đức,"216-218 Đường Công Nghệ Mới, X. Tân Vĩnh Lộc, H. Bình Chánh, TP.HCM",+84793909745
+CRM_0765,VĂN PHÒNG ĐẠI DIỆN TẠI HẢI PHÒNG - CÔNG TY CỔ PHẦN ĐỊNH GIÁ HFC,,Lê Thị Nguyên,"74 Phùng Chí Kiên, P. Lê Thanh Nghị, TP Hải Dương, Hải Dương",0972 700 519
+CRM_0766,TNHH THƯƠNG MẠI DỊCH VỤ MÂY AN NHIÊN,3801363667,Lê Thị Khánh Trang,"Lô B7-22, Khu Đô Thị Cát Tường Phú Hưng",0939 883 697
+CRM_0767,Cty HÀ ĐẠI PHÁT,,Hà Văn Học,"Tổ Dân Phố Đại Phú, P. Lạng Giang, P. Kép, Bắc Giang",+84798858010
+CRM_0768,NHÀ HÀNG THE MONKEY GALLERY - CHI NHÁNH CÔNG TY TNHH ĐẦU TƯ TÂN PHÁT,,Phan Anh Duy,"91 Mạc Thị Bưởi, P. Sài Gòn, Q. 1, TP.HCM",0797 283 362
+CRM_0769,CTCP ĐẦU TƯ KIẾN TRÚC XÂY DỰNG SONG PHÁT,,Giáp Văn Thuận,"L17-11, Tầng 17, Tòa Nhà Vincom Center, 72 Lê Thánh Tôn, P. Sài Gòn, Q. 1, TP.HCM",0934691235
+CRM_0770,Cty TNHH DỊCH VỤ Ô TÔ KỶ NGUYÊN MỚI,,Nguyễn Văn Thắng,"148 Trường Chinh, P. Đông Hưng Thuận, Q. 12, TP.HCM",+84905693149
+CRM_0771,VIỆN NGHIÊN CỨU GIÁO DỤC CÔNG NGHIỆP VĂN HÓA VIỆT NAM,0319798471,Phạm Trí Thành,"125 Pasteur, P. Xuân Hòa, Q. 3, TP.HCM",+84936367954
+CRM_0772,VĂN PHÒNG HĐND VÀ UBND XÃ THIẾT ỐNG,2803254358,Phạm Văn Thắng,"Thôn Quyết Thắng, X. Thiết Ống, H. Bá Thước, Thanh Hoá",+84975786064
+CRM_0773,Cty Tnhh Sol 7 Entertainment,0319799242,Nguyễn Trường Sinh,"Số 6 Đường 24 Khu Dân Cư Him Lam 6A Trung Sơn, X. Bình Hưng, H. Bình Chánh, TP.HCM",+84984869010
+CRM_0774,TNHH THỂ THAO SÂN BÓNG MINI 36 HỒ THU,,Hồ Thiên Thu,"50/16C Đường Cây Trắc, Ấp 2",0972.738.858
+CRM_0775,DỰNG ĐIỆN CHÂU THÀNH PHÁT- VĂN PHÒNG ĐẠI DIỆN,1402136108-001,Lê Văn Hùng,"Số 175 Lê Anh Xuân, Khu Phố Đình Trung, P. Cao Lãnh, TP Cao Lãnh, Đồng Tháp",0936432497
+CRM_0776,TRÁCH NHIỆM HỮU HẠN HVT SOLAR,4101701249,Trần Thị Mỹ Linh,"Đường Quang Trung, Thôn Kiều An, X. Phù Cát, H. Phù Cát, Bình Định",0919 350 670
+CRM_0777,Cty Tnhh Thương Mại Xây Dựng Việt Thịnh (Việt Nam),3703529226,Qian Lianyuan,"Thửa Đất Số 2417, 2418 Và 2419, Tờ Bản Đồ Số 54, X. Bàu Bàng, H. Bàu Bàng, Bình Dương",+84884927809
+CRM_0778,Cty CP THƯƠNG MẠI QUỐC TẾ HỢP NHẤT,,Nguyễn Đức Hợp,"Tầng 4, Căn L1.8,9,10 Khu Nhà Ở Liền Kề Hải Ngân, Đường Than, P. Thanh Liệt, H. Thanh Trì, Hà Nội",0885558706
+CRM_0779,Ctcp Hcn Holdings Việt Nam,,Phùng Thế Dũng,"Số 25-27, Ngõ 214 Đường Nguyễn Xiển, P. Thanh Liệt, H. Thanh Trì, Hà Nội",0985 512 570
+CRM_0780,Công Ty Cp Thiên Đường Cổ Cò,4001344272,Phạm Xuân Thạch,"Khối Quảng Gia, P. Điện Bàn Đông, Thị X. Điện Bàn, Quảng Nam",+84985542402
+CRM_0781,Công ty CP THƯƠNG MẠI DỊCH VỤ THE ONLY WAY (NTNN),0319798150,Lê Thành Long,"Số Nhà R4-90, Khu R23",0972 200 696
+CRM_0782,Cty CP EPICGOLD,,Mai Thế Hùng,"Số Nhà 34 + 36 Ngách 41/36 Đông Tác, Tổ 82A",0883 225 858
+CRM_0783,Cty TNHH MỘT THÀNH VIÊN VẠN PHÚC BỜ Y,,Nguyễn Văn Phúc,"Thôn Đăk Nhỏ, X. Bờ Y, H. Ngọc Hồi, Kon Tum",0798889707
+CRM_0784,CHI NHÁNH CÔNG TY TNHH KINH DOANH THƯƠNG MẠI VÀ DỊCH VỤ XUÂN SƠN - CƠ SỞ SẢN XUẤT,0319127346-001,Lê Thị Kim Loan,"166 Đống Đa, P. Quy Nhơn, TP Quy Nhơn, Bình Định",0987 229 902
+CRM_0785,Cty DỆT MAY BẢO HÀ,0319797647,Nguyễn Thị Hà,"Số 37, Khu Phố 35",0886 674 657
+CRM_0786,Công Ty Trách Nhiệm Hữu Hạn Một Thành Viên Thương Mại Dịch Vụ Kun Np,1301176908,Lê Tấn Ngọc,"Thửa Đất Số 118, Tờ Bản Đồ Số 171, Khu Phố 2, P. An Hội, TP Bến Tre, Bến Tre",0976 281 761
+CRM_0787,Công ty TNHH TRUYỀN THÔNG VÀ CÔNG NGHỆ LIKE BOX (NCCNN),0319798087,Bùi Thanh Tâm,"450/4 Phan Xích Long, P. Cầu Kiệu, Q. Phú Nhuận, TP.HCM",+84915802804
+CRM_0788,Công Ty Tnhh Sinh Học Châu Á,0319799161,Hoàng Văn Hiệp,"Tầng 2, Tòa Nhà Hado Airport Building, Số 2 Hồng Hà, P. Tân Sơn Hòa, Q. Tân Bình, TP.HCM",+84908954133
+CRM_0789,Cty Cổ Phần Kinh Doanh Bất Động Sản Singa,0319799147,Hồ Văn Hùng,"24 Bạch Đằng, P. Tân Sơn Hòa, Q. Tân Bình, TP.HCM",0977306810
+CRM_0790,Cty CP DỊCH VỤ AIR CONSOL PHƯỢNG HOÀNG - CHI NHÁNH HỒ CHÍ MINH,,Quan Diệu Nga,"Tầng 6, Tòa Nhà Hải Âu",0977.143.413
+CRM_0791,Cty THƯƠNG MẠI DỊCH VỤ UTPALA GROUP,,Nguyễn Thị Nhật Thúy,"1059 Lạc Long Quân, P. Bảy Hiền, Q. Tân Bình, TP.HCM",+84884121482
+CRM_0792,Cty ĐIỆN MÁY TỔNG HỢP ĐỨC THUÝ,3002322801,Nguyễn Thị Diệu Thuý,"Số 576, Đường Hà Huy Tập",+84987565304
+CRM_0793,Cty CP TẬP ĐOÀN AKARI GLOBAL,,Trịnh Thị Lý,"Tầng 2, Ô Số A70 Khu Đấu Giá Qsdđ 3Ha Đường Yên Lộc, P. Phú Diễn, Q. Bắc Từ Liêm, Hà Nội",0985363349
+CRM_0794,LỐP THIÊN TRANG,4101701270,Nguyễn Ngọc Toàn,"734-736 Hùng Vương, P. Quy Nhơn Bắc, TP Quy Nhơn, Bình Định",0986.485.976
+CRM_0795,Cty Xuất Nhập Khẩu Lê Lựu,5300859112,Nguyễn Hoàng Anh,"Số Nhà 014 Hưng Hóa, Tổ Dân Phố Số 9 Cốc Lếu, P. Lào Cai, TP Lào Cai, Lào Cai",+84906075209
+CRM_0796,Cty TNHH TỔNG HỢP TMDV QUANG MINH,4300936291,Phạm Thanh Long,"Thôn Hòa Thuận, X. Đông Sơn, H. Bình Sơn, Quảng Ngãi",0988710313
+CRM_0797,Cty DỊCH VỤ IN MH VIỆT NAM,0601334261,Nguyễn Khánh Mạnh,"151 Vũ Hữu Lợi, P. Nam Định, TP Nam Định, Nam Định",+84987372309
+CRM_0798,Công Ty Tnhh Thương Mại Dịch Vụ Huy Hoàng Door,3301770375,Nguyễn Văn Huy Hoàng,"Tdp Tây Hiền, P. Phong Thái, Thị X. Phong Điền, TP Huế",0976080557
+CRM_0799,Cty DỊCH VỤ NHÀ HÀNG HẢI HỒNG THÁI NGUYÊN,4601682121,Phạm Thị Hải Hồng,"Tdp Cống Thượng, P. Phổ Yên, TP Phổ Yên, Thái Nguyên",0915 432 595
+CRM_0800,Cty France Lab Sas,,Hoàng Thị Ngân,"Số 43, Đường Đồng Khởi",+84907617349

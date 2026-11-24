@@ -1,0 +1,801 @@
+﻿erp_id,company_name,tax_id,representative,billing_address,phone
+ERP_0001,CÔNG TY TNHH HẢI SẢN HỒNG NHẤT,0319797164,Nguyễn Ngọc Hồng Ngân,"153 Nguyễn Thị Thập, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0791983584
+ERP_0002,HỢP TÁC XÃ DỪA PHÚC MINH,1301177034,Trương Thị Thanh,"Thửa Đất Số 206, Tờ Bản Đồ Số 8, Xã Hưng Nhượng, Huyện Giồng Trôm, Bến Tre",0794322492
+ERP_0003,CÔNG TY TNHH CÔNG NGHỆ VELTRIX,0901258861,Lê Văn Thìn,"Số 42, San Hô 4, Vinhomes Ocean Park 2, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0792531324
+ERP_0004,CÔNG TY TNHH MTV THƯƠNG MẠI VÀ DỊCH VỤ MINH ĐẠT,0901258893,Nguyễn Văn Ánh,"Số Nhà 3361, Đường Nguyễn Văn Linh, Tổ Dân Phố Dương Thịnh, Phường Thượng Hồng, Thị Xã Mỹ Hào, Hưng Yên",0937330170
+ERP_0005,CÔNG TY CỔ PHẦN CƠ ĐIỆN PHÒNG SẠCH ANH KHANG,0111705848,Nguyễn Thùy Văn,"Tầng 4 Tòa Nhà Evd, Số 431 Tam Trinh, Phường Hoàng Mai, Quận Hoàng Mai, Hà Nội",0793688100
+ERP_0006,CÔNG TY TNHH THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU TRẦN NGỌC,0319800233,Trần Mạnh Ngọc,"51/15 Giải Phóng, Phường Tân Sơn Nhất, Quận Tân Bình, Tp Hồ Chí Minh",0977282608
+ERP_0007,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NGỌC HÂN ANH,0319800240,Nguyễn Tuấn Anh,"72/95 Huỳnh Văn Nghệ, Phường Tân Sơn, Quận Tân Bình, Tp Hồ Chí Minh",0937726399
+ERP_0008,CÔNG TY TNHH NHÀ VIỆT TÍN,0319799997,Nguyễn Thụy Ngọc Tuyến,"Tầng Trệt, Số 85-86-87 Bến Vân Đồn, Phường Khánh Hội, Quận 4, Tp Hồ Chí Minh",0794340031
+ERP_0009,"CÔNG TY TNHH SẢN XUẤT, THƯƠNG MẠI VÀ DỊCH VỤ NGUYÊN AN THỊNH PHÁT",0901258910,Phạm Thị Lê,"Số 212 Nguyễn Văn Linh, Phường Sơn Nam, Thành Phố Hưng Yên, Hưng Yên",0931851005
+ERP_0010,TRẠM Y TẾ THƯỢNG HÀ,5300859218,Bàn Thị Vân,"Thôn 5 Mai Đào, Xã Thượng Hà, Huyện Bảo Yên, Lào Cai",0909272913
+ERP_0011,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ PHƯƠNG NGA 68,5100521816,Chảo Thị Nga,"Số Nhà 02 Ngõ 248 Đường Nguyễn Văn Linh, Tổ 4, Phường Hà Giang 2, Tp Hà Giang, Hà Giang",0884146436
+ERP_0012,CÔNG TY CP CÔNG NGHỆ GIÁO DỤC FSCHOLARS,0202376566,Mai Quí Vương,"Số 89, Tổ Dân Phố Tiên Sa, Phường An Hải, Quận An Dương, Hải Phòng",0933493875
+ERP_0013,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN ĐÔ THỊ AHA VIỆT NAM,0111705446,Vũ Quang Anh,"Tầng 3, Tòa Nhà Vinafoam - Số 1 Ngõ 6 Đường Vũ Đức Thận, Phường Việt Hưng, Quận Long Biên, Hà Nội",0902694428
+ERP_0014,CÔNG TY TNHH UNISON LOGISTICS INTERNATIONAL (VIETNAM),0111705421,Gu Wenxue,"Tầng 7, Tòa Nhà Peakview Tower, Số 36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",0887822197
+ERP_0015,CÔNG TY TNHH ABZ TECH,0901258847,Trịnh Văn Lê,"Thôn Trung Kiên, Xã Lạc Đạo, Huyện Văn Lâm, Hưng Yên",0883173967
+ERP_0016,CÔNG TY CỔ PHẦN ĐẦU TƯ XÂY DỰNG VÀ THƯƠNG MẠI BỐ HẠ,2401097017,Nguyễn Tiến Cường,"Thôn Hoàng Hoa Thám, Xã Yên Thế, Phường Bố Hạ, Bắc Giang",0905257998
+ERP_0017,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NOVA TECH,0801511535,Nguyễn Đức Khôi,"Thửa Đất Số 1410, Tờ Bản Đồ Số 6, Xã Trường Tân, Huyện Gia Lộc, Hải Dương",0972263024
+ERP_0018,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TRUYỀN THÔNG DU LỊCH HTC THANH XUÂN INVESTMENT JV,0316217834-003,Phạm Văn Phong,"Số 41 Đường T19 Thuộc Dự Án Khu Dân Cư Và Công Viên Phước Th, Phường Long Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0937576899
+ERP_0019,CÔNG TY TNHH KIÊN LONG.QL (NTNN),0319800586,Bùi Văn Kiên,"Số 62 Đường D6A, Phường Phước Long, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0906144095
+ERP_0020,TRẠM Y TẾ XÃ BẢO HÀ,5300859271,Hoàng Thị Duyến,"Thôn Liên Hà 3, Xã Nghĩa Đô, Huyện Bảo Yên, Lào Cai",0983787432
+ERP_0021,TRẠM Y TẾ BẢO YÊN,5300859200,Phạm Thế Hưng,"Thôn 4B, Xã Bảo Yên, Huyện Bảo Yên, Lào Cai",0971595290
+ERP_0022,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP LÂM VY,0402366011,Lê Kim Tú,"117 Nguyễn Tri Phương, Phường Thanh Khê, Quận Thanh Khê, Đà Nẵng",0912590538
+ERP_0023,CÔNG TY TNHH BAMIKO VIỆT NAM,0901258935,Vũ Thị Tuyết Mai,"Thôn Từ Hồ, Xã Việt Yên, Huyện Yên Mỹ, Hưng Yên",0934544880
+ERP_0024,CÔNG TY TNHH VT HOÀNG DƯƠNG,5300859169,Phạm Ngọc Thức,"Số Nhà 020 Đường Nhạc Sơn, Phường Lào Cai, Thành Phố Lào Cai, Lào Cai",0908266253
+ERP_0025,CÔNG TY TNHH VẬN TẢI VÀ DU LỊCH ĐỨC VINH,0111705460,Nguyễn Thị Ánh Ngọc,"Lô 16M2 Kđt Yên Hoà, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0936659790
+ERP_0026,CÔNG TY CỔ PHẦN BẤT ĐỘNG SẢN TRƯỜNG THÀNH LAND,0111705453,Nguyễn Thành Trung,"Số 200, Tdp Số 4, Xã Thanh Trì, Huyện Thanh Trì, Hà Nội",0913311934
+ERP_0027,CÔNG TY TNHH MTV LÊ GIA THÀNH CÔNG,0111705439,Phạm Tố Quyên,"Biệt Thự 11, Khu Chung Cư Tràng An Complex, Số 1 Phùng Chí, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",0938443213
+ERP_0028,CÔNG TY TNHH CÔNG NGHỆ HÙNG VƯƠNG XANH,0111705492,Hoàng Xuân Hùng,"Tầng 14 Toà Nhà Việt Á, Số 9 Phố Duy Tân, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0911645812
+ERP_0029,CHI NHÁNH HÀ NỘI - CÔNG TY TNHH LV LOGISTICS VIỆT NAM,0111705485,Phan Hải Đăng,"Tầng 11, Tháp B, Toà Nhà Epic Tower, Ô Đất D14, Kđt Mới Cầu, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0907212957
+ERP_0030,CÔNG TY TNHH AVITA HOLDING,0111705407,Nguyễn Công Hùng,"Tầng 8, Tòa Nhà Sannam, Số 78 Phố Duy Tân, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0974057262
+ERP_0031,CÔNG TY TNHH TRƯỜNG ĐÀO TẠO KINH DOANH VÀ ĐẦU TƯ THỰC TẾ NIK,0111705502,Công Ty Tnhh Trường Đào Tạo Ki,"Tầng 12, Tòa Diamond Flower, Số 48 Đường Lê Văn Lương, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0792930923
+ERP_0032,CÔNG TY CỔ PHẦN TRUYỀN THÔNG NEXTVIEW,1801844529,Nguyễn Hoàng My,"Số 20-22, Đường B21, Kdc 91B, Phường Tân An, Quận Ninh Kiều, Cần Thơ",0886921095
+ERP_0033,CÔNG TY CỔ PHẦN THIẾT KẾ LẮP ĐẶT VÀ CUNG CẤP TRANG THIẾT BỊ PCCC TRƯỜNG PHÁT,0111706224,Hoàng Thị Lý,"No.01 - Lk42, Khu Dịch Vụ Cây Quýt, Phường Hà Đông, Quận Hà Đông, Hà Nội",0934646561
+ERP_0034,VĂN PHÒNG ĐẠI DIỆN CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN ĐÀ THÀNH TẠI TỈNH ĐẮK LẮK,0401824766-004,Đinh Văn Cường,"11 Nguyễn Huệ, Phường Tuy Hòa, Tp Tuy Hoà, Phú Yên",0902496689
+ERP_0035,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN NOXH IHOME,0111705252,Lê Thị Trà Giang,"Số Nhà 19, Ngõ 4 Đường Thanh Bình, Tổ 8, Phường Hà Đông, Quận Hà Đông, Hà Nội",0919705516
+ERP_0036,CÔNG TY TNHH XUẤT NHẬP KHẨU - SẢN XUẤT - DỊCH VỤ ĐẠI HƯNG,0901258903,Đặng Văn Thông,"Thôn Đại Từ, Xã Đại Đồng, Huyện Văn Lâm, Hưng Yên",0937029314
+ERP_0037,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ KỸ THUẬT LIÊN SANG VL,1501176623,Nguyễn Bích Liên,"Số 71D/05 Khóm Long Hưng, Phường Thanh Đức, Thành Phố Vĩnh Long, Vĩnh Long",0971358671
+ERP_0038,CÔNG TY CỔ PHẦN ỐC LA LA,1501176655,Võ Ngọc Giàu,"Thửa Đất Số 80, Tờ Bản Đồ Số 24, Khóm 1, Phường Cái Vồn, Thị Xã Bình Minh, Vĩnh Long",0888583799
+ERP_0039,CÔNG TY TNHH HÀ MINH NHI,0111705686,Hà Việt Hưng,"Số 70, Tổ 2, Thôn Miếu Thờ, Xã Sóc Sơn, Huyện Sóc Sơn, Hà Nội",0903155438
+ERP_0040,CÔNG TY TNHH PHÁT TRIỂN PHẦN MỀM EZTEK (NTNN),0319799919,Tất Cam Thịnh,"120/62/3 Thích Quảng Đức, Phường Đức Nhuận, Quận Phú Nhuận, Tp Hồ Chí Minh",0913035689
+ERP_0041,CÔNG TY TNHH THƯƠNG MẠI COSY VIỆT NAM,0111705340,Bùi Hoài Nam,"Số 21 Tt9 Khu Đô Thị Văn Phú, Đường Phúc La - Văn Phú, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",0888968535
+ERP_0042,CÔNG TY CỔ PHẦN DỊCH VỤ VÀ THƯƠNG MẠI ĐÔNG ĐÔ GROUP,0111705358,Nguyễn Trung Hiếu,"Số Nhà C27-21 Geleximco Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",0885440464
+ERP_0043,CÔNG TY TNHH NOVA FITNESS&YOGA VIỆT NAM,0111705301,Nguyễn Thành Đạt,"Tầng 3, Chung Cư Ct1 Ngô Thì Nhậm, Phường Hà Đông, Quận Hà Đông, Hà Nội",0982616066
+ERP_0044,CÔNG TY TNHH VẬT LIỆU XÂY DỰNG MINH ANH,0111705319,Nguyễn Quốc Chinh,"Số 16B1-4B, Làng Việt Kiều Châu Âu, Phường Hà Đông, Quận Hà Đông, Hà Nội",0791500276
+ERP_0045,CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VÀ XÂY DỰNG TTH,1001343273,Bùi Thị Ngọc,"Số Nhà 62, Đường 14-10, Xã Tiền Hải, Huyện Tiền Hải, Thái Bình",0912946350
+ERP_0046,CÔNG TY TNHH HOA QUANG TRƯỜNG,5300859176,Đỗ Văn Tuấn,"Số Nhà 109, Đường Đinh Bộ Lĩnh, Phường Lào Cai, Thành Phố Lào Cai, Lào Cai",0974378751
+ERP_0047,CÔNG TY TNHH CÔNG NGHỆ ĐIỆN TỬ BRIGHTWAY VIỆT NAM (NCCNN),0319800057,Võ Thụy Bích Trân,"Số 18, Đường Số 17B, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",0799721481
+ERP_0048,CÔNG TY TNHH DLQ,2902297539,Công Ty Tnhh Dlq,"Xóm Tân Hồng, Xã Quỳnh Lưu, Huyện Quỳnh Lưu, Nghệ An",0982809185
+ERP_0049,"BÌNH LONG MIẾU - ẤP CHỢ BẾN, XÃ TÂN ĐIỀN",1201738913,Nguyễn Văn Giàu,"Ấp Chợ Bến, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0906505367
+ERP_0050,CÔNG TY TNHH PHẦN MỀM THƯƠNG MẠI ĐIỆN TỬ DTN,0111705397,Nguyễn Đức Tiến,"B12B-02, Khu Đô Thị Vinhomes Gardenia, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0936265817
+ERP_0051,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP VẠN PHÚC KHANG,0319797196,Ung Ngọc Trí Dũng,"145/1 Bùi Công Trừng, Ấp 42, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",0971473137
+ERP_0052,CÔNG TY TNHH THỜI TRANG TKS (NCCNN),0319799926,Nguyễn Thị Thuý Kiều,"Số 7 Đường Trần Huy Liệu, Phường Phú Nhuận, Quận Phú Nhuận, Tp Hồ Chí Minh",0798825558
+ERP_0053,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ LAROMA,0111705277,Nguyễn Phạm Phương Linh,"Số Nhà A01-93, An Vượng Villa, Khu Đô Thị Dương Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội",0986539072
+ERP_0054,CÔNG TY TRÁCH NHIỆM HỮU HẠN NAM VY FOOD & BAKERY,0111705284,Nguyễn Văn Thanh,"Số 01-D21 Tại Khu D, Khu Đô Thị Mới Lê Trọng Tấn � Geleximco, Phường Dương Nội, Quận Hà Đông, Hà Nội",0977555005
+ERP_0055,CÔNG TY TNHH LE QUY DIGITAL,0111705206,Lê Trọng Quy,"Dv02-Lk73 Khu Đất Dịch Vụ Đìa Lão, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",0989429375
+ERP_0056,CÔNG TY CỔ PHẦN HH&HC VIỆT NAM,0111705238,Công Ty Cổ Phần Hh&Hc Việt Nam,"U03-L106 Khu D, Khu Đô Thị Mới Dương Nội, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",0796584238
+ERP_0057,CÔNG TY TNHH KIẾN TRÚC AKISA,0111705196,Nguyễn Thành Tuân,"Tầng 9, Toà Hồ Gươm Plaza (Khối Vp), Số 102 Trần Phú, Phường Hà Đông, Quận Hà Đông, Hà Nội",0884653043
+ERP_0058,CÔNG TY CỔ PHẦN S-HOUSE VIỆT NAM,0111705213,Nguyễn Văn Sang,"D49 Lk 7 Ô Số 1, Khu Đô Thị Mới Hai Bên Đường Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội",0792660810
+ERP_0059,CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ CÔNG NGHỆ CMTECH,0111705220,Tô�Ng Hư�U Tâm,"Tầng 1 Tòa Nhà Westa, 102 Trần Phú, Phường Hà Đông, Quận Hà Đông, Hà Nội",0983117054
+ERP_0060,CÔNG TY TNHH ĐẦU TƯ NGHIÊN CỨU VÀ PHÁT TRIỂN PHẦN MỀM VIỆT NAM,0111705245,Vũ Văn Thương,"Số 242 Vạn Phúc, Phường Hà Đông, Quận Hà Đông, Hà Nội",0934087943
+ERP_0061,CÔNG TY TNHH AN NGUYÊN HOME,0111705291,Ngô Trọng An,"Tầng 2 Số Nhà 359 Phố Phú Lương, Tổ Dân Phố 9, Phường Phú Lương, Quận Hà Đông, Hà Nội",0904602500
+ERP_0062,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN ZEYFI,0111705414,Đào Văn Sơn,"Tầng 15A, Tòa Nhà Technopark Tower, Lô Đất Cctp-16, Khu Đô T, Xã Gia Lâm, Huyện Gia Lâm, Hà Nội",0795253934
+ERP_0063,CÔNG TY TNHH ELVO,0319798337,Võ Thị Quỳnh Như,"Tầng 3, Tòa Nhà An Phú Plaza, 117-119 Lý Chính Thắng, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0936107177
+ERP_0064,TỔ HỢP TÁC CHĂN NUÔI CÀY VÒI HƯƠNG,4001344297,Tô Văn Bình,"Thôn Thạnh Phú, Xã Phú Thuận, Huyện Đại Lộc, Quảng Nam",0902867146
+ERP_0065,CÔNG TY TRÁCH NHIỆM HỮU HẠN PHÚC AN UY,1702379856,Trần Bảo Uy,"Căn 35, Lô D11, Đường Số 7, Phường Rạch Giá, Thành Phố Rạch Giá, Kiên Giang",0902600159
+ERP_0066,TỔ HỢP TÁC DỊCH VỤ NÔNG NGHIỆP VĂN LEM,6101319072,A Kên,"Thôn Văn Lem, Xã Kon Đào, Huyện Đắk Tô, Kon Tum",0792425132
+ERP_0067,"MIỄU BÀ (BÌNH PHƯỚC MIẾU) - ẤP CHỢ BẾN, XÃ TÂN ĐIỀN",1201738920,Trương Văn Bổn,"Ấp Chợ Bến, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0795160127
+ERP_0068,"MIỄU BÀ NGHĨA THÀNH HỘI - ẤP HỘ, XÃ TÂN ĐIỀN",1201738952,Lê Quang Minh,"Ấp Hộ, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0882078635
+ERP_0069,CÔNG TY TNHH SAO VIỆT LOGISTICS,2301433307,Đỗ Trọng Tấn,"Số 36, Đường Cao Lỗ Vương, Phường Gia Bình, Phường Nhân Thắng, Bắc Ninh",0919599776
+ERP_0070,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI TÂN AN VINA,0319799884,Trần Đức Cung,"Số 141, Đường Nguyễn Đình Chiểu, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0977775294
+ERP_0071,PHÒNG HẠ TẦNG- ĐÔ THỊ VÀ MÔI TRƯỜNG PHƯỜNG LĨNH NAM,0111123462-005,Trịnh Lê Đức,"Số 669, Đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",0933052569
+ERP_0072,CÔNG TY CỔ PHẦN GOPCO VIỆT NAM,0111705580,Nguyễn Khắc Tú,"Km 3 Đường Phan Trọng Tuệ, Xã Đại Thanh, Huyện Thanh Trì, Hà Nội",0972003429
+ERP_0073,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ HƯƠNG BAN MAI,2803254534,Tạ Thị Hải,"Số 180 Nguyễn Trãi, Phường Hạc Thành, Thành Phố Thanh Hoá, Thanh Hoá",0916584316
+ERP_0074,CÔNG TY TNHH NGUỒN VẬT TƯ,0319801290,Võ Trọng Thi,"Số 206A Đường Phan Văn Khải, Xã Củ Chi, Huyện Củ Chi, Tp Hồ Chí Minh",0799869082
+ERP_0075,CÔNG TY CỔ PHẦN TMDV NHA KHOA ADOR,0319801283,Trần Anh Khoa,"88 Tỉnh Lộ 8, Khu Phố 2, Xã Tân An Hội, Huyện Củ Chi, Tp Hồ Chí Minh",0931590968
+ERP_0076,CÔNG TY TNHH XANH MEKONG,1801844416,Huỳnh Thị Thu Thảo,"Thửa Đất Số 10362, Tờ Bản Đồ Số 1, Khu Dân Cư Lô Số 11B, Khu, Phường Hưng Phú, Quận Cái Răng, Cần Thơ",0882083449
+ERP_0077,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI TRUNG HÀ,0111705478,Công Ty Tnhh Sản Xuất Và Thươn,"Số 181 Đặng Phúc Thông, Thôn Dốc Lã, Xã Phù Đổng, Huyện Gia Lâm, Hà Nội",0908592592
+ERP_0078,PHÒNG HẠ TẦNG XÃ CỦ CHI,0319800018,Ngô Thị Thanh Loan,"Số 314 Phan Văn Khải, Ấp Đình, Xã Củ Chi, Huyện Củ Chi, Tp Hồ Chí Minh",0914402905
+ERP_0079,CÔNG TY TNHH LUX HOTEL & APARTMENT,3604133632,Lã Kim Ngọc,"781/2 Đường Tỉnh 777, Ấp An Phú, Phường Trảng Bom, Phường Trảng Bom, Đồng Nai",0888430929
+ERP_0080,CÔNG TY TNHH THƯƠNG MẠI THỜI TRANG CCM (NCCNN),0319801477,Nguyễn Đức Hiếu,"Văn Phòng 01, Tầng 9, Tòa Nhà Pearl Plaza, Số 561A Điện Biên, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0913353920
+ERP_0081,CÔNG TY TNHH XÂY DỰNG SAN LẤP LỘC PHÁT 88,2301433314,Đào Minh Thảo,"Số 177, Đường Lê Hồng Phong, Phường Kinh Bắc, Thành Phố Bắc Ninh, Bắc Ninh",0932053658
+ERP_0082,CÔNG TY TNHH STI VIỆT NAM,0111705333,Đào Xuân Tuấn,"Tầng 5, Tòa Nhà Công Ty Cổ Phần Sông Đà 2, Km10 Đường Nguyễn, Phường Hà Đông, Quận Hà Đông, Hà Nội",0985701367
+ERP_0083,CÔNG TY CỔ PHẦN XÂY DỰNG VÀ THIẾT BỊ NAM THÀNH,0111705326,Triệu Văn Kiên,"Dv19-Lk840 Khu Đất Dịch Vụ Đào Đất, Hàng Bè, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",0886038486
+ERP_0084,CÔNG TY TNHH XÂY DỰNG VÀ QUẢNG CÁO PARAGON (NTNN),0319799933,Huỳnh Ngô Tuyết Anh,"120A Trần Kế Xương, Phường Cầu Kiệu, Quận Phú Nhuận, Tp Hồ Chí Minh",0972273364
+ERP_0085,CÔNG TY TNHH TOYOTA AN SƯƠNG (MST NỘP THAY NCCNN),0319799891,Hồ Vân Phú,"382 Lê Quang Đạo, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",0799120389
+ERP_0086,CÔNG TY TNHH DIOFOR (MST NỘP THAY NTNN),0319799901,Văn Đức Thống,"196/14 Đường Tô Ngọc Vân, Phường Thới An, Quận 12, Tp Hồ Chí Minh",0905311976
+ERP_0087,CÔNG TY TNHH ĐẦU TƯ XNK THIÊN HẢI,0319800709,Trần Đức Cung,"Số 459/41, Đường Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",0987897692
+ERP_0088,CÔNG TY TNHH DURIVIVA,3801363723,Phạm Quốc Hội,"Tổ 1A, Thôn Sao Bọng, Phường Bình Phước, Phường Bình Phước, Bình Phước",0888823772
+ERP_0089,CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP AVICO,0111704636,Nguyễn Thị Tố Uyên,"Biệt Thự Số 18 -Tt1, Khu Đô Thị Phùng Khoang, Phường Thanh Xuân, Quận Thanh Xuân, Hà Nội",0903826246
+ERP_0090,CÔNG TY TNHH XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI VŨ TRẦN (NTNN),0319801276,Vũ Quang Huy,"391 Điện Biên Phủ, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0973105790
+ERP_0091,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP FLEXON,1801844409,Mai Hà Mỹ Hân,"Số 27 Đường Lê Lai, Phường Ninh Kiều, Quận Ninh Kiều, Cần Thơ",0979797784
+ERP_0092,VĂN PHÒNG ĐẠI DIỆN � CÔNG TY TNHH DỊCH VỤ MT AN PHÁT,2601165553-001,Nguyễn Hữu Tiệp,"Xóm Nội, Tổ Dân Phố Mão Đông, Phường Mão Điền, Thị Xã Thuận Thành, Bắc Ninh",0984578365
+ERP_0093,CÔNG TY TNHH MTV GOLDEN INN HOTEL (NTNN),3301770505,Nguyễn Thị Huyền,"Số 06 Trần Anh Liên, Phường Vỹ Dạ, Quận Thuận Hóa, Thành Phố Huế",0909643591
+ERP_0094,CÔNG TY CỔ PHẦN KITAWA (NTNN),0319801519,Nguyễn Thị Kiều Trang,"41F/12 Đặng Thùy Trâm, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0937144237
+ERP_0095,CÔNG TY TNHH PHÒNG KHÁM VANITY (NTNN),0319801445,Nguyễn Minh Trung,"51A Đường 3/2, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0889834747
+ERP_0096,CÔNG TY TNHH XNK TMDV KIM NGUYÊN,1801844328,Trần Lê Thanh Phượng,"112/191 Đường Nguyễn Thị Minh Khai, Phường Ninh Kiều, Quận Ninh Kiều, Cần Thơ",0978865228
+ERP_0097,CÔNG TY CỔ PHẦN VIETRACE365 (NTNN),0319801614,Lê Thị Lễ,"91/8A Hòa Hưng, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0919622858
+ERP_0098,CÔNG TY TNHH DTSX YD NK HAPAS HORIZON GROUP,1602238731,Ngô Thị Quỳnh My,"Số 39, Đường Nguyễn Văn Cưng, Phường Long Xuyên, Thành Phố Long Xuyên, An Giang",0914246569
+ERP_0099,CÔNG TY TNHH BIM ENGINEERING CONSULTANTS (NTNN),0319800000,Nguyễn Thị Ánh Nguyệt,"B402, Wiyo Complex 3, 54-60 Đường N3C, Kđt The Global City,, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0933539021
+ERP_0100,CÔNG TY CỔ PHẦN S-HOUSE MIỀN NAM (NTNN),0319800106,Nguyễn Đức Anh,"Số 280A1, Đường Lương Định Của, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0981279134
+ERP_0101,CÔNG TY CỔ PHẦN PHÁT TRIỂN GIÁO DỤC VÀ THƯƠNG MẠI VIỆT NHẬT,0111706471,Phạm Văn Thuyết,"Nhà L1-1, Tổ 13, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0987547934
+ERP_0102,CÔNG TY TNHH XNK LAM MINH,5702240971,Trần Thị Thúy Nga,"Tầng 2, Số 70 Đường Nguyễn Văn Cừ, Phường Hạ Long, Thành Phố Hạ Long, Quảng Ninh",0881037164
+ERP_0103,CÔNG TY TNHH VẠN PHÚC SEAFOOD,5702240964,Bùi Thị Hà,"Cụm Công Nghiệp Vân Đồn, Đặc Khu Vân Đồn, Huyện Vân Đồn, Quảng Ninh",0908595792
+ERP_0104,CÔNG TY CỔ PHẦN 1PRO,0111706390,Nguyễn Lam Thạch,"Số 33 Nguyễn Văn Tuyết, Phường Đống Đa, Quận Đống Đa, Hà Nội",0985243597
+ERP_0105,CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT ANH ĐỨC GROUP,4401138073,Phan Bá Đức,"138 Nguyễn Văn Linh, Phường Phú Yên, Tp Tuy Hoà, Phú Yên",0982348353
+ERP_0106,CÔNG TY TNHH SAO MAI PQ,1702379817,Đỗ Hoàng Điệp,"Tổ 7, Ấp Gành Dầu, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0931128183
+ERP_0107,CÔNG TY TNHH KHÔI HOÀNG PHÁT VN,3703528938,Nguyễn Văn Huệ,"Thửa Đất Số 3055, Tờ Bản Đồ Số 65, Phường Hòa Lợi, Thành Phố Bến Cát, Bình Dương",0989462006
+ERP_0108,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NHẬT MINH ROYAL,0202376580,Vũ Văn Hợp,"Thôn Kỳ Sơn (Tại Nhà Ông Vũ Văn Phượng), Xã Kiến Hưng, Huyện Kiến Thuỵ, Hải Phòng",0888495650
+ERP_0109,CÔNG TY TNHH BÚN PHỞ KHÔ KHÁNH LINH,0700931036,Tạ Đức Võ,"Thôn 3 Phú Đa, Xã Nam Xang, Huyện Lý Nhân, Hà Nam",0917698958
+ERP_0110,CÔNG TY CP FUTURE TECH GLOBAL VIET NAM,0111706288,Lương Tiến Dũng,"Sb23-427 Và Sb23-85 Vinhomes Ocean Park 1, Xã Gia Lâm, Huyện Gia Lâm, Hà Nội",0983847339
+ERP_0111,CÔNG TY TNHH SHYMKENT PHÚ QUỐC,1702379775,Đỗ Mạnh Thọ Anh,"Mc-01-31 Grand World, Tổ 7, Ấp Gành Dầu, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0911298478
+ERP_0112,CÔNG TY TNHH NEPHELE (NTNN),0319801396,Lê Công Hùng,"125/12 Nguyễn Cửu Vân, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0935495950
+ERP_0113,CÔNG TY CỔ PHẦN TRUYỀN HÌNH CÁP HÀ NỘI,0111706739,Phạm Ngọc Thắng,"Số 30 Trung Liệt, Phường Đống Đa, Quận Đống Đa, Hà Nội",0887593358
+ERP_0114,CÔNG TY TNHH THƯƠNG MẠI THỜI TRANG CCM (NTNN),0319801759,Nguyễn Đức Hiếu,"Văn Phòng 01, Tầng 9, Tòa Nhà Pearl Plaza, Số 561A Điện Biên, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0988843662
+ERP_0115,"BAN QUẢN LÝ DỰ ÁN BẢO VỆ VÀ PHÁT TRIỂN RỪNG XÃ PÙ NHI, TỈNH THANH HÓA",2803254502,Lù Quy Nhân,"Bản Na Tao, Xã Pù Nhi, Huyện Mường Lát, Thanh Hoá",0901805895
+ERP_0116,CÔNG TY TNHH XUẤT NHẬP KHẨU KINH BẮC MEN,2401097088,Hoàng Thị Luyến,"Số 16 Đại Hoàng Sơn Đường Ngô Gia Tự, Tdp Yết Kiêu, Phường Bắc Giang, Thành Phố Bắc Giang, Bắc Giang",0938058044
+ERP_0117,CÔNG TY TNHH TƯ VẤN & ĐẦU TƯ HANALY (NTNN),0319801702,Lương Ngọc Phát,"201/56 Nguyễn Xí, Phường Bình Thạnh, Quận Bình Thạnh, Tp Hồ Chí Minh",0918089514
+ERP_0118,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XUẤT NHẬP KHẨU PHAN KHANG,3801363603,Phan Hữu Khương,"Tổ 2, Khu Phố Thanh Hòa, Phường Tân Khai, Phường Tân Khai, Bình Phước",0794451792
+ERP_0119,CÔNG TY CỔ PHẦN TRUSTEEL (NTNN),0319801269,Nam Hyungjin,"Sav.2 - 03.26, Tầng 3 Thuộc Khối Đế, Tháp 2, Khu 1, Toà Nhà, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0988653564
+ERP_0120,PHÒNG HẠ TẦNG- ĐÔ THỊ VÀ MÔI TRƯỜNG PHƯỜNG PHÚ THƯỢNG,0111117451-009,Nguyễn Quang Ngọc,"Số 58 Phú Xá, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",0905089193
+ERP_0121,CÔNG TY TNHH TOYOTA HÒA BÌNH MINH YÊN BÁI,5200974591,Nguyễn Hà Toán,"Tổ Dân Phố Số 2, Phường Âu Lâu, Thành Phố Yên Bái, Yên Bái",0979614898
+ERP_0122,CÔNG TY TNHH TRÀ THẢO MỘC SAVO (NCCNN),0319801780,Phan Ngọc Trúc,"695 Đường Điện Biên Phủ, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0888459430
+ERP_0123,CÔNG TY CỔ PHẦN KỸ THUẬT VĨNH KIÊN,0111705372,Hoàng Thị Sâm Như,"Thôn Đồng Trúc 1, Xã Hạ Bằng, Huyện Thạch Thất, Hà Nội",0792057356
+ERP_0124,QUỸ ĐỀN ƠN ĐÁP NGHĨA XÃ TRẦN THƯƠNG,0700931117,Lê Văn Đoàn,"Thôn Đức Bản, Xã Trần Thương, Huyện Lý Nhân, Hà Nam",0908513357
+ERP_0125,CÔNG TY TNHH DỊCH VỤ ẨM THỰC MỘT DÒNG SÔNG (NTNN),0319801558,Nguyễn Thị Kim Oanh,"224 Đường D5, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0882705979
+ERP_0126,CÔNG TY CỔ PHẦN RỒNG VIỆT ENTERTAINMENT,0111706640,Nguyễn Tùng Dương,"Tầng 6, Tòa Nhà 45-47 Trần Xuân Soạn, Phường Hai Bà Trưng, Quận Hai Bà Trưng, Hà Nội",0972567611
+ERP_0127,CÔNG TY TNHH TM DV THANH GIANG,3703529610,Trần Thanh Giang,"Số 10, Đường Hưng Hòa 12, Khu Phố Hòa Phát, Phường Chánh Phú Hòa, Thành Phố Bến Cát, Bình Dương",0934004972
+ERP_0128,PHÒNG KINH TẾ XÃ MƯỜNG LÝ,2803254478,Dương Đình Tuấn,"Bản Nàng, Xã Mường Lý, Huyện Mường Lát, Thanh Hoá",0902754163
+ERP_0129,CÔNG TY TNHH MTV CUNG DIÊN YẾN,0319799845,Huỳnh Hữu Hải,"Số 80 Đường Số 6 Khu Kdc Cityland Park Hill, Phường Gò Vấp, Quận Gò Vấp, Tp Hồ Chí Minh",0981856177
+ERP_0130,CHI NHÁNH AN GIANG � CÔNG TY TNHH NÔNG SẢN NGUYỄN QUÝ,1201652198-001,Nguyễn Thị Nhung,"Thửa Đất Số 2058, Tổ 1, Ấp Xẻo Chác, Xã Long Thạnh, Huyện Giồng Riềng, Kiên Giang",0934095071
+ERP_0131,CÔNG TY TNHH THỂ DỤC & THỂ THAO TÂN ĐẠI PHÚC (NTNN),0319801734,Nguyễn Thành Phước,"617-621 Điện Biên Phủ, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0984407620
+ERP_0132,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN TOẢN VŨ (NTNN),0319801597,Vũ Văn Toản,"702/58 Điện Biên Phủ, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0932164119
+ERP_0133,CÔNG TY CỔ PHẦN SỮA QUỐC TẾ LOF,9000591655,Đoàn Hữu Nguyên,"Lô C-13A-Cn, Đường N16, Khu Công Nghiệp Bàu Bàng Mở Rộng, Xã Long Hòa, Huyện Dầu Tiếng, Bình Dương",0936043325
+ERP_0134,CÔNG TY TNHH THÁI BEN,1702379824,Lê Thị Mộng Nhi,"Số 173, Đường 30/4, Khu Phố 1 Dương Đông, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0932556272
+ERP_0135,CÔNG TY TNHH TMDV TÂN AN VƯƠNG,0402365297,Trần Viết Thái Vương,"22 Lê Độ, Phường Thanh Khê, Quận Thanh Khê, Đà Nẵng",0903265265
+ERP_0136,CÔNG TY TNHH THƯƠNG MẠI VÀ XÂY DỰNG VINA GREEN,0801511567,Hà Thị Thu Hoài,"Căn Hộ Tt3.21 - Kđt Square Park, Phường Thạch Khôi, Thành Phố Hải Dương, Hải Dương",0912570169
+ERP_0137,CÔNG TY TNHH KIẾN TRÚC VÀ XÂY DỰNG T&T HOME,0801511542,Nguyễn Đình Thọ,"Tổ Dân Phố Du Tái, Phường Nam Đồng, Thành Phố Hải Dương, Hải Dương",0976826470
+ERP_0138,CÔNG TY TNHH ẨM THỰC MAY MẮN,0111706030,Lê Ngọc Quỳnh,"Số 12 Liễu Giai, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0916493302
+ERP_0139,CÔNG TY TNHH IN NHANH 2S VIỆT NAM,0111706111,Nguyễn Ngọc Đức,"Số 49 Ngõ 135 Đội Cấn, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0982809338
+ERP_0140,CÔNG TY TNHH THỜI TRANG TIDOSI (MST NỘP THAY NCCNN),0319801043,Nguyễn Văn Đông,"107/59 Tân Chánh Hiệp 35, Khu Phố 2, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",0979898698
+ERP_0141,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NZ (MST NỘP THAY NCCNN),0319801050,Phạm Hoài Nam,"32/21/11 Hà Thị Khiêm, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",0795895738
+ERP_0142,BAN CHỈ HUY QUÂN SỰ XÃ BẢO THẠNH,1301177080,Nguyễn Văn Phi Em,"Thạnh Nghĩa, Xã Bảo Thạnh, Huyện Ba Tri, Bến Tre",0937763220
+ERP_0143,CÔNG TY TNHH XÂY DỰNG VÀ THƯƠNG MẠI NGÂN NHƯ HẢI 68,1702379782,Trần Văn Phước,"Số 0750 Tổ 12, Ấp Sơn Tiến, Xã Mỹ Thuận, Huyện Hòn Đất, Kiên Giang",0975440235
+ERP_0144,CÔNG TY TNHH THƯƠNG MẠI VÀ DƯỢC PHẨM HÙNG LỢI (NTNN),0319801621,Đỗ Vũ Huy Hùng,"306/19 Đặng Thùy Trâm, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0884379968
+ERP_0145,CÔNG TY TNHH HÓA NÔNG AN ĐIỀN (NTNN),0319801773,Trịnh Thị Thu Hiền,"235/40 Đường Đặng Thùy Trâm, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0881499503
+ERP_0146,CÔNG TY TNHH THE LUMIS (NTNN),0319801501,Nguyễn Trương Ánh Ngọc,"Số 324 Điện Biên Phủ, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0918949689
+ERP_0147,CÔNG TY TNHH THƯƠNG MẠI TƯ VẤN XÂY DỰNG TRUNG HIẾU,2001416678,Trần Trung Hiếu,"Thửa Số 96, Tờ Bản Đồ Số 16, Ấp 1, Xã Trí Phải, Huyện Thới Bình, Cà Mau",0919425954
+ERP_0148,CÔNG TY TNHH MEDOLABIZ (NTNN),0319801646,Bùi Thị Hồng Nhung,"Cc5 Trường Sơn, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0902709290
+ERP_0149,CÔNG TY TNHH MTV XNK QUỐC TẾ AN THÀNH (NTNN),0319801741,Trịnh Thị Thu Hiền,"235/40 Đường Đặng Thùy Trâm, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0796360783
+ERP_0150,CÔNG TY CỔ PHẦN DƯỢC PHẨM VÀ THIẾT BỊ Y TẾ TRƯỜNG SƠN - CHI NHÁNH SỐ 5,6200121468-004,Giang Ngọc Khánh,"Số 31 Lê Ninh, Phường Vinh Hưng, Thành Phố Vinh, Nghệ An",0939274833
+ERP_0151,CÔNG TY CỔ PHẦN PHÁT TRIỂN SPA VIÊN MỸ (NTNN),0319801565,Võ Quốc Phú,"07 Lê Quang Định, Phường Bình Thạnh, Quận Bình Thạnh, Tp Hồ Chí Minh",0931336511
+ERP_0152,CÔNG TY TNHH CƠ KHÍ NHẬT PHƯƠNG,0402366029,Hồ Nhật Phương,"01 Phạm Thị Lam Anh, Phường Hòa Khánh, Quận Thanh Khê, Đà Nẵng",0912285950
+ERP_0153,CÔNG TY TNHH THỦY SẢN TIẾN PHÁT GH,1900715531,Hồ Thị Kim Linh,"Khu Cảng Cá, Ấp 4, Xã Gành Hào, Huyện Đông Hải, Bạc Liêu",0882263680
+ERP_0154,CÔNG TY CỔ PHẦN PHÁT TRIỂN ĐỊA ỐC MINH QUANG,0111706418,Phạm Đức Quang,"Tầng 2, Số 26A Đường Lê Đức Thọ, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0982425494
+ERP_0155,CÔNG TY TNHH TEVIK,0111705164,Bùi Thị Cẩm Linh,"Tầng 8, Tòa Nhà Sannam, Số 78 Phố Duy Tân, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0918376050
+ERP_0156,CÔNG TY TNHH KHẮC GHI GROUP,3604133657,Vũ Văn Ghi,"Số 22/A1, Ấp Bạch Lâm, Phường Trảng Bom, Phường Trảng Bom, Đồng Nai",0931407003
+ERP_0157,CÔNG TY TNHH BỆNH VIỆN SANTE (HTKD VỚI CÁ NHÂN),0319801766,Trần Thị Lê Hoa,"11A Đinh Bộ Lĩnh, Phường Bình Thạnh, Quận Bình Thạnh, Tp Hồ Chí Minh",0976363877
+ERP_0158,CÔNG TY TNHH CƠ ĐIỆN CÔNG TRÌNH HƯNG THỊNH VIỆT NAM,2902297602,Nguyễn Danh Ngọc,"Số 157 Đường Nguyễn Trường Tộ, Phường Thành Vinh, Thành Phố Vinh, Nghệ An",0797917385
+ERP_0159,CÔNG TY TNHH IOT DIGITAL,2401097070,Nguyễn Nhật Linh,"Thửa Đất Lô 10, 11 Đường Nguyễn Đức Cảnh 1, Phường Bắc Giang, Thành Phố Bắc Giang, Bắc Giang",0904622115
+ERP_0160,CÔNG TY TNHH VẬN TẢI HIỀN DŨNG,2902297641,Nguyễn Ngọc Dũng,"Số 71 Đường Lê Huân, Phường Trường Vinh, Thành Phố Vinh, Nghệ An",0939424999
+ERP_0161,DOANH NGHIỆP TƯ NHÂN VĂN PHÒNG THI HÀNH ÁN DÂN SỰ TÂY NAM,1402239181,Nguyễn Giang Nam,"Số 270, Đường Nguyễn Huệ, Khu Phố Mỹ Phú, Phường Mỹ Trà, Thành Phố Cao Lãnh, Đồng Tháp",0884271806
+ERP_0162,CÔNG TY CỔ PHẦN TITAN STUDIO VIỆT NAM,0111706496,Trần Văn Cường,"Tầng 5, Toà Nhà Hòa Bình Greencity, 505 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0918463576
+ERP_0163,CÔNG TY TNHH GIÁO DỤC VÀ ĐÀO TẠO SCMA,0111706489,Nguyễn Tú Oanh,"Tầng 3 Và Tầng 9 Toà Nhà Đức Đại, Số 54 Phố Lê Thanh Nghị, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",0792785329
+ERP_0164,CÔNG TY TNHH DỊCH VỤ & CUNG ỨNG NGUỒN NHÂN LỰC HP VINA,0111706256,Lê Hoàng Nam,"Số 21, Liền Kề 4, Khu Đô Thị Tân Tây Đô, Xã Ô Diên, Huyện Đan Phượng, Hà Nội",0935678806
+ERP_0165,CÔNG TY TNHH DỊCH VỤ TƯ VẤN ĐỨC TÙNG,0111705767,Cao Đức Tùng,"Tầng 16, Tòa Nhà Daeha Business Center, 360 Kim Mã, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0973732342
+ERP_0166,CÔNG TY TNHH THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU GAQ,0111706217,Nguyễn Thị Lê,"Số 29, 30 Liền Kề 20, Dọc Bún 2, Phường Hà Đông, Quận Hà Đông, Hà Nội",0935580017
+ERP_0167,CÔNG TY TNHH TOKYOCAMERA VIỆT NAM,0111706425,Lê Quốc Khánh,"Số 162 Đường Kim Ngưu, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",0912782180
+ERP_0168,CÔNG TY CỔ PHẦN LEESSUNG PRO VIỆT NAM,0700931068,Nguyễn Văn Sơn,"Số 386 � Cụm Công Nghiệp Lê Hồ, Phường Lê Hồ, Thị Xã Kim Bảng, Hà Nam",0975839917
+ERP_0169,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ HN BEAUTY,0111705982,Huỳnh Ngọc Sơn,"Lô E9, E10, E11 Số 26 Ngõ 60 Đường Dương Khuê, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0883258292
+ERP_0170,CÔNG TY TNHH CÔNG NGHỆ VÀ THƯƠNG MẠI Á MỸ,0111706464,Lê Thế Vinh,"Số 69, Phố Lê Thanh Nghị, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",0985950876
+ERP_0171,CÔNG TY TNHH GIÁO DỤC SCFA,0111706457,Nguyễn Đức Thái,"Tầng 2 Và Tầng 6 Toà Nhà Đức Đại, Số 54 Phố Lê Thanh Nghị, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",0981837360
+ERP_0172,CÔNG TY TNHH THƯƠNG MẠI TÂN THÀNH,1801844487,Nguyễn Xuân Khoa,"3165 Quốc Lộ 80, Ấp Phụng Quới B, Xã Thạnh An, Huyện Vĩnh Thạnh, Cần Thơ",0915451885
+ERP_0173,CÔNG TY TRÁCH NHIỆM HỮU HẠN TƯ VẤN ĐO ĐẠC ĐIỀN THỊNH - CHI NHÁNH CHÂU THÀNH,1702305773-015,Lý Tập Đoàn,"Số 490, Ấp Minh Phong, Xã Bình An, Huyện Châu Thành, Kiên Giang",0971079167
+ERP_0174,CÔNG TY CỔ PHẦN TIP TOP (MST NỘP THAY NTNN),0319801075,Lai Chí Cường,"101 Nguyễn Thị Tràng, Phường Tân Thới Hiệp, Quận 12, Tp Hồ Chí Minh",0907723514
+ERP_0175,CÔNG TY TNHH BẢO VỆ SỨC KHỎE THC (NTNN),0319800579,Hoàng Trọng Cường,"88 Đường 52, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0904580309
+ERP_0176,TRUNG TÂM CHÍNH TRỊ BẢO YÊN,5300859289,Vương Văn Kiên,"Thôn 4 B, Xã Bảo Yên, Huyện Bảo Yên, Lào Cai",0798952351
+ERP_0177,CÔNG TY TNHH KDTH LOGISTICS AN DƯƠNG,1102193828,Trần Đức Cung,"Số 76, Đường Trần Văn Chính, Phường Long An, Thành Phố Tân An, Long An",0888817962
+ERP_0178,CÔNG TY TNHH MAI CHÂU VILLAS,5400577150,Nguyễn Đức Anh,"Xóm Cha Lang, Xã Bao La, Huyện Mai Châu, Hòa Bình",0792711834
+ERP_0179,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI XNK NHƯ NGỌC,1102193539,Nguyễn Thành Danh,"Thửa Đất Số 19, Tờ Bản Đồ Số 47, Khu Phố 2, Xã Đông Thành, Huyện Đức Huệ, Long An",0903235494
+ERP_0180,CÔNG TY TNHH NỘI THẤT LOUIS,0601334293,Đinh Văn Thiện,"Thôn Lạc Hồng, Xã Giao Hòa, Huyện Giao Thuỷ, Nam Định",0881342034
+ERP_0181,CÔNG TY CỔ PHẦN THANH TOÁN QUỐC GIA VIỆT NAM,9000591648,Nguyễn Quang Hưng,"Tầng 2,17,18, Tòa Nhà Pacific Place,Số 83B Lý Thường Kiệt, Phường Cửa Nam, Quận Hoàn Kiếm, Hà Nội",0888439005
+ERP_0182,CÔNG TY CỔ PHẦN NĂNG LƯỢNG TÁI TẠO SVT,4401138041,Vũ Thị Sửu,"Thôn Tân Hòa, Xã Đồng Xuân, Huyện Đồng Xuân, Phú Yên",0978565873
+ERP_0183,CÔNG TY CỔ PHẦN CÔNG NGHỆ OMNI,0111706023,Đặng Anh Tuấn,"Tầng 13 Tòa Capital Place Số 29 Liễu Giai, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0934845711
+ERP_0184,CÔNG TY TNHH CAPR (MST NỘP THAY NTNN),0319800988,Nguyễn Thị Hòa Vân,"89/35/4 Đường Tth 13, Phường Tân Thới Hiệp, Quận 12, Tp Hồ Chí Minh",0889024904
+ERP_0185,CÔNG TY TNHH TỨ TIỂU THIÊN CA ENTERTAINMENT,0319797421,Trần Thị Tường Vy,"H2.07 (Shophouse T3-B2.1J), Tầng Hầm 02, Tháp T3 (Tháp Brill, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0971749634
+ERP_0186,CÔNG TY TNHH THỰC PHẨM CHỨC NĂNG HƯNG THỊNH PHÁT,0402365610,Nguyễn Việt Hưng,"18 Vũ Văn Dũng, Phường An Hải, Quận Sơn Trà, Đà Nẵng",0798167376
+ERP_0187,CÔNG TY TNHH HUYỀN PHẠM DESIGN,0111706337,Phạm Thanh Huyền,"Số 12, Ngõ 84 Phố Ngọc Khánh, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0978975689
+ERP_0188,ĐỒN BIÊN PHÒNG CỬA KHẨU QUỐC TẾ TỊNH BIÊN,1602238756,Đinh Quang Điềm,"Khóm Xuân Hòa, Phường Tịnh Biên, Thị Xã Tịnh Biên, An Giang",0979279056
+ERP_0189,CÔNG TY TNHH DỊCH VỤ TỔNG HỢP HỢP THỊNH DK,1801844215,Lý Quang Hợp,"198Ac1, Đường Tú Xương, Kdc Hồng Phát, Kv2, Phường An Bình, Quận Ninh Kiều, Cần Thơ",0984832829
+ERP_0190,ĐẢNG ỦY XÃ TAM BÌNH,1501176704,Lê Ngọc Đức,"Ấp Lưu Văn Liệt, Xã Tam Bình, Huyện Tam Bình, Vĩnh Long",0971706039
+ERP_0191,CÔNG TY CỔ PHẦN BAO BÌ XANH,1201738864,Trương Hồng Quân,"Lô 99 Khu Công Nghiệp Mỹ Tho, Phường Trung An, Thành Phố Mỹ Tho, Tiền Giang",0939148580
+ERP_0192,HỢP TÁC XÃ CÀ PHÊ VÀ CA CAO LAFARM GIA KIỆM,3604133463,Đinh Văn Thành,"504/2A Ấp Gia Yên, Phường Trảng Bom, Phường Trảng Bom, Đồng Nai",0976696364
+ERP_0193,CÔNG TY TNHH DƯỢC GREENPHACO,2701017735,Phạm Hải An,"Số 170 Đường Lê Thánh Tông, Thôn Hòa Bình, Xã Yên Khánh, Huyện Yên Khánh, Ninh Bình",0981635683
+ERP_0194,CÔNG TY TNHH MTV THƯƠNG MẠI - THIẾT KẾ - XÂY DỰNG HOÀNG AN,1102193793,Trần Thị Kim Phụng,"Số 2B Đường 833, Khu Phố Phú Nhơn, Phường Long An, Thành Phố Tân An, Long An",0933817261
+ERP_0195,CÔNG TY TNHH BẢO HIẾU NGUYỄN,1102193708,Nguyễn Hiếu Bảo,"15 Ấp Bình An, Xã Tân Trụ, Huyện Tân Trụ, Long An",0912295884
+ERP_0196,MOBIFONE ĐỒNG THÁP - CHI NHÁNH TỔNG CÔNG TY VIỄN THÔNG MOBIFONE,1201738857,Lê Văn Khoa,"Số 03 Đống Đa, Phường Đạo Thạnh, Thành Phố Mỹ Tho, Tiền Giang",0883370403
+ERP_0197,CHI NHÁNH CÔNG TY TNHH T.VÔ KỴ,0315956254-001,Phạm Thị Kiều Yên,"Ấp Minh Thiện, Xã Rạch Kiến, Huyện Cần Đước, Long An",0919869773
+ERP_0198,CÔNG TY TNHH VAST LEGENDARY (NTNN),0319800554,Nguyễn Thái Bình,"7-1A Khu Phố Mỹ An, Đường Hà Huy Tập, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0981087587
+ERP_0199,CÔNG TY CỔ PHẦN MẸ VÀ BÉ DŨNG JERRY (ĐV NỘP HỘ THUẾ NT NN),1301177059,Mai Quốc Dũng,"570C/3 Quới An, Xã Giao Long, Huyện Châu Thành, Bến Tre",0973996324
+ERP_0200,BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG PHƯỜNG ĐÔNG HOÀ,4401138059,Hồ Quốc Văn,"Đường Nguyễn Tất Thành, Khu Phố 2, Phường Đông Hòa, Thị Xã Đông Hoà, Phú Yên",0798963964
+ERP_0201,CÔNG TY TNHH DỊCH VỤ VIỆT TRÍ,0111705654,Lê Thị Phương Hạnh,"P403, Tòa Nhà Ocean Park, Số 1 Đào Duy Anh, Phường Kim Liên, Quận Đống Đa, Hà Nội",0936765625
+ERP_0202,PHÒNG VĂN HÓA-XÃ HỘI XÃ ĐẠI ĐỒNG,2902297585,Trần Võ Hiệp,"Số 1, Thôn Dùng 1, Xã Đại Đồng, Huyện Thanh Chương, Nghệ An",0904053589
+ERP_0203,CÔNG TY TNHH HIRO LOGISTICS (NTNN),0319800459,Hà Minh Hiếu,"5/10 Đường 99, Phường Phước Long, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0976987283
+ERP_0204,CÔNG TY CỔ PHẦN VẬN TẢI DU LỊCH HÀ SƠN � LÀO CAI,5300859225,Nguyễn Thị Thu Hà,"Tổ 29, Phường Cam Đường, Thành Phố Lào Cai, Lào Cai",0882004649
+ERP_0205,CÔNG TY TNHH THƯƠNG MẠI VÀ SẢN XUẤT HEXPHOTON,2301433240,Đặng Văn Trung,"Thôn Phúc Nghiêm, Xã Phật Tích, Phường Tiên Du, Bắc Ninh",0902193812
+ERP_0206,HỢP TÁC XÃ DU LỊCH VẬN TẢI NAI MỚI,5400577111,Bùi Thị Thêu,"Thôn Nai Mới, Xã Thung Nai, Huyện Cao Phong, Hòa Bình",0912743075
+ERP_0207,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI TLTECH VINA,4601682185,Dương Thị Linh,"Tổ Dân Phố Cống Thượng, Phường Phổ Yên, Thành Phố Phổ Yên, Thái Nguyên",0983772139
+ERP_0208,CÔNG TY TNHH AN SINH XÃ HỘI 24/7 BÌNH PHƯỚC,3801363709,Trịnh Thị Mỹ Duyên,"173 Nguyễn Tất Thành, Khu Phố 5, Phường Phước Bình, Phường Phước Bình, Bình Phước",0911494983
+ERP_0209,CÔNG TY TNHH TRẦN BẠO,0901258928,Trần Xuân Bạo,"Thôn Đức Nhuận, Xã Triệu Việt Vương, Huyện Khoái Châu, Hưng Yên",0986065720
+ERP_0210,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ LÝ HUỆ AN,0111705527,Hoàng An Huy,"Tầng 6, Tòa Nhà Lâm Viên, Số 107A Nguyễn Phong Sắc, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0798213966
+ERP_0211,CÔNG TY TNHH DINH DƯỠNG 3A (VIỆT NAM),9000591623,Douglas Kuo,"Centec Tower, 72-74, Đường Nguyễn Thị Minh Khai, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0912338874
+ERP_0212,CÔNG TY TNHH CANIS MAJOR VIỆT NAM (NỘP HỘ),4001344307,Smithe Gray James,"21/3 Phan Bội Châu, Phường Hội An, Thành Phố Hội An, Quảng Nam",0795335976
+ERP_0213,CÔNG TY CỔ PHẦN CÔNG NGHỆ ZION GAME,0111705615,Nguyễn Văn Tiến,"Số Nhà M19, Khu Đô Thị Cổ Dương, Xã Phúc Thịnh, Huyện Đông Anh, Hà Nội",0981335303
+ERP_0214,CÔNG TY TNHH MÁY THỰC PHẨM T&H,0111705855,Đỗ Ngọc Hòa,"Nhà Số 3 Ngõ 230/111 Phố Định Công Thượng, Phường Định Công, Quận Hoàng Mai, Hà Nội",0889386452
+ERP_0215,CÔNG TY TNHH HÀNG THỂ THAO VIỆT THĂNG,0601334141,Vũ Hùng Viết,"Thôn Giao Cù, Xã Nam Đồng, Huyện Nam Trực, Nam Định",0903888927
+ERP_0216,TRẠM Y TẾ XÃ PHÚC KHÁNH,5300859264,Lê Thị Thanh Hương,"Thôn Trĩ Ngoài, Xã Phúc Khánh, Huyện Bảo Yên, Lào Cai",0978399917
+ERP_0217,CÔNG TY TNHH TMDV XNK HUỲNH TRANG,1102193747,Nguyễn Thị Thùy Trang,"169 Ấp Bàu Sen, Xã Đức Lập, Huyện Đức Hoà, Long An",0918818899
+ERP_0218,CÔNG TY TNHH MTV GỖ NHỰT TIẾN PHÁT,1402239167,Nguyễn Huỳnh Minh Anh,"Số 645, Đường 30/4, Tổ 8, Khu Phố Tân Nhất, Phường Mỹ Ngãi, Thành Phố Cao Lãnh, Đồng Tháp",0978714506
+ERP_0219,CÔNG TY TNHH LE NOM VIỆT NAM (NTNN),0319801526,Võ Thị Phương Thi,"57D1 Điện Biên Phủ, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0883383976
+ERP_0220,CHI NHÁNH CÔNG TY CỔ PHẦN BỆNH VIỆN BÁCH LẠC- TẠI ĐẮK LẮK,6001853925,Tống Lê Duy,"568 Lê Duẩn, Phường Ea Kao, Tp.buôn Ma Thuột, Đắk Lắk",0934204204
+ERP_0221,CÔNG TY TNHH KỸ THUẬT CƠ ĐIỆN TÂN Á,5702240989,"Li, Chengbing","Số 321 Đường Mạc Đăng Dung, Khu Trại Thành, Phường Đông Mai, Thị Xã Quảng Yên, Quảng Ninh",0905112008
+ERP_0222,CÔNG TY TNHH TMDV DU LỊCH KHÁCH SẠN HUY TOÀN,2902297578,Trần Thanh Tịnh,"Số 164, Đường Phan Chu Trinh, Khối 1, Phường Thành Vinh, Thành Phố Vinh, Nghệ An",0985932038
+ERP_0223,CÔNG TY TNHH KIM THÁI PHÚ QUỐC,1702379912,Nguyễn Đức Toàn,"Căn A18, Khu Đô Thị Sun Grand City Hillside Residence � The, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0972932571
+ERP_0224,CHI NHÁNH 01 CÔNG TY TNHH QUANG ĐẠT AUTO,0319553778-001,Quách Quảng,"30B Đường 43, Phường Khánh Hội, Quận 4, Tp Hồ Chí Minh",0904664577
+ERP_0225,CÔNG TY TNHH THƯƠNG MẠI SẢN PHẨM NÔNG SẢN VIỆT CHUỖI,0801511599,Nguyễn Thị Nhẫn,"Lô 49.3-6 Kđt Phía Tây, Tdp Đồng Xá, Phường Tứ Minh, Thành Phố Hải Dương, Hải Dương",0916342851
+ERP_0226,CÔNG TY TNHH NHA KHOA THÔNG MINH AIDENTAL LUXURY CS1,6400485737,Dương Trọng Hiếu,"Thôn 1, Xã Đức Lập, Huyện Đắk Mil, Đắk Nông",0795683929
+ERP_0227,CÔNG TY TNHH TẬP ĐOÀN VIỆN THẨM MỸ QUỐC TẾ GREEN WORLD (NTNN),0319800931,Trần Thế Nghĩa,"40 - 42 Cao Thắng, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0918055211
+ERP_0228,CÔNG TY CỔ PHẦN HELI CARE (NTNN),0319800995,Phan Quỳnh Hoa,"126 Nguyễn Thị Minh Khai, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0902132330
+ERP_0229,CÔNG TY CỔ PHẦN DƯỢC PHẨM VÀ THIẾT BỊ Y TẾ TRƯỜNG SƠN - CHI NHÁNH SỐ 4,6200121468-003,Giang Ngọc Khánh,"Số 178 Đường Trần Phú, Phường Trường Vinh, Thành Phố Vinh, Nghệ An",0889170721
+ERP_0230,CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ ĐẠI PHÁT QUANG MINH,0319797189,Đặng Nguyễn Bảo Minh,"663A Đỗ Xuân Hợp, Phường Phước Long, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0793168330
+ERP_0231,CÔNG TY TNHH GIẢI PHÁP NÔNG NGHIỆP VĨNH MINH - CHI NHÁNH LÂM ĐỒNG,0316924103-001,Mai Nguyên Vĩnh,"Tổ 1, Thôn Lạc Nghiệp, Xã Đơn Dương, Huyện Đơn Dương, Lâm Đồng",0932795296
+ERP_0232,CÔNG TY CỔ PHẦN KÍNH MẮT VIN BIS VIỆT NAM,0111705742,Phạm Văn Cường,"Số Nhà 17 Ngách 40 Ngõ 95, Phố Kim Mã, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0887983552
+ERP_0233,HỢP TÁC XÃ DỪA QUỐC NAM,1301177073,Trịnh Thị Tường Vi,"Thửa Đất Số 268, Tờ Bản Đồ Số 12, Ấp An Lợi, Xã Thành Thới, Huyện Mỏ Cày Nam, Bến Tre",0886393704
+ERP_0234,CÔNG TY CỔ PHẦN BNHC,0111706513,Lê Bích Ngọc,"Số Nhà 17, Ngách 15, Ngõ 61 Phố Lạc Trung, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0889682833
+ERP_0235,CÔNG TY TNHH XÂY DỰNG VÀ NỘI THẤT F5 INTERIOR,0111706506,Lê Anh Tú,"Tt04 - 536 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0909333144
+ERP_0236,CÔNG TY TNHH BẤT ĐỘNG SẢN THẢO HOUSE (NTNN),0319801727,Bùi Thị Ngọc Thảo,"69/50 Nguyễn Gia Trí, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0933753665
+ERP_0237,CÔNG TY CỔ PHẦN GIẢI PHÁP GIÁO DỤC HƯNG YÊN,0901258974,Vũ Thị Kim Liên,"Số 59B Chu Mạnh Trinh, Phường Phố Hiến, Thành Phố Hưng Yên, Hưng Yên",0791216259
+ERP_0238,CÔNG TY TNHH Y KHOA VÀ THẨM MỸ NCB (NTNN),0319801533,Nguyễn Chí Bảo,"55-57 Trường Sơn, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0883344753
+ERP_0239,CÔNG TY TNHH DỊCH VỤ TÂN ĐÔNG LÂN (NTNN),0319801452,Phaêm Hoa�Ng Kim Thoa,"32/12 Mê Linh, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0888885064
+ERP_0240,CÔNG TY TNHH PAPU MEDIA,2902297553,Nguyễn Thị Linh Xuân,"Số 35A, Đường Nguyễn Xí, Phường Trường Vinh, Thành Phố Vinh, Nghệ An",0978560306
+ERP_0241,CÔNG TY TNHH BỆNH VIỆN SÀI GÒN YOUNG (NCCNN),0319801484,Đinh Hương Vi Vân,"26 Huỳnh Đình Hai, Phường Bình Thạnh, Quận Bình Thạnh, Tp Hồ Chí Minh",0937349379
+ERP_0242,CÔNG TY CỔ PHẦN SẢN XUẤT VÀ XUẤT NHẬP KHẨU DUKA,0111706009,Nguyễn Văn Huân,"51.Louis Xvi-Lk43, Khu Đô Thị Mới Hoàng Văn Thụ, Phường Hoàng Mai, Quận Hoàng Mai, Hà Nội",0979503683
+ERP_0243,CÔNG TY CỔ PHẦN NEXTGEN HOME VIỆT NAM,0111706016,Nguyễn Công Quyền,"Số 16 Ngách 11 Ngõ 162 Phố Đông Thiên, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",0972791067
+ERP_0244,VĂN PHÒNG ĐẠI DIỆN - CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ ĐÔNG PHƯƠNG TẠI PHÚ QUỐC,0101254924-006,Đặng Châu Anh,"Căn B8-303 Khu Phú Quốc Waterfront, Bãi Trường, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0903805404
+ERP_0245,TRẠM Y TẾ NGHĨA ĐÔ,5300859232,Hoàng Trung Kiên,"Trạm Y Tế Xã Nghĩa Đô, Xã Nghĩa Đô, Huyện Bảo Yên, Lào Cai",0975949733
+ERP_0246,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI VŨ LINH AUTO,3703529138,Trịnh Quốc Vũ,"Số 691A, Đường Đt743A, Khu Phố Đông Tân 1, Phường Dĩ An, Thành Phố Dĩ An, Bình Dương",0932104944
+ERP_0247,CÔNG TY TNHH URPLANNER VINA,0111706249,Jang Wooyen,"Tầng 4, Số 37 Thiên Hiền, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0904024090
+ERP_0248,CÔNG TY TNHH TRÁI TIM MÙA THU (NTNN),0319801068,Hồ Thị Ái Thương,"456/30A Cao Thắng, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0884022526
+ERP_0249,CÔNG TY TNHH DỊCH VỤ THẨM MỸ THEBIO (NTNN),0319801318,Trần Thị Tố Anh,"Tầng 1, 2, 3 Số 11 Hoàng Dư Khương, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0976706646
+ERP_0250,"MIẾU THỔ THẦN - ẤP KINH TRÊN, XÃ TÂN ĐIỀN",1201738906,Đoàn Thanh Lưu,"Ấp Kinh Trên, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0976020669
+ERP_0251,CÔNG TY TNHH TBH GLOBAL VN,5400577062,Park Su Woong,"Số 1151, Đường An Dương Vương, Tổ 4, Phường Thống Nhất, Thành Phố Hoà Bình, Hòa Bình",0885626373
+ERP_0252,"TRƯỜNG MẦM NON, TIỂU HỌC, TRUNG HỌC CƠ SỞ HỘI NHẬP QUỐC TẾ ISCHOOL TRÀ VINH (ĐV NỘP HỘ THUẾ NT NN)",2100721545,Đào Thị Hồng Vân,"Số 36, Đường Quang Trung, Khóm 2, Phường Trà Vinh, Thành Phố Trà Vinh, Trà Vinh",0882463877
+ERP_0253,CÔNG TY TNHH TEAMO VIỆT NAM,0111705710,Nguyễn Hiếu Nghĩa,"Số Nhà 25, Ngõ 30 Đường Nhánh 422, Xã Ô Diên, Huyện Đan Phượng, Hà Nội",0904115023
+ERP_0254,CÔNG TY TNHH KBF ASSET,2301433219,Vũ Thị Hoan,"Khu Khả Lễ 1, Đường Lê Lai, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0794323742
+ERP_0255,CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ĐỒNG NHẤT,0315704521-001,Đỗ Thị Bích,"44E Đường Đặng Công Bỉnh, Ấp Nhị Xuân, Xã Xuân Thới Sơn, Huyện Hóc Môn, Tp Hồ Chí Minh",0937282832
+ERP_0256,ĐẢNG UỶ CÁC CƠ SỞ Y TẾ TPHCM,0319801325,Trần Tuấn Lĩnh,"71-73-75 Đường Đoàn Như Hải, Phường Xóm Chiếu, Quận 4, Tp Hồ Chí Minh",0917262785
+ERP_0257,CÔNG TY TNHH NOMAH VIỆT NAM (NTNN),0319801438,Nguyễn Quý Trọng,"249 � 251 Đinh Bộ Lĩnh, Phường Bình Thạnh, Quận Bình Thạnh, Tp Hồ Chí Minh",0988550312
+ERP_0258,CÔNG TY TNHH CÔNG NGHỆ SỐ GENERLAB � CHI NHÁNH VĨNH LONG,0314356790-004,Bùi Trần Mạnh Hiếu,"Số 144A Đường Tôn Đức Thắng, Phường Phước Hậu, Thành Phố Vĩnh Long, Vĩnh Long",0792977124
+ERP_0259,CÔNG TY TNHH NÔNG NGHIỆP AGRIVA (NCCNN),0319801420,Võ Chính Trung,"232/4 Bình Lợi, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0793633008
+ERP_0260,CÔNG TY CỔ PHẦN PHI ANH ECO GROUP,5500693263,Nguyễn Duy Phi,"Số Nhà 143, Đường 280, Tổ Dân Phố 19/5, Phường Thảo Nguyên, Thị Xã Mộc Châu, Sơn La",0881303430
+ERP_0261,CÔNG TY TNHH THU GOM CHẤT THẢI BK,0319799796,Hoàng Thị Lý,"564/36/5 Phạm Văn Chiêu, Phường An Hội Đông, Quận Gò Vấp, Tp Hồ Chí Minh",0913550715
+ERP_0262,CÔNG TY TNHH MTV HẰNG PHƯƠNG,0801511574,Bùi Ngọc Phương,"Thôn Hưng Long, Xã Hồng Châu, Huyện Ninh Giang, Hải Dương",0938485629
+ERP_0263,CÔNG TY TNHH NẾN THÀNH TÍN,0601334310,Đinh Thị Liên,"Thôn Giao Cù Thượng, Xã Nam Đồng, Huyện Nam Trực, Nam Định",0976071805
+ERP_0264,CÔNG TY CỔ PHẦN DỊCH VỤ THƯƠNG MẠI GLOBAL MIỀN BẮC,0601334303,Nguyễn Thanh Chiến,"Xóm 2, Xã Giao Bình, Huyện Giao Thuỷ, Nam Định",0884617533
+ERP_0265,CÔNG TY CỔ PHẦN CÔNG NGHỆ VIOPLAY,0111705608,Nguyễn Văn Tiến,"Số Nhà M19, Khu Đô Thị Cổ Dương, Xã Phúc Thịnh, Huyện Đông Anh, Hà Nội",0971742987
+ERP_0266,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI TUẤN DÂN,1001343280,Bùi Quang Dân,"Thôn Hưng Đạo, Xã Nam Đông Hưng, Huyện Đông Hưng, Thái Bình",0939778936
+ERP_0267,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NGUYỄN THỊ THU THẢO,3301770449,Nguyễn Thị Thu Thảo,"39/289 Bùi Thị Xuân, Phường Thủy Xuân, Quận Thuận Hóa, Thành Phố Huế",0907027318
+ERP_0268,CÔNG TY TNHH LOGISTICS CHINH DUYÊN,2401097024,Phạm Văn Sinh,"Tổ Dân Phố 8, Phường Lạng Giang, Phường Kép, Bắc Giang",0932483708
+ERP_0269,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI WONDER HOUSE (NTNN),0319800064,Trần Thị Xuân Trang,"305 Cách Mạng Tháng Tám, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0915637350
+ERP_0270,HỢP TÁC XÃ DỊCH VỤ NÔNG NGHIỆP PHONG HOÀ,1402239142,Đặng Quý Ngọc,"489/5, Ấp Hoà Khánh, Xã Phong Hòa, Huyện Lai Vung, Đồng Tháp",0793342399
+ERP_0271,CÔNG TY TNHH MAY DIGITAL VIỆT NAM (NTNN),0319800177,Trần Khánh Đăng,"Số 39 Đường Số 17, Khu Phố 6, Phường Hiệp Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0889847774
+ERP_0272,CÔNG TY TNHH PHỤNG SỰ VẺ ĐẸP VIỆT (NTNN),0319800811,Nguyễn Quốc Thái,"Số 37 Trần Thị Nghỉ, Phường Hạnh Thông, Quận Gò Vấp, Tp Hồ Chí Minh",0983095063
+ERP_0273,CÔNG TY TNHH NÔNG NGHIỆP TẬP ĐOÀN GOLDVET,0111706087,Nguyễn Văn Hiệp,"Số 10 Ngõ 90 Nam Dư, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",0798985597
+ERP_0274,CÔNG TY TNHH THƯƠNG MẠI COSMO VIỆT NAM,0111706055,Lê Văn Thành,"Ô Dịch Vụ 10, Lô Số 6, Khu Đô Thị Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",0905349117
+ERP_0275,CÔNG TY TNHH LIP HING INDUSTRIAL VIỆT NAM,2301433258,"Huang, Shih-Hao","Lô K1, Khu Công Nghiệp Nam Sơn � Hạp Lĩnh, Xã Tân Chi, Phường Tiên Du, Bắc Ninh",0797662503
+ERP_0276,CÔNG TY TNHH THỦY HẢI SẢN NGÂN PHÁT,0601334180,Vương Quốc Anh,"Thôn 3, Xã Rạng Đông, Huyện Nghĩa Hưng, Nam Định",0889871476
+ERP_0277,CÔNG TY CỔ PHẦN KINH DOANH BẤT ĐỘNG SẢN SINGA,0319800804,Hồ Văn Hùng,"24 Bạch Đằng, Phường Tân Sơn Hòa, Quận Tân Bình, Tp Hồ Chí Minh",0933772331
+ERP_0278,CÔNG TY TNHH D&I TECH VINA,3703529392,Phạm Ngọc Xuân Nghi,"295/10B, Đường Nguyễn Thị Minh Khai, Kp Tân Long, Phường Dĩ An, Thành Phố Dĩ An, Bình Dương",0907885285
+ERP_0279,CÔNG TY CỔ PHẦN DI CHUYỂN XANH VÀ THÔNG MINH GSM,9000591630,Phạm Nhật Minh Hoàng,"Tòa Văn Phòng Symphony, Đường Chu Huy Mân, Khu Đô Thị Vinhom, Phường Phúc Lợi, Quận Long Biên, Hà Nội",0979661690
+ERP_0280,CÔNG TY TNHH MTV THIÊN AN ĐỨC,6400485688,Bùi Văn Tứ,"Bon Điêng Đu, Xã Quảng Tân, Huyện Tuy Đức, Đắk Nông",0795766514
+ERP_0281,CÔNG TY TNHH GIÁO DỤC LICA,0111705037,Đỗ Khắc Canh,"Số 5, Ngõ 127 Tây Sơn, Xã Đan Phượng, Huyện Đan Phượng, Hà Nội",0889689529
+ERP_0282,CÔNG TY TNHH GIA LƯƠNG DENTAL LAB,2301433096,Trần Quang Đạo,"Số 486 Đường Hoàng Quốc Việt, Phường Vũ Ninh, Thành Phố Bắc Ninh, Bắc Ninh",0916027245
+ERP_0283,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SẢN XUẤT NHÔM KÍNH QUỐC BẢO,0319799556,Nguyễn Văn Quốc,"58/3N Huỳnh Tấn Chùa, Tổ 3, Ấp Đông Lân, Xã Bà Điểm, Huyện Hóc Môn, Tp Hồ Chí Minh",0914384640
+ERP_0284,CÔNG TY TNHH TRANG THIẾT BỊ Y TẾ VÀ DƯỢC PHẨM AN KHANG,0111705693,Vũ Thị Thúy,"Số 64, Ngõ 12, Phố Đào Tấn, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0904940213
+ERP_0285,CÔNG TY CỔ PHẦN PHÁT TRIỂN SẢN XUẤT VÀ THƯƠNG MẠI TRANG ANH,0111705647,Phạm Gia Hiển,"27A Phố Chợ, Xã Sóc Sơn, Huyện Sóc Sơn, Hà Nội",0916098025
+ERP_0286,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ SCENT TECH (NTNN),0319800667,Nguyễn Tuấn Lâm,"32 Đường Số 1, Phường An Khánh, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0889394782
+ERP_0287,"ĐÌNH THẦN (LÊ VĂN DUYỆT) - ẤP BẮC, XÃ TÂN ĐIỀN",1201738896,Nguyễn Nam Tấn,"Ấp Bắc, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0988164171
+ERP_0288,CÔNG TY TNHH VIAN PHÚ QUỐC,1702379905,Nguyễn Thị Hồng Vinh,"L307 Khu Đô Thị Gateway, Khu Phố 6 An Thới, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0906099223
+ERP_0289,CÔNG TY TNHH X SPACE TIME,0111706432,"Li, Jianfei","Lô Tl-27B, Tầng B1, Tttm Vincom Mega Mall Times City, Số 458, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0909446483
+ERP_0290,CÔNG TY TNHH XUẤT NHẬP KHẨU MỘC PHÁT YUEZHONG,0700931050,Dương Minh Tân,"Tdp Hoàng Thượng, Phường Duy Hà, Thị Xã Duy Tiên, Hà Nam",0937351014
+ERP_0291,CHI NHÁNH - CÔNG TY TNHH CHIẾU SÁNG ĐÔ THỊ VẠN XUÂN,0110350462-001,Trần Văn Sáng,"Căn Pg2-21, Khu Đô Thị Vincom, Tổ Dân Phố Phan Thiết 18, Phường Minh Xuân, Thành Phố Tuyên Quang, Tuyên Quang",0916995767
+ERP_0292,HỢP TÁC XÃ GIA HUY NÔNG SẢN SẠCH TÂY BẮC VÀ DỊCH VỤ VẬN TẢI,5600362949,Nguyễn Viết Tới,"Thôn Thắng Lợi, Xã Tuần Giáo, Huyện Tuần Giáo, Điện Biên",0918003220
+ERP_0293,CÔNG TY CỔ PHẦN TRUE CORE WELLNESS(NTNN),0319800547,Nur Athirah Lyn Chee Binti Abd,"176 Đường Nguyễn Lương Bằng, Chung Cư Riverside Residence (L, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0914762763
+ERP_0294,CÔNG TY TNHH THƯƠNG MẠI T&T MOTOR,0601334254,Hà Anh Tuấn,"Số 3/209 Thanh Bình, Phường Nam Định, Thành Phố Nam Định, Nam Định",0791846929
+ERP_0295,CÔNG TY TNHH TÔN THÉP PHƯƠNG UYÊN,3301770431,Lê Nhật Quang,"2/45 Trần Phú, Phường Thuận Hóa, Quận Thuận Hóa, Thành Phố Huế",0989347039
+ERP_0296,CÔNG TY TNHH DOYOE AMBITION TRADING,0319800226,"Luo, Xinglu","Tầng 4, 21 Nguyễn Hiến Lê, Phường Tân Bình, Quận Tân Bình, Tp Hồ Chí Minh",0986436658
+ERP_0297,DA TĂNG CƯỜNG MẠNG LƯỚI DỊCH VỤ HỖ TRỢ TÁI HÒA NHẬP HIỆU QUẢ CHO PN DI CƯ VÀ CON CÁI CỦA HỌ TẠI VN,0111705679,Nguyễn Thị Minh Hương,"39 Hàng Chuối, Phường Hai Bà Trưng, Quận Hai Bà Trưng, Hà Nội",0903376330
+ERP_0298,CÔNG TY TNHH HANA VINA VIỆT NAM (NỘP THAY),2301433297,Nguyễn Văn Thắng,"Lô B59, Khu Đô Thị An Huy, Phường Vũ Ninh, Thành Phố Bắc Ninh, Bắc Ninh",0932692755
+ERP_0299,CÔNG TY TNHH THỂ THAO SUNLIGHT (NTNN),0319800642,Lưu Nguyê�N Anh Minh,"Kho 22, Số 411A, Đường Nguyễn Văn Bá, Phường Thủ Đức, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0986810740
+ERP_0300,CÔNG TY TNHH PHÁT TRIỂN DỊCH VỤ BẢO VỆ PHÚ THÀNH,0202376220,Nguyễn Thế Thái,"Số 119 Đường Trung Hành, Phường Hải An, Quận Hải An, Hải Phòng",0931380546
+ERP_0301,CÔNG TY TNHH LƯƠNG THỰC THỰC PHẨM HẠT VIỆT,0319798665,Châu Văn Mẫn,"Số 43, Đường Nguyễn Văn Lượng, Phường Gò Vấp, Quận Gò Vấp, Tp Hồ Chí Minh",0888885745
+ERP_0302,CÔNG TY CỔ PHẦN SAFETY FUTURE VN � CHI NHÁNH PHÚ THỌ,2301399462-001,Lương Cao Quân,"Đường Hùng Vương, Tdp Long Ân, Phường Phú Thọ, Thị Xã Phú Thọ, Phú Thọ",0935378210
+ERP_0303,CÔNG TY TNHH SKINMAP (NTNN),0319800219,Lê Quang Bình,"27C Quốc Hương, Phường An Khánh, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0987289246
+ERP_0304,CÔNG TY TNHH SX-TM CƠ KHÍ 247,3604133110,Nguyễn Thị Cúc,"Tổ 5, Ấp An Lợi, Phường Long Thành, Phường Long Thành, Đồng Nai",0907468951
+ERP_0305,CÔNG TY TNHH AGRI SEP,6101319026,Trần Hồng Diễm,"Số 72/36 Cao Bá Quát, Phường Kon Tum, Thành Phố Kon Tum, Kon Tum",0913444439
+ERP_0306,CÔNG TY TNHH Ô TÔ TOÀN PHÁT SÀI GÒN,0319800201,Trương Thị Thanh Tâm,"09 Đường Nguyễn Cảnh Dị, Phường Tân Sơn Nhất, Quận Tân Bình, Tp Hồ Chí Minh",0984868019
+ERP_0307,CÔNG TY TNHH GIẢI PHÁP SỐNG THÔNG MINH INNO VIỆT NAM (NTNN),0319800258,Nguyễn Khánh Duy,"Số 12 Đường Số 05, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0973257265
+ERP_0308,CÔNG TY CP BẤT ĐỘNG SẢN CUBIC (NTNN),0319800480,Đặng Minh Sang,"28 Đường Số 10, Phường Tân Thuận, Quận 7, Tp Hồ Chí Minh",0798649716
+ERP_0309,CÔNG TY TNHH THE BRICK CONSULTING (NTNN),0319800522,Trần Khánh Ngân,"Lk6-L04 Dự Án Green Star - The Peak Garden, Số 600 Đường Ngu, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0798032318
+ERP_0310,CÔNG TY TNHH COAUTHS VIETNAM (NTNN),0319800508,Kang Hyunggyu,"Số 51 Đường Nội Khu, Hưng Thái 1, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0974900324
+ERP_0311,CÔNG TY TNHH TƯ VẤN VÀ ĐẦU TƯ PEGASUS GROUP (NTNN),0319800674,Nguyễn Hồng Nhã,"Số 2, Đông Tây 1, An Phú New City, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0889002468
+ERP_0312,CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI IN ẤN HOÀNG MINH (NTNN),0319800681,Hoàng Thị Nhung,"80/44 Đường 17, Khu Phố 3, Phường Hiệp Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0888275556
+ERP_0313,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN XÂY DỰNG HẠ TẦNG VIỆT NAM HƯNG THỊNH,4001344265,Lê Thu Hằng,"Thửa Đất Số 436, Tờ Bản Đồ Số 7, Thôn Lục Nam, Xã Hà Nha, Huyện Đại Lộc, Quảng Nam",0884074480
+ERP_0314,CÔNG TY TNHH NHAN ANH,3604133495,Nguyễn Cao Nguyên Sơn,"330/14/30, Tổ 114, Khu Phố 10, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0903258015
+ERP_0315,CÔNG TY TNHH CREATE ONE (NTNN),0319801540,Ichimoto Katsuhiro,"66 Võ Oanh, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0796419044
+ERP_0316,CÔNG TY CỔ PHẦN D-SHINING (NTNN),0319801572,Trần Mai Lan,"7C Nguyễn Ngọc Phương, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0915425207
+ERP_0317,CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI NAM ĐÔ (NTNN),0319800184,Nguyễn Thị Nhung,"2C Đường Số 10, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",0938844870
+ERP_0318,CHI NHÁNH CÔNG TY CỔ PHẦN CHANH DÂY ĐẮK NÔNG,6400445036-001,Lương Thanh Tâm,"4/1 Đường 3, Phường Long Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0982022727
+ERP_0319,CÔNG TY TNHH THƯƠNG MẠI BẾP AN NAM,0111705774,Huỳnh Ngọc Sơn,"Số 188 Phố Phó Đức Chính, Phường Ba Đình, Quận Ba Đình, Hà Nội",0889863711
+ERP_0320,CÔNG TY TNHH JW WEDDING & EVENT ACADEMY VIỆT NAM(NTNN),0319800515,Nguyễn Thị Tuyết Trang,"Tầng 2, Tòa Nhà Saigon Paragon, Số 3, Nguyễn Lương Bằng, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0972621601
+ERP_0321,CÔNG TY TNHH VẬN TẢI THƯƠNG MẠI PHÁT THÀNH,0700931043,Nguyễn Tùng Dương,"Tổ Dân Phố Trác Bút, Phường Duy Tân, Thị Xã Duy Tiên, Hà Nam",0799286807
+ERP_0322,CÔNG TY CỔ PHẦN HÀ DI,0319797407,Nguyễn Thị Hoàng Hà,"Số 20 Đường Số 2, Khu Dân Cư Him Lam, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0986942164
+ERP_0323,CÔNG TY TNHH CÔNG NGHỆ TERRA NOVA LUMINA,3703529628,"Ye, Zhuli","Số Nx C-X6B, Đường D8, Khu Công Nghiệp Phú Tân, Phường Bình Dương, Thành Phố Thủ Dầu Một, Bình Dương",0979421389
+ERP_0324,CÔNG TY TNHH KỸ THUẬT NĂNG LƯỢNG TẤT THẮNG,1501176630,Nguyễn Tất Thắng,"Số Nhà 1083, Tổ 2, Ấp Đông Hòa 2, Phường Đông Thành, Thị Xã Bình Minh, Vĩnh Long",0984731619
+ERP_0325,CÔNG TY TNHH COLORSTYLE DETAILING (NTNN),0319800561,Tô Thị Minh Anh,"Lô Lk1.09, Đường N1, Khu Dân Cư Q7 Riverside Complex, Phường Phú Thuận, Quận 7, Tp Hồ Chí Minh",0976863086
+ERP_0326,CÔNG TY TNHH CHĂN GA GỐI NỆM HOÀNG KIM (NCCNN),0319800191,Đặng Hoàng Vũ,"346 Đường 26/3, Phường Bình Hưng Hòa, Quận Bình Tân, Tp Hồ Chí Minh",0914420126
+ERP_0327,CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN VICONS RMC,0901258854,Phạm Ngọc Giang,"Sao Biển 24-33, Vinhomes Ocean Park 2, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0901221571
+ERP_0328,CÔNG TY TNHH MỘT THÀNH VIÊN KHÁCH SẠN QUEEN VICTORIA,0319799764,Nguyễn Bá Luân,"Số 11 Đường Số 10, Khu Dân Cư Trung Sơn, Xã Bình Hưng, Huyện Bình Chánh, Tp Hồ Chí Minh",0915013296
+ERP_0329,CÔNG TY TNHH LEONIS STUDIO,0319794798,Lê Khắc Tiệp,"434/32/27M Phạm Văn Chiêu, Phường Thông Tây Hội, Quận Gò Vấp, Tp Hồ Chí Minh",0912897444
+ERP_0330,CÔNG TY CỔ PHẦN LAPHACO MECI (NTNN),0319800699,Đặng Đức Anh,"Số 65 Đường Số 6, Khu Phố 2, Phường Hiệp Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0792783368
+ERP_0331,CÔNG TY TNHH HANG NGỌC RỒNG,5702240932,Hoàng Thị Năm,"Tổ 4, Khu 20, Phường Cẩm Phả, Thành Phố Cẩm Phả, Quảng Ninh",0931473664
+ERP_0332,CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP NAM TIẾN,1801844399,Nguyễn Thúy Hằng,"366 Ql 91, Tổ 5, Kv Thới Hoà 1, Phường Thốt Nốt, Quận Thốt Nốt, Cần Thơ",0977848724
+ERP_0333,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ CƯỚI A&N (NTNN),3301770512,Châu Thùy An,"21/3 Kiệt 31 Lịch Đợi, Phường Thuận Hóa, Quận Thuận Hóa, Thành Phố Huế",0975663473
+ERP_0334,CÔNG TY CỔ PHẦN BỆNH VIỆN MẮT QUỐC TẾ MEDIC CỬU LONG,1801844511,Nguyễn Thành Long,"03-04-05-06 Khu A2, Trung Tâm Thương Mại Phức Hợp Cần Thơ Ce, Phường Hưng Phú, Quận Cái Răng, Cần Thơ",0906366588
+ERP_0335,CÔNG TY TNHH K-MIO APPAREL,0319799806,Nguyễn Lê Hiền Trung,"Số Nhà 86, Đường Tây Lân 1, Ấp Bắc Lân 2, Xã Bà Điểm, Huyện Hóc Môn, Tp Hồ Chí Minh",0974320512
+ERP_0336,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP VÀ VẬN TẢI KIM THÀNH PHÁT,4101701337,Nguyễn Mai My Hạ,"Xóm 3, Thôn Thượng Giang, Xã Bình Khê, Huyện Tây Sơn, Bình Định",0983074837
+ERP_0337,CÔNG TY TNHH TRẦN GIA HƯNG YÊN,0901258886,Trần Xuân Học,"Tổ Dân Phố Phong Cốc, Phường Thượng Hồng, Thị Xã Mỹ Hào, Hưng Yên",0909643639
+ERP_0338,CÔNG TY TNHH THƯƠNG MẠI ĐẦU TƯ PT88 NGUYỄN VĂN,0901258741,Nguyễn Văn Văn,"Thôn Bối Khê, Xã Phạm Ngũ Lão, Huyện Ân Thi, Hưng Yên",0985760265
+ERP_0339,CÔNG TY TNHH ĐẦU TƯ VẬN TẢI HẢI AN PHÁT,3703529427,Nguyễn Thanh Hải,"Thửa Đất Số 582, Tờ Bản Đồ Số 04, Đường D2B, Tổ 3, Khu Phố 1, Phường Vĩnh Tân, Thành Phố Tân Uyên, Bình Dương",0881474176
+ERP_0340,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ TRÚC ANH NGỌC,3604133537,Nguyễn Ngọc Trúc Anh,"Số 153, Tổ 1, Khu Phố 2, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0905604711
+ERP_0341,CÔNG TY TNHH TRUYỀN THÔNG THÁI LINH,2803254453,Nguyễn Thái Sơn,"Số Nhà 02/48 Ỷ Lan, Phường Hạc Thành, Thành Phố Thanh Hoá, Thanh Hoá",0932921330
+ERP_0342,CÔNG TY TNHH REUNION FOODS (NTNN),0319801607,Đỗ Duy Hải,"Tầng 5, 95-97-99 Hoàng Hoa Thám, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0791039227
+ERP_0343,CÔNG TY TNHH CÔNG NGHỆ HAO MAI,3703529586,Sềnh Quang Liên,"Thửa Đất Số 370, Tờ Bản Đồ Số 36, Khu Phố An Tây, Phường Tây Nam, Thành Phố Bến Cát, Bình Dương",0914655352
+ERP_0344,CÔNG TY TNHH 89 HOÀNG MINH,0901258773,Nguyễn Văn Học,"Thôn Bắc Minh Tân, Xã Quang Hưng, Huyện Phù Cừ, Hưng Yên",0986044522
+ERP_0345,CÔNG TY TNHH VẬN CHUYỂN XÂY DỰNG THANH TUẤN,1501176616,Trần Thanh Tuấn,"Số 257, Tổ 2, Ấp An Thạnh, Xã Tân Lược, Huyện Bình Tân, Vĩnh Long",0908643689
+ERP_0346,CÔNG TY TNHH ĐẦU TƯ VÀ THƯƠNG MẠI QUÝ LINH,0901258942,Nguyễn Xuân Linh,"Đường 179, Chợ Cửu Cao, Thôn Vàng, Xã Phụng Công, Huyện Văn Giang, Hưng Yên",0884313312
+ERP_0347,CÔNG TY TNHH VIVA LIVING (VIETNAM),3901398014,Công Ty Tnhh Viva Living (Viet,"Nhà Xưởng A3.8, Đường D1, Kcn Thành Thành Công, Phường Trảng Bàng, Thị Xã Trảng Bàng, Tây Ninh",0989314285
+ERP_0348,CÔNG TY TNHH GLOBAL DENTAL MINH CHÂU (NTNN),0319800716,Vũ Văn Yên,"66 Hoàng Diệu 2, Khu Phố 3, Phường Thủ Đức, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0883841842
+ERP_0349,CÔNG TY TNHH PHÁT TRIỂN TRUYỀN THÔNG ĐA QUỐC GIA,0111705661,Trịnh Công Vinh,"Số 64, Ngõ 12, Phố Đào Tấn, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0791461129
+ERP_0350,CÔNG TY TNHH THƯƠNG MẠI HUINAN (NTNN),0319800071,Li Lei,"Lầu 5, 41 Đường Số 10, Khu Đô Thị Sala, Phường An Khánh, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0975706222
+ERP_0351,"TRƯỜNG TIỂU HỌC, TRUNG HỌC CƠ SỞ VÀ TRUNG HỌC PHỔ THÔNG SONG NGỮ QUỐC TẾ HỌC VIỆN ANH QUỐC - HUẾ(NT)",3301770495,Huỳnh Thị Liễu,"Đường Nguyễn Đình Tứ, Phường Mỹ Thượng, Quận Thuận Hóa, Thành Phố Huế",0977672396
+ERP_0352,CÔNG TY TNHH RÈM NỘI THẤT THÙY NHI,0402366004,Nguyễn Thùy Nhi,"01A Xuân Hòa 2, Phường Thanh Khê, Quận Thanh Khê, Đà Nẵng",0884883721
+ERP_0353,CÔNG TY CỔ PHẦN Y TẾ PHÚC THỊNH (NTNN),0319801413,Dương Công Thuyên,"833 Lê Hồng Phong, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0908346072
+ERP_0354,CÔNG TY TNHH NHA KHOA QUỐC TẾ VINDENTAL (NTNN),0319801639,Maria-Begona Deirdre Fallon Fa,"100 Phan Xích Long, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0886311233
+ERP_0355,CÔNG TY TNHH GỖ TÂN NAM,1602238749,Văng Hùng Cường,"Số 367, Đường Châu Văn Liêm, Ấp Mỹ Hòa, Xã Long Điền, Huyện Chợ Mới, An Giang",0977282817
+ERP_0356,"MIỄU BÀ CHÚA XỨ - ẤP XÓM ĐEN, XÃ TÂN ĐIỀN",1201738938,Võ Văn Bình,"Ấp Xóm Đen, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0987052826
+ERP_0357,TRẠM Y TẾ XUÂN HÒA,5300859190,Hoàng Thị Nhiêu,"Bản Mai Thượng, Xã Xuân Hòa, Huyện Bảo Yên, Lào Cai",0932484386
+ERP_0358,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI BẢO HÂN PHÚ THỌ,2601166451,Trần Bích Ngọc,"Thôn 23 Hoàng Xá, Xã Tu Vũ, Huyện Thanh Thuỷ, Phú Thọ",0911801535
+ERP_0359,CÔNG TY TNHH MR MRS INDIA RESTAURANT,1702379743,Đinh Gia Quyền,"Sa-07-11, Grand World Resort And Villas Complex, Bãi Dài, Gà, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0983145974
+ERP_0360,CÔNG TY TNHH K MART THÁI BÌNH,1001343298,Trương Công Quyền,"Dãy Dal10, Lô 14+15, Khu Đô Thị Tây Quốc Lộ 10, Thôn 2, Xã Đông Hưng, Huyện Đông Hưng, Thái Bình",0887450599
+ERP_0361,CÔNG TY TNHH VẠN THUẬN PHÁT FOOD,1501176662,Lê Trung Nghĩa,"Thửa Đất Số 57, Tờ Bản Đồ Số 70, Ấp Long Khánh, Xã Bình Phước, Huyện Mang Thít, Vĩnh Long",0987410751
+ERP_0362,CÔNG TY CỔ PHẦN VIỆN MẮT QUỐC TẾ VIỆT - NGA THÀNH PHỐ HỒ CHÍ MINH (NTNN),0319800120,Dương Chí Đạt,"Số 1, Đường 3/2, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0975122937
+ERP_0363,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI THỦY NỘI ĐỊA QUANG THẠNH,1001343266,Nguyễn Quang Thạnh,"Nhà Ông Nguyễn Quang Thạnh, Thôn Hổ Đội, Xã Thái Thụy, Huyện Thái Thụy, Thái Bình",0989664099
+ERP_0364,HỢP TÁC XÃ DỊCH VỤ NÔNG NGHIỆP CÔNG NGHỆ CAO ĐÔNG NAM,2803254340,Nguyễn Hữu Giáp,"Tdp Đông Nam, Phường Đông Quang, Thành Phố Thanh Hoá, Thanh Hoá",0799329819
+ERP_0365,CÔNG TY TNHH MTV DVTM TUẤN LONG,2803254407,Lưu Quốc Tuấn,"Số Nhà 35, Thôn Bái Thủy, Xã Yên Định, Huyện Yên Định, Thanh Hoá",0934641401
+ERP_0366,CÔNG TY TNHH XUẤT NHẬP KHẨU PHÁT LỘC GROUP,1501176648,Nguyễn Thị Ngọc Thơ,"Số 195 Tổ 11 Khóm Long Quới, Phường Thanh Đức, Thành Phố Vĩnh Long, Vĩnh Long",0931637270
+ERP_0367,VĂN PHÒNG ĐẠI DIỆN TẠI VĨNH LONG CÔNG TY CỔ PHẦN LITRACO,1301125928-002,Phạm Thế Vinh,"64N Phan Văn Đáng, Phường Long Châu, Thành Phố Vĩnh Long, Vĩnh Long",0909685750
+ERP_0368,CÔNG TY TNHH YLA COSMETICS,0111705830,Côngtytnhhyla Cosmetics,"Số Nhà 146 Thôn An Thượng, Xã Hòa Phú, Huyện Chương Mỹ, Hà Nội",0911774400
+ERP_0369,CHI NHÁNH CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DỊCH VỤ ĐỈNH PHONG TẠI HÀ NỘI,0111706672,Phạm Thanh Sơn,"212 Lò Đúc, Phường Hai Bà Trưng, Quận Hai Bà Trưng, Hà Nội",0903088058
+ERP_0370,CÔNG TY CỔ PHẦN MED CONNECT MEDIA,0111706665,Trần Minh Đức,"Tầng 3, Tòa Nhà 139 Triệu Việt Vương, Phường Hai Bà Trưng, Quận Hai Bà Trưng, Hà Nội",0908375804
+ERP_0371,TRUNG TÂM DỊCH VỤ TỔNG HỢP XÃ ĐỨC QUANG,3002322858,Trần Xuân Thạch,"Thôn Hạ Tứ, Xã Đức Quang, Huyện Đức Thọ, Hà Tĩnh",0984688160
+ERP_0372,CÔNG TY TNHH EDU FUTURE & PARTNERS (NTNN),0319801692,Trần Hoàng Minh,"1/6/3A Đinh Bộ Lĩnh, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0913212254
+ERP_0373,CÔNG TY TNHH ĐẦU TƯ TMTT VĨNH LONG,0319799852,Trần Đức Cung,"Số 655/1, Đường Nguyễn Duy, Phường Phú Định, Quận 8, Tp Hồ Chí Minh",0932845295
+ERP_0374,CÔNG TY TNHH TM&DV LOGISTICS ĐẠI THẮNG,0319798633,Nghiêm Thị Thương,"Số 714, Đường Nguyễn Duy, Phường Phú Định, Quận 8, Tp Hồ Chí Minh",0973982652
+ERP_0375,CÔNG TY TNHH BILTONGSHOP,2902297560,Chu Đức Lợi,"Khu Đô Thị Vinaconex 9- Nv10-03, Khối Tân Phú 1, Phường Vinh Phú, Thành Phố Vinh, Nghệ An",0988431276
+ERP_0376,CÔNG TY TNHH THƯƠNG MẠI - ĐẦU TƯ PHƯƠNG LINH (NTNN),0319801660,Công Ty Tnhh Thương Mại - Đầu,"64/4 Võ Oanh, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0984555465
+ERP_0377,CÔNG TY TNHH 27/7 KHÁCH SẠN CƯỜNG THANH 3 (NTNN),0319801653,Vũ Ngọc Cường,"Số 252/43 - 45 Cao Thắng, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0913716971
+ERP_0378,CÔNG TY TNHH SAIGON ART ACADEMY (NTNN),0319801389,Trần Hoàng Thiện,"9/3 Nguyễn Huy Tưởng, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0988935344
+ERP_0379,CÔNG TY TNHH AN CORNER (NTNN),0319801371,Nguyễn Trương Thanh Thanh,"135/1/84 Đường Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0981372552
+ERP_0380,CÔNG TY TNHH TẬP NGHĨA HÙNG VƯƠNG,2601166476,Nguyễn Viết Hiệp,"Thôn Chanh, Xã Thanh Sơn, Huyện Thanh Sơn, Phú Thọ",0914020782
+ERP_0381,CÔNG TY TNHH TIM GLOBAL,3703529635,Nguyễn Văn Hảo,"21 Lô F3, Đường Số 1, Kdc Vĩnh Phú 2, Khu Phố Phú Hội, Phường Bình Hòa, Thành Phố Thuận An, Bình Dương",0886750970
+ERP_0382,CÔNG TY CỔ PHẦN BỆNH VIỆN MẮT SÀI GÒN ĐỒNG THÁP,1402239199,Nguyễn Văn Thêm,"303 Phạm Hữu Lầu, Phường Cao Lãnh, Thành Phố Cao Lãnh, Đồng Tháp",0796486813
+ERP_0383,CÔNG TY CỔ PHẦN LUMINA,0111705703,Trịnh Đức Kiên,"Số 172 Đường Bưởi, Phường Giảng Võ, Quận Ba Đình, Hà Nội",0902592547
+ERP_0384,CÔNG TY CỔ PHẦN THƯƠNG MẠI AN NGỌC TÂM,1702379831,Lê Như Hiếu,"124 Trần Hưng Đạo, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0937686836
+ERP_0385,CÔNG TY TNHH THỤY PHONG PHÚ THỌ,5400577055,Đặng Thu Huyền,"Tiểu Khu 11, Xã Lương Sơn, Huyện Lương Sơn, Hòa Bình",0908989685
+ERP_0386,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NHỰA SONG HÀ,2601166483,Nguyễn Xuân Cường,"Số Nhà 16, Đường Hồng Thịnh, Thôn 11, Xã Tam Nông, Huyện Tam Nông, Phú Thọ",0902006626
+ERP_0387,LIÊN ĐOÀN LÂN SƯ RỒNG TỈNH VĨNH LONG,2100721552,Lê Thanh Sang,"49B Ấp Lê Văn Quới, Xã Tập Ngãi, Huyện Tiểu Cần, Trà Vinh",0798899624
+ERP_0388,HỢP TÁC XÃ CÔNG NGHỆ AFF,0111705728,Hoàng Văn Tâm,"Số 08 - A11 Khu Đô Thị Geleximco An Khánh, Xã An Khánh, Huyện Hoài Đức, Hà Nội",0791760868
+ERP_0389,"MIỄU BÀ CHÚA XỨ - ẤP GÒ ME, XÃ TÂN ĐIỀN",1201738945,Huỳnh Văn Trọn,"Ấp Gò Me, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0908665285
+ERP_0390,CÔNG TY CỔ PHẦN XUÂN HOÀNG GREEN,5400577104,Phạm Ngọc Hân,"Thôn 7, Xã An Nghĩa, Huyện Lạc Thuỷ, Hòa Bình",0902291847
+ERP_0391,CÔNG TY TNHH TM DV HABELA HOME (MST NỘP THAY NTNN),0319799972,Đặng Trọng Nhân,"24/11, Ấp 16, Xã Xuân Thới Sơn, Huyện Hóc Môn, Tp Hồ Chí Minh",0915670967
+ERP_0392,"ĐÌNH THẦN - ẤP GÒ ME, XÃ TÂN ĐIỀN",1201738871,Nguyễn Văn Hải,"Ấp Gò Me, Xã Tân Điền, Huyện Gò Công Đông, Tiền Giang",0932341559
+ERP_0393,CÔNG TY TNHH THƯƠNG MẠI DƯỢC PHẨM TRUNG QUÂN,0111705189,Lê Đình Quân,"Xóm Thầy, Thôn Mỹ Lương, Xã Trần Phú, Huyện Chương Mỹ, Hà Nội",0972026233
+ERP_0394,CÔNG TY TNHH PHẦN MỀM SÁNG TẠO FPT,0402366036,Doãn Phú Tài,"Tòa Nhà Fpt Complex, Đường Nam Kỳ Khởi Nghĩa, Phường Ngũ Hành Sơn, Quận Ngũ Hành Sơn, Đà Nẵng",0917228108
+ERP_0395,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KHÁNH VY PHÚ QUỐC,1702379870,Trần Khánh Vy,"Tổ 4, Khu Phố Cửa Lấp Dương Tơ, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0798657026
+ERP_0396,CÔNG TY CỔ PHẦN MAYCONNECT,0111706792,Phạm Xuân Hiếu,"Sb24-36, Sao Biển 24, Kđt Vinhomes Ocean Park, Xã Gia Lâm, Huyện Gia Lâm, Hà Nội",0977957217
+ERP_0397,CÔNG TY TNHH SẢN XUẤT DỊCH VỤ & THƯƠNG MẠI PHÚC KHANG,0111706658,Phạm Thị Thùy An,"Số 7B Ngõ 88 Phố Ngũ Nhạc, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",0972604920
+ERP_0398,CÔNG TY CỔ PHẦN TOYOTA ĐẮK LẮK,6001853918,Nguyễn Trọng Danh,"Số 167 Nguyễn Thái Bình, Phường Tân Lập, Tp.buôn Ma Thuột, Đắk Lắk",0932979949
+ERP_0399,CÔNG TY TNHH LE MAISON,0111706577,Bùi Văn Dương,"Số 66 Xuân Diệu, Phường Tây Hồ, Quận Tây Hồ, Hà Nội",0906302940
+ERP_0400,CÔNG TY TNHH SLOWLIFE (NTNN),0319801300,Kim Kwangjin,"88 Lê Văn Thiêm, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0983316529
+ERP_0401,CÔNG TY TNHH THANG MÁY VÀ THIẾT BỊ MAY PHÁT,0111706175,Phùng Văn Lâm,"Nhà Số 3, Ngõ 9 Đường Vạn Phúc, Phường Hà Đông, Quận Hà Đông, Hà Nội",0887678928
+ERP_0402,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN HỢP MINH BMS,1801844247,Lý Quang Hợp,"Số 39 Đường D12 , Kdc Hồng Loan, Phường Cái Răng, Quận Cái Răng, Cần Thơ",0937223068
+ERP_0403,CÔNG TY TNHH NĂNG LƯỢNG GCL (VIỆT NAM) (NTNN),0319801808,Wang Tong,"Tầng 21, Số 5 Công Trường Mê Linh, Phường Sài Gòn, Quận 1, Tp Hồ Chí Minh",0988895653
+ERP_0404,CÔNG TY CỔ PHẦN ĐẦU TƯ HẠ TẦNG NƯỚC CHÂU ÂU (NTNN),0319801798,Nguyễn Thị Ái Mỹ,"Lầu 1, Tòa Nhà Thanh Dung, 179 Nguyễn Cư Trinh, Phường Cầu Ông Lãnh, Quận 1, Tp Hồ Chí Minh",0977186351
+ERP_0405,CÔNG TY TNHH NÔNG SẢN LÂM TRƯỜNG GIANG,0901258879,Nguyễn Xuân Trường,"Chợ Thương Mại Thôn Trai Trang, Xã Yên Mỹ, Huyện Yên Mỹ, Hưng Yên",0979908587
+ERP_0406,CÔNG TY TNHH XÂY DỰNG CẦU ĐƯỜNG TRANG TRỌNG,1301177002,Trần Thanh Triều,"Thửa Đất Sổ 887, Tờ Bản Đồ Số 24 , Ấp Quới Sơn, Xã Giao Long, Huyện Châu Thành, Bến Tre",0798933142
+ERP_0407,CÔNG TY CỔ PHẦN TRUYỀN THÔNG THƯƠNG MẠI VÀ DỊCH VỤ CARROX,0111705534,Ngô Xuân Thế,"Số 104 Ngõ 381 Nguyễn Khang, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0902195790
+ERP_0408,CÔNG TY CỔ PHẦN VẬT LIỆU XÂY DỰNG TIẾN PHÁT,5500693256,Đặng Hoàng Ngọc,"Tổ Dân Phố Bó Bun, Phường Vân Sơn, Thị Xã Mộc Châu, Sơn La",0794299438
+ERP_0409,CÔNG TY TNHH THỜI TRANG TONO VIỆT NAM,0111706231,Bùi Xuân Sơn,"Thửa Đất 587, Khu Dịch Vụ Kđt Kim Chung Di Trạch, Xã Hoài Đức, Huyện Hoài Đức, Hà Nội",0986013964
+ERP_0410,CÔNG TY TNHH QUẢN LÝ CHUỖI CUNG ỨNG SEAWING,0700931082,Nguyễn Thanh Xuân,"Phố Nguyễn Tri Phương, Khu Đô Thị Đồng Văn Xanh, Tdp Đông Hả, Phường Duy Hà, Thị Xã Duy Tiên, Hà Nam",0889077844
+ERP_0411,CÔNG TY TNHH ABENLA (NTNN),0319800730,Nguyễn Văn Hải,"594/12 Sư Vạn Hạnh, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0794683897
+ERP_0412,CÔNG TY TNHH SHIP THUOC,0319799877,Nguyễn Hoàng Quân,"427 Đỗ Văn Dậy, Ấp 27, Xã Hóc Môn, Huyện Hóc Môn, Tp Hồ Chí Minh",0985709098
+ERP_0413,HỢP TÁC XÃ DỊCH VỤ NÔNG NGHIỆP HƯƠNG NGỌC,2500789273,Trần Viết Hùng,"Ngọc Canh, Xã Bình Xuyên, Huyện Bình Xuyên, Vĩnh Phúc",0989574287
+ERP_0414,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI LEADAN (MST NỘP THAY NTNN),0319799965,Hà Huy Trường,"37/8B Đường Ấp Đông 1-2, Ấp 78, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",0883495853
+ERP_0415,CÔNG TY TNHH TRAINING UNIPATH,0111705573,Hoàng Thị Thu Hằng,"Thôn 2, Xã Bát Tràng, Huyện Gia Lâm, Hà Nội",0979687457
+ERP_0416,CÔNG TY TNHH ASENA HOTELS � CHI NHÁNH PHÚ QUỐC � TUANA HOTELS � SONAGA BEACH RESORT,1702379895,Nguyễn Thiên Trang,"Khu Tổ Hợp Du Lịch Sonasea Villas And Resort, Tổ 5, Khu Phố, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0978874262
+ERP_0417,CỬA HÀNG ĐIỆN MÁY ĐỨC CƯỜNG,0302295215-001,Phạm Thành Đức,"Kios 4B Hoàng Văn Thụ, Phường Tân Sơn Nhất, Quận Tân Bình, Tp Hồ Chí Minh",0914254423
+ERP_0418,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ DỊCH VỤ HỒNG QUANG TRẦN,2701017767,Dương Hiền Thu,"Thôn Xuân Thành, Xã Lai Thành, Huyện Kim Sơn, Ninh Bình",0935903226
+ERP_0419,CÔNG TY TNHH AN NÔNG AGRI,0319801237,Phạm Thanh Liêm,"263 Đường Liêu Bình Hương, Ấp Tân Thành 2, Xã Củ Chi, Huyện Củ Chi, Tp Hồ Chí Minh",0794476129
+ERP_0420,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ BÁCH BẢO,2701017742,Phạm Thị Thanh Nga,"Thôn Hải Nham, Phường Nam Hoa Lư, Thành Phố Hoa Lư, Ninh Bình",0932156301
+ERP_0421,CÔNG TY TNHH THƯƠNG MẠI XÂY DỰNG ĐIỀN XÁ,5702240957,Nguyễn Văn Vũ,"Thôn Chiến Thắng, Xã Điền Xá, Huyện Tiên Yên, Quảng Ninh",0972963097
+ERP_0422,"PHÒNG TÀI NGUYÊN, NÔNG NGHIỆP VÀ XÂY DỰNG XÃ NINH PHƯỚC",4500688624,Nguyễn Thị Hồng Nhung,"Thôn Phú Quý 1, Xã Ninh Phước, Huyện Ninh Phước, Ninh Thuận",0887489716
+ERP_0423,CÔNG TY TNHH DỊCH VỤ CHĂM SÓC SẮC ĐẸP NHẬT LINH,0319801491,Nguyễn Diệu Thúy,"Tầng 27, Tòa Nhà Trụ Sở Điều Hành Và Trung Tâm Thương Mại Vi, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0887457582
+ERP_0424,CÔNG TY CỔ PHẦN THỦY ĐIỆN AYUN 2,5901264039,Nguyễn Tuấn Anh,"Thôn Groi, Xã Lơ Pang, Huyện Mang Yang, Gia Lai",0881376296
+ERP_0425,CÔNG TY TNHH CUBICSTACK SOLUTIONS (NTNN),0319801036,Nguyễn Trần Phương Duy,"Lầu 5, 546-548 Cách Mạng Tháng Tám, Phường Nhiêu Lộc, Quận 3, Tp Hồ Chí Minh",0792209065
+ERP_0426,CÔNG TY CỔ PHẦN KINH DOANH ĐỊA ỐC NAM DƯƠNG (NỘP THAY),2301433339,Nguyễn Văn Tài,"Đường Nguyễn Cao Kéo Dài, Khu Khả Lễ 2, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0938697698
+ERP_0427,CÔNG TY TNHH NHA KHOA ELITE (NTNN),0319801011,Đỗ Quỳnh Như,"75 Huỳnh Tịnh Của, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0917172979
+ERP_0428,VĂN PHÒNG ĐẠI DIỆN - CÔNG TY CỔ PHẦN TRICONS GROUP,0109130092-001,Nguyễn Đăng Đông,"Số Nhà 22, Ngõ 6, Nguyễn Đức Cảnh, Tổ 9, Khu Phố 3, Phường Bỉm Sơn, Thị Xã Bỉm Sơn, Thanh Hoá",0971980045
+ERP_0429,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TUẤN MINH TH,2803254319,Quách Văn Đức,"Tại Nhà Ông Quách Văn Đức, Thôn Nghĩa Đụng, Xã Hà Long, Huyện Hà Trung, Thanh Hoá",0885817591
+ERP_0430,CÔNG TY CỔ PHẦN BETTER LIVING VIỆT NAM,0319798626,Trần Thị Liên,"Tầng 8, Tòa Nhà Sgr, 167-169 Điện Biên Phủ, Phường Tân Định, Quận 1, Tp Hồ Chí Minh",0939761077
+ERP_0431,CÔNG TY TNHH DỊCH VỤ NGUYỄN QUỐC,0111706129,Nguyễn Văn Chiến,"87 Ngô Quyền, Phường Sơn Tây, Thị Xã Sơn Tây, Hà Nội",0986751368
+ERP_0432,CÔNG TY TNHH SX VÀ TM NAM NGỌC LINH,4601682192,Nguyễn Thị Hương,"Tổ Dân Phố Đồng Quán, Phường Phổ Yên, Thành Phố Phổ Yên, Thái Nguyên",0882904375
+ERP_0433,CÔNG TY TNHH HV HOLDINGS GLOBAL (NTNN),0319801406,Đồng Thanh Sơn,"257 Bình Lợi, Phường Bình Lợi Trung, Quận Bình Thạnh, Tp Hồ Chí Minh",0795197351
+ERP_0434,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN THƯƠNG MẠI ĐẠI THẮNG PHÁT 86,2100721513,Quách Đại Thắng,"125C Quang Trung, Phường Trà Vinh, Thành Phố Trà Vinh, Trà Vinh",0908118279
+ERP_0435,CÔNG TY TNHH EDU FUTURE & PARTNERS (NCCNN),0319801685,Trần Hoàng Minh,"1/6/3A Đinh Bộ Lĩnh, Phường Gia Định, Quận Bình Thạnh, Tp Hồ Chí Minh",0793301028
+ERP_0436,CÔNG TY TNHH DỊCH VỤ TƯ VẤN & ĐÀO TẠO DOANH NGHIỆP FACS (VIỆT NAM) (NTNN),0319801678,Nguyễn Hoàng Tú,"31/3A Nguyễn Văn Lạc, Phường Thạnh Mỹ Tây, Quận Bình Thạnh, Tp Hồ Chí Minh",0881090788
+ERP_0437,CÔNG TY TNHH MTV RIO,1702379863,Nguyễn Tiến Hưng,"Tổ 5, Khu Phố Cửa Lấp Dương Tơ, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0914215378
+ERP_0438,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH OHFUN TERRAZZO VIỆT NAM,0319671595-001,Wang Zhigang,"Tony Homestay, Khu Phố 4 (Hẻm Nhà Tù Phú Quốc), An Thới, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0933113699
+ERP_0439,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI CHẤN KHANG (NTNN),0319801004,Đoàn Thị Thùy Quyên,"74-74B Cao Thắng, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0799173898
+ERP_0440,CÔNG TY TNHH CACAO HEYDAY (NTNN),0319801029,Lê Trường Sơn,"Tầng 3 Tòa Nhà An Phú Plaza, 117-119 Lý Chính Thắng, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0931610553
+ERP_0441,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ DU LỊCH HAY TOUR (NTNN),0319800970,Trần Văn Trường,"434 Nguyễn Đình Chiểu, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0936575628
+ERP_0442,CÔNG TY TNHH LEADVIEW (NTNN),0319800917,Hoàng Bảo Quốc,"518/8 Cách Mạng Tháng Tám, Phường Nhiêu Lộc, Quận 3, Tp Hồ Chí Minh",0936055258
+ERP_0443,CÔNG TY TNHH RONGTONG VIỆT NAM,2301433201,"Pei, Kun","Cl2-18 Thuộc Khu Đô Thị Him Lam Green Park, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0974333641
+ERP_0444,ỦY NHIỆM THU - UBND PHƯỜNG CHIỀNG CƠI,5500693270,Thào Thị Vàng,"Số 55, Đường Hoàng Quốc Việt, Phường Chiềng Cơi, Phường Chiềng Cơi, Thành Phố Sơn La, Sơn La",0912524560
+ERP_0445,CÔNG TY TNHH VINA MUST TECH,2301433272,Nông Thị Nhung,"Lô Số 10, Cn1, Cụm Cndv Làng Nghề Khúc Xuyên, Phường Kinh Bắc, Thành Phố Bắc Ninh, Bắc Ninh",0917778178
+ERP_0446,CÔNG TY TNHH INFINITY SOFTWARE (NTNN),0319800963,Võ Ngọc Hải Châu,"Tầng 3, Tòa Nhà Acm, 96 Cao Thắng, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0914721660
+ERP_0447,CÔNG TY TNHH OSHIMA'S (NTNN),0319800956,Phan Tuấn Khải,"2/37 Cao Thắng, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0973293300
+ERP_0448,CÔNG TY TNHH KINH DOANH TMTH NGHIÊM THƯƠNG,1102193602,Nghiêm Thị Thương,"Thửa Đất Số 18, Tờ Bản Đồ Số 120, Đường 824, Ấp 2, Xã Đức Hòa, Huyện Đức Hoà, Long An",0973769387
+ERP_0449,CÔNG TY TNHH THIẾT KẾ VÀ XÂY DỰNG 945 DESIGN & BUILD,0319797220,Huỳnh Duy Lộc,"108 Trần Đình Xu, Phường Cầu Ông Lãnh, Quận 1, Tp Hồ Chí Minh",0905218511
+ERP_0450,CÔNG TY TNHH TRANOVA,0319798344,Trương Thành Lâm,"69 Tân Hải, Phường Tân Bình, Quận Tân Bình, Tp Hồ Chí Minh",0889804534
+ERP_0451,VĂN PHÒNG ĐẠI DIỆN 2 CÔNG TY TNHH BMS SERVICE,0319461904-002,Đặng Vũ Hùng,"D8-53, Đường Số 2, Khu Đô Thị Tây Bắc, Phường Rạch Giá, Thành Phố Rạch Giá, Kiên Giang",0908424834
+ERP_0452,CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG TÂN AN,1801844462,Đỗ Xuân Viết,"Số 168A1, Đường Nguyễn Tri Phương, Phường Tân An, Quận Ninh Kiều, Cần Thơ",0912358967
+ERP_0453,CÔNG TY TNHH DV HỖ TRỢ ĐĂNG KIỂM VIỆT NAM,0402365748,Võ Hoàng Uyên,"Số 17 Đường Trần Đại Nghĩa, Phường Ngũ Hành Sơn, Quận Ngũ Hành Sơn, Đà Nẵng",0889402647
+ERP_0454,CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI SẢN XUẤT AN KHÁNH PHÁT,3801363681,Bùi Thị Nga,"Số Nhà 150, Thôn Phú Hiệp, Phường Phước Bình, Phường Phước Bình, Bình Phước",0905395524
+ERP_0455,BAN QUẢN LÝ DI TÍCH XÃ BẢO YÊN,5300859257,Đàm Thị Hoài An,"Thôn 3B, Xã Bảo Yên, Huyện Bảo Yên, Lào Cai",0987029647
+ERP_0456,CÔNG TY CỔ PHẦN NHA KHOA THẬT (NTNN),0319800949,Công Ty Cổ Phần Nha Khoa Thật,"254 Điện Biên Phủ, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0794599745
+ERP_0457,CÔNG TY TNHH TRUYỀN THÔNG RANKBRAINO (NTNN),0319800882,Lê Thanh Sang,"520 Cách Mạng Tháng 8, Phường Nhiêu Lộc, Quận 3, Tp Hồ Chí Minh",0912676748
+ERP_0458,CÔNG TY TNHH MỘT THÀNH VIÊN LADOFOODS (NTNN),0319800924,Nguyễn Phú Huy,"221 Điện Biên Phủ, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0884880556
+ERP_0459,CÔNG TY TNHH MỖI NGÀY (NTNN),0319800875,Nguyễn Lê Thảo Anh,"116/3B Trần Quốc Toản, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0935269561
+ERP_0460,CÔNG TY TNHH PPF PRO,0319798619,Nguyễn Thanh Phương,"1130 Huỳnh Tấn Phát, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0906682768
+ERP_0461,CÔNG TY TNHH HOÀNG TRÁC,5400577143,Nguyễn Thị Phượng,"Thôn Đoàn Kết, Xã Toàn Thắng, Huyện Tân Lạc, Hòa Bình",0915221142
+ERP_0462,CHI NHÁNH QUY NHƠN - CÔNG TY LUẬT TRÁCH NHIỆM HỮU HẠN DL PINNACLE,0315460498-003,Hồ Văn Ngọc,"(Tầng 1-2) 101 Bế Văn Đàn, Phường Quy Nhơn Nam, Thành Phố Quy Nhơn, Bình Định",0916239755
+ERP_0463,CÔNG TY TNHH MTV TIÊU DAO CÁC,0319797090,Trần Hoài Nam,"21 Đường 79, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0915906000
+ERP_0464,CÔNG TY TNHH WEHUB,0111703897,Nguyễn Thị Vân Anh,"Số 143 Xã Đàn 2, Phường Đống Đa, Quận Đống Đa, Hà Nội",0978499649
+ERP_0465,CÔNG TY TNHH SCHMOLL ASIA PACIFIC VIỆT NAM (NỘP THAY),2301433177,Kuhn Thomas,"Phòng 232, Tầng 2, Tòa Nhà Hoàng Hà, Đường Lê Thái Tổ, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0791124960
+ERP_0466,CÔNG TY CỔ PHẦN ONAIR (CQ TM�T),0319797809,Nguyễn Chi Lăng,"122/7-9 Đường Đặng Văn Ngữ, Phường Phú Nhuận, Quận Phú Nhuận, Tp Hồ Chí Minh",0885437590
+ERP_0467,CÔNG TY CỔ PHẦN ĐẦU TƯ KINH DOANH TẬP ĐOÀN HA,0202376446,Trần Văn Hạ,"Số 45/591 Đường Thiên Lôi, Phường An Biên, Quận Lê Chân, Hải Phòng",0983993690
+ERP_0468,CÔNG TY TNHH KIM ANH TINH (MST NỘP THAY NTNN),0319797799,Trần Mạnh Sang,"Số 9/6/1/81 Thạnh Xuân 24, Phường Thới An, Quận 12, Tp Hồ Chí Minh",0934134127
+ERP_0469,CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN CÔNG NGHỆ HD,0319798270,Trần Văn Dũng,"191 Đỗ Bí, Phường Phú Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",0979513250
+ERP_0470,CÔNG TY TNHH TM DV VÀ SX HÀ AN,0319797573,Nguyễn Văn Dương,"45/43 Võ Thị Đầy, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",0938484934
+ERP_0471,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN THANH LONG GROUP (NTNN),0319798369,Bùi Duy Nam,"Số 529 Nguyễn Oanh, Phường Gò Vấp, Quận Gò Vấp, Tp Hồ Chí Minh",0983028623
+ERP_0472,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ AMG AUTO,3703529106,Nguyễn Văn Hóa,"Thửa Đất Số 1628, Tờ Bản Đồ 56 (E5.3), Đường N3, Khu Dân Cư, Phường Tân Đông Hiệp, Thành Phố Dĩ An, Bình Dương",0982392387
+ERP_0473,CÔNG TY TNHH BĂNG KEO HỢP PHÁT,3703529297,Huỳnh Tấn Lào,"965 Đường Dt743 Khu Phố Tân Long, Phường Dĩ An, Thành Phố Dĩ An, Bình Dương",0914017804
+ERP_0474,CÔNG TY TNHH THƯƠNG MẠI VÀ ĐẦU TƯ ĐỨC HÙNG,3101163207,Lê Công Đức,"Đường Quang Trung, Phường Đồng Hới, Thành Phố Đồng Hới, Quảng Bình",0887237723
+ERP_0475,CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI DỊCH VỤ ĐẠI HƯNG PHÁT,0319795738,Lâm Hoàng Phúc,"1/35D Ấp Đình, Xã Hóc Môn, Huyện Hóc Môn, Tp Hồ Chí Minh",0903907420
+ERP_0476,CÔNG TY TNHH L&T COMMERCE VIỆT NAM,0111704315,Đỗ Thế Thường,"Số 48, Ngõ 79, Đường Bát Phúc, Kđt Tân Tây Đô, Xã Ô Diên, Huyện Đan Phượng, Hà Nội",0795059514
+ERP_0477,CÔNG TY TNHH MÁY MÓC SAMAN (VIỆT NAM) (NỘP THAY),2301433226,Xiong Guang Cheng,"Khu Đất Mới - Khu Xuân Ổ A, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0885087885
+ERP_0478,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ CÔNG NGHỆ THẾ GIỚI MÁY TÍNH,5801586219,Trần Trung Đức,"537 Trần Phú, Phường B'lao, Thành Phố Bảo Lộc, Lâm Đồng",0936207154
+ERP_0479,CÔNG TY LUẬT TRÁCH NHIỆM HỮU HẠN ACA,0111703784,Tạ Ngọc Duy,"Tầng 6, Số 107 Nguyễn Phong Sắc, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0916538109
+ERP_0480,CÔNG TY TNHH DỊCH VỤ VẬN TẢI DŨNG TUYẾN,2500789185,Trương Văn Dũng,"Thôn Trung Mầu, Xã Bình Tuyền, Huyện Bình Xuyên, Vĩnh Phúc",0936011778
+ERP_0481,CÔNG TY CỔ PHẦN QUẢN LÝ CHUỖI CUNG ỨNG XANH JIT,2500789160,Hoàng Ngọc Oanh,"Lô D18, Khu Công Nghiệp Bá Thiện Ii, Xã Bình Tuyền, Huyện Bình Xuyên, Vĩnh Phúc",0885599236
+ERP_0482,VĂN PHÒNG LUẬT SƯ ĐÌNH PHỔ,3101163197,Nguyễn Đình Phổ,"Thôn Đồng Văn, Xã Đồng Lê, Huyện Tuyên Hoá, Quảng Bình",0901300327
+ERP_0483,CÔNG TY TNHH QUỐC TẾ HACACA,0319798400,Nguyễn Sĩ Triều Châu,"74/19 Vườn Lài, Phường Phú Thọ Hòa, Quận Tân Phú, Tp Hồ Chí Minh",0912291924
+ERP_0484,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ BLUETECH (NỘP THAY NTNN),4101701295,Đinh Thành Tài,"29/35 Đường 1/5, Phường Quy Nhơn, Thành Phố Quy Nhơn, Bình Định",0915493369
+ERP_0485,CÔNG TY TNHH AUSSIE SECURE & CO (NỘP THAY NTNN),4101701305,Nguyễn Ngọc Thanh,"Lô C64, Khu Đô Thị Thương Mại Bắc Sông Hà Thanh (Khu C), Phường Quy Nhơn Đông, Thành Phố Quy Nhơn, Bình Định",0975316620
+ERP_0486,CÔNG TY CỔ PHẦN TC AUTO VIỆT NAM,0111702237,Trịnh Văn Tuấn,"Đường 48, Thôn Yên Vinh, Xã Quang Minh, Huyện Mê Linh, Hà Nội",0935485059
+ERP_0487,CÔNG TY TNHH THƯƠNG MẠI VÀ ĐẦU TƯ NHẬT GIA NGUYÊN,0111703946,Đinh Thành Tài,"Số 78B Ngách 173/68 Hoàng Hoa Thám, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0902467530
+ERP_0488,CÔNG TY LUẬT HỢP DANH ĐẠI AN PHÁT-CHI NHÁNH QUẢNG NINH,0108560007-005,Trần Thị Quỳnh Nga,"Số 85 Lê Thanh Nghị, Phường Cẩm Phả, Thành Phố Cẩm Phả, Quảng Ninh",0931937888
+ERP_0489,CÔNG TY TNHH TMDV DT NGUYỄN KIM ANH,1102193641,Nguyễn Thị Kim Anh,"122 Tỉnh Lộ 9 Ấp Rừng Sến, Xã Đức Lập, Huyện Đức Hoà, Long An",0882267260
+ERP_0490,CÔNG TY LUẬT TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN TRÍ HUỆ VÀ CỘNG SỰ,3200765227,Hoàng Thị Huệ,"Số Nhà 74, Đường Lý Thường Kiệt, Tổ Dân Phố 9, Phường Nam Đông Hà, Thành Phố Đông Hà, Quảng Trị",0884788536
+ERP_0491,HỢP TÁC XÃ THƯƠNG MẠI DỊCH VỤ VÀ XÂY DỰNG GIA PHÚC,4401138002,Nguyễn Thanh Ánh,"Long Châu, Xã Đồng Xuân, Huyện Đồng Xuân, Phú Yên",0973268604
+ERP_0492,CÔNG TY TNHH KOCHI VIỆT NAM (NCCNN),0319798753,Lương Anh Nam,"1004/5A Đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",0984407535
+ERP_0493,CÔNG TY TNHH MTV SAN LẮP THÀNH TRUNG,6300399918,Nguyễn Hồng Vũ,"Thửa Đất Số 2791, Tờ Bản Đồ Số 03, Ấp Thuận Hưng, Xã Châu Thành, Huyện Châu Thành, Hậu Giang",0884395954
+ERP_0494,CÔNG TY TNHH PHÒNG KHÁM QUỐC TẾ HELIO,0319798986,Quách Kim Loan,"305 Đường 3/2, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0914457090
+ERP_0495,"VĂN PHÒNG ĐẠI DIỆN HEBEI NONGSYN TENGGE NANOTECHNOLOGY CO., LTD. TẠI THÀNH PHỐ HỒ CHÍ MINH",0319798601,Tạ Thị Thục,"Số 177/40, Đường Văn Thân, Phường Bình Tiên, Quận 6, Tp Hồ Chí Minh",0887226771
+ERP_0496,CÔNG TY TNHH MTV THƯƠNG MẠI VÀ DỊCH VỤ SHC,0202376534,Đỗ Tiến Cường,"L519 Khu Đô Thị Him Lam Hùng Vương, Phường Hồng Bàng, Quận Hồng Bàng, Hải Phòng",0793503108
+ERP_0497,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ LÂM BẦU XÔ,0111704668,Nguyễn Sơn Lâm,"Thôn Cổ Châu, Xã Phú Xuyên, Huyện Phú Xuyên, Hà Nội",0984354049
+ERP_0498,CÔNG TY TNHH XÂY DỰNG VÀ THƯƠNG MẠI VŨ ÁNH,2803254284,Lê Nguyên Vũ,"Số Nhà 874 Lê Thái Tổ, Xã Triệu Sơn, Huyện Triệu Sơn, Thanh Hoá",0791557821
+ERP_0499,"VĂN PHÒNG ĐẠI DIỆN SHANGHAI BAOSIGHT SOFTWARE CO., LTD TẠI THÀNH PHỐ HÀ NỘI",0111703777,Tong Hui,"Phòng 13, Tầng 11, Tòa Nhà Cv Tower, Số 117 Đường Trần Duy H, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0886590981
+ERP_0500,"CÔNG TY TNHH TRUYỀN THÔNG, THƯƠNG MẠI VÀ DỊCH VỤ SOL ENTERTAINMENT",0319797083,Ngô Hoàng Uyển Vi,"Số 21 Hẻm Vườn Điều, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0979503883
+ERP_0501,CÔNG TY CP THƯƠNG MẠI VÀ DỊCH VỤ NKMEDIA,2500789202,Nguyễn Văn Kiên,"Nhà Ông Lưu Văn Tư, Tdp Đồng Lý, Xã Xuân Lãng, Huyện Bình Xuyên, Vĩnh Phúc",0912742755
+ERP_0502,CÔNG TY TNHH GRGR,3703529272,Phạm Quang Nhật,"Số 26/30, Khu Phố Bình Đường 1, Phường Dĩ An, Thành Phố Dĩ An, Bình Dương",0885563311
+ERP_0503,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỨC KHỎE KHOA HỌC,0202376453,Lê Quỳnh Trang,"Tầng 3, Số 159 Đường Nguyễn Tất Tố, Phường Lê Chân, Quận Lê Chân, Hải Phòng",0911113993
+ERP_0504,CÔNG TY TNHH EBH HOSPITALITY VIETNAM,0402365762,Li Gennadii,"90 - 92 Dương Tự Minh, Phường An Hải, Quận Sơn Trà, Đà Nẵng",0931707637
+ERP_0505,CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN NỘI THẤT PHÚ QUỐC,1702379662,Nguyễn Trường Hận,"Đường Đất Đỏ, Tổ 1, Khu Phố 7 An Thới, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0881776910
+ERP_0506,CÔNG TY TNHH HIỀN HẢI ĐĂNG,3604132861,Lê Thị Bích Hiền,"Tổ 1, Khu Phố Suối Cát, Phường Xuân Lộc, Phường Xuân Lộc, Đồng Nai",0911858120
+ERP_0507,CÔNG TY CỔ PHẦN THỦY ĐIỆN HỎM DƯỚI,5300859151,Trịnh Duy Chủ,"Thôn Hỏm Dưới, Xã Nậm Chày, Huyện Văn Bàn, Lào Cai",0889310027
+ERP_0508,CÔNG TY TNHH MTV TRANG ANH TRẦN,0319797735,Trần Thị Thùy Trang,"C8/1 Đường Nữ Dân Công, Tổ 2, Ấp 3A, Xã Vĩnh Lộc, Huyện Bình Chánh, Tp Hồ Chí Minh",0795829075
+ERP_0509,CÔNG TY TNHH GP INVEST,0111703801,Nguyễn Minh Diến,"Tầng 11, Số 275 Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",0904118669
+ERP_0510,CÔNG TY CỔ PHẦN KINH DOANH Ô TÔ CẨM PHẢ QUẢNG NINH NỘP THUẾ THAY NHÀ CUNG CẤP NƯỚC NGOÀI,5702240805,Nguyễn Thuý Hằng,"Tổ 7, Khu Diêm Thủy, Phường Cẩm Phả, Thành Phố Cẩm Phả, Quảng Ninh",0887125421
+ERP_0511,CÔNG TY TNHH THIẾT BỊ CÔNG NGHỆ PHÒNG TẮM VÀ NHÀ BẾP JLJ,1102193521,Nguyễn Văn Đặng,"Số 87A, Ấp 3A Phước Lợi, Xã Mỹ Yên, Huyện Bến Lức, Long An",0937151580
+ERP_0512,CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VÀ DỊCH VỤ ANH KHANG GROUP,0111703960,Trần Đức Anh,"Số Nhà 15, Ngõ 521/43, Tổ Dân Phố Nhật Tảo, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",0986271297
+ERP_0513,BỘ THAM MƯU QUÂN KHU 9,1801844342,Huỳnh Chiến Công,"Số 45, Đường Cách Mạng Tháng Tám, Phường Bình Thủy, Quận Bình Thuỷ, Cần Thơ",0984824152
+ERP_0514,CÔNG TY TNHH NHA KHOA VIỆT PHÁP QUY NHƠN (NỘP THAY NTNN),4101701312,Maria-Begona Deirdre Fallon Fa,"02A Diên Hồng, Phường Quy Nhơn, Thành Phố Quy Nhơn, Bình Định",0979454048
+ERP_0515,CÔNG TY CỔ PHẦN TÓC ĐẸP LA HAIR,0111704675,Nguyễn Thái,"4B Ngách 52 Ngõ 562 Thụy Khuê, Phường Tây Hồ, Quận Tây Hồ, Hà Nội",0912673426
+ERP_0516,CÔNG TY TNHH HSE HÙNG VƯƠNG,2500789178,Vũ Trọng Nghĩa,"Tầng 2 Căn L9.10 Khu Đô Thị Vci Định Trung, Phường Vĩnh Phúc, Thành Phố Vĩnh Yên, Vĩnh Phúc",0981904443
+ERP_0517,CÔNG TY TNHH NGŨ KIM VỆ DUNG,0319795865,Lê Thị Mỹ Dung,"D6/37A Ấp 13, Xã Bình Lợi, Huyện Bình Chánh, Tp Hồ Chí Minh",0888109213
+ERP_0518,HUỲNH THANH PHƯƠNG,3703529441,Huỳnh Thanh Phương,"880 Nguyễn Thị Minh Khai, Khu Phố Tân Thắng 1, Phường Tân Đông Hiệp, Thành Phố Dĩ An, Bình Dương",0915239807
+ERP_0519,CÔNG TY TNHH MTV HUYỀN TÙNG,5901263966,Lại Văn Tùng,"Làng Amo, Xã Bờ Ngoong, Huyện Chư Sê, Gia Lai",0794517287
+ERP_0520,CÔNG TY TNHH MTV ROVELA PAY,0319798802,Nguyễn Thị Huỳnh Linh,"Tòa Nhà The Waterfront Saigon, Số 1-1A-2, Đường Tôn Đức Thắn, Phường Sài Gòn, Quận 1, Tp Hồ Chí Minh",0882998055
+ERP_0521,CÔNG TY TNHH GIA SƯ ETEACHER,0319798827,Nguyễn Tấn Nghĩa,"Phòng 1505, Tầng 15, Tòa Nhà Vincom Center, 72 Lê Thánh Tôn, Phường Sài Gòn, Quận 1, Tp Hồ Chí Minh",0901275241
+ERP_0522,CÔNG TY CỔ PHẦN DỊCH VỤ QUỐC TẾ DK BROTHERS,0319798834,Trần Quang Vinh,"Số 131 Đường Nguyễn Thái Bình, Phường Bến Thành, Quận 1, Tp Hồ Chí Minh",0794216946
+ERP_0523,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ MONA (NTNN),0319799041,Vũ Thị Nga,"Số 65, Đường Số 3, Khu Cityland Center Hills, Phường Hạnh Thông, Quận Gò Vấp, Tp Hồ Chí Minh",0916231183
+ERP_0524,CÔNG TY CỔ PHẦN HỆ THỐNG BỆNH VIỆN RĂNG HÀM MẶT SÀI GÒN - SYDNEY (NTNN),0319799027,Trương Trọng Quang,"61 Trần Quốc Tuấn, Phường Hạnh Thông, Quận Gò Vấp, Tp Hồ Chí Minh",0932809707
+ERP_0525,CÔNG TY CỔ PHẦN BMFE (MST NỘP THAY NCCNN),0319798979,Huỳnh Thị Thanh Tuyền,"129/8 Đường Trương Thị Như, Ấp 17, Xã Xuân Thới Sơn, Huyện Hóc Môn, Tp Hồ Chí Minh",0883839172
+ERP_0526,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ KATSUMA,1102193754,Võ Thanh Phong,"Ấp 3, Xã Bến Lức, Huyện Bến Lức, Long An",0978476546
+ERP_0527,CÔNG TY TNHH DỊCH VỤ CÔNG NGHỆ VÀ TRUYỀN THÔNG HK,0319796097,Nguyễn Thanh Minh,"40/7A Đường Hoàng Bật Đạt, Phường Tân Sơn, Quận Tân Bình, Tp Hồ Chí Minh",0886193442
+ERP_0528,CÔNG TY TNHH KIM NGUYÊN BIOTECH,0111704530,Nguyễn Mạnh Hải,"Căn Thương Mại Dịch Vụ Rv.06.Dv02 � 0615, Tầng 6 Tòa River D, Xã Đông Anh, Huyện Đông Anh, Hà Nội",0938596012
+ERP_0529,CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI IN QUẢNG CÁO BẰNG HỮU-PHÂN XƯỞNG SẢN XUẤT IN BAO BÌ BẰNG HỮU,0301426916-001,Nguyễn Thị Hoàng Oanh,"67B Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, Tp Hồ Chí Minh",0983264423
+ERP_0530,CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ VUA RUY BĂNG,0111704516,Lê Bá Ngọc Anh,"Thôn Đoài, Xã Vĩnh Thanh, Huyện Đông Anh, Hà Nội",0971495388
+ERP_0531,CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ HIGH VISION (NTNN),0319798778,Trần Văn Dũng,"271/15 Lê Đình Cẩn, Khu Phố 5, Phường Tân Tạo, Quận Bình Tân, Tp Hồ Chí Minh",0884910347
+ERP_0532,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VIỄN THÔNG PQC,1702379655,Hoàng Ngọc Bình,"Tổ 9, Khu Phố Cây Thông Trong Cửa Dương, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0905481426
+ERP_0533,CÔNG TY TNHH TƯ VẤN XÂY DỰNG NGUYỄN ĐĂNG,0319797686,Nguyễn Thạch Duy,"Số 532/1 Khu Y Tế Kỹ Thuật Cao, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",0902409511
+ERP_0534,CÔNG TY TNHH PHÚ THỊNH GREEN,5300859088,Hoàng Văn Nam,"Tổ 6 Xuân Tăng, Phường Cam Đường, Thành Phố Lào Cai, Lào Cai",0939326719
+ERP_0535,CÔNG TY TNHH XÂY DỰNG VÀ THƯƠNG MẠI GIA NIÊN,4300936284,Bùi Thị Ngọc,"Thôn Quang Mỹ, Xã Đông Sơn, Huyện Bình Sơn, Quảng Ngãi",0904919719
+ERP_0536,CÔNG TY CỔ PHẦN BỐN MÙA TOÀN CẦU,0111704682,Nguyễn Anh Tuấn,"Tầng 5,Tòa Nhà 2-4A Vọng Hà, Phường Hồng Hà, Quận Tây Hồ, Hà Nội",0791317494
+ERP_0537,CÔNG TY CỔ PHẦN THƯƠNG MẠI THÀNH CÔNG HD,0801511415,Nguyễn Thị Ngọc Mai,"Số 199 Lê Thanh Nghị, Phường Lê Thanh Nghị, Thành Phố Hải Dương, Hải Dương",0989933951
+ERP_0538,CÔNG TY TNHH NHÔM XANH VIỆT NHẬT,0601334215,Nguyễn Văn Phong,"Số 193 Đường Kênh, Phường Nam Định, Thành Phố Nam Định, Nam Định",0903653975
+ERP_0539,CÔNG TY TNHH THIẾT BỊ MÁY MÓC TRƯỜNG TRẤN AN HUY,2301433145,"Wang, Sheng","Khu 3 Đại Phúc, Phường Võ Cường, Thành Phố Bắc Ninh, Bắc Ninh",0901210101
+ERP_0540,CÔNG TY TNHH TM & DVVT XUÂN HẢI,5400577030,Bùi Văn Đạo,"Thôn Tân Minh, Xã Yên Trị, Huyện Yên Thuỷ, Hòa Bình",0889049803
+ERP_0541,CÔNG TY CỔ PHẦN PHÁT TRIỂN H'FINESS MỸ ĐÌNH 2,0111704629,Nguyễn Hồng Châm,"Liền Kề Tt03-03, Dự Án Hải Đăng City, Đường Nguyễn Cơ Thạch, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0972196989
+ERP_0542,CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI THÀNH NHUNG,3801363642,Bùi Quốc Thành,"Đường Đt757B, Tổ 1, Thôn Bình Tân 5, Phường Phước Bình, Phường Phước Bình, Bình Phước",0985648757
+ERP_0543,ỦY NHIỆM THU - UBND PHƯỜNG CHIỀNG SINH,5500693224,Lò Ngọc Nga,"Số 486, Đường Lê Duẩn, Phường Chiềng Sinh, Tỉnh Sơn La, Phường Chiềng Sinh, Thành Phố Sơn La, Sơn La",0913507429
+ERP_0544,CÔNG TY TNHH DOCTOR FACE (NTNN),0319799034,Trương Nguyễn Hoàng Oanh,"450 Đường 3/2, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0934265848
+ERP_0545,CÔNG TY TNHH KS-MART,6101319001,Trần Thị Kim Sáng,"Số 334A ,Đường Bà Triệu, Phường Kon Tum, Thành Phố Kon Tum, Kon Tum",0988212886
+ERP_0546,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH DVTM VÀ ĐẦU TƯ XÂY DỰNG MINH PHÁT,6300362932-001,Lê Văn Thành,"759 Nguyễn Chí Thanh, Khu Vực 8, Phường Thới An Đông, Quận Bình Thuỷ, Cần Thơ",0883373814
+ERP_0547,CÔNG TY CỔ PHẦN SANDTECHS,0111703625,Nguyễn Ngọc Đoài,"Số 4 Ngách 60 Ngõ 543, Đường Giải Phóng, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",0881203801
+ERP_0548,CÔNG TY TNHH ALTA REALTY,0319795720,Hồ Văn Thiện,"Số Nhà 118 Đường N3D (Dự Án Khu Đô Thị Sài Gòn Bình An), Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0976850117
+ERP_0549,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI SƠN DƯƠNG PLYWOOD,3703529265,Nguyễn Thị Hiền,"89/10 Nguyễn Công Hoan, Khu Phố Đông B, Phường Đông Hòa, Thành Phố Dĩ An, Bình Dương",0916931599
+ERP_0550,CÔNG TY TNHH DECOR TTT,3502597226,Trương Thành Tài,"993/5 Huỳnh Tấn Phát, Khu Phố Lập Thành, Phường Bà Rịa, Thành Phố Bà Rịa, Bà Rịa - Vũng Tàu",0912137619
+ERP_0551,CÔNG TY TNHH TYM MÁY PIN,0319798055,Trương Thanh Tùng,"31 Tôn Thất Thuyết, Phường Xóm Chiếu, Quận 4, Tp Hồ Chí Minh",0882594475
+ERP_0552,CÔNG TY TNHH THƯƠNG MẠI XÂY DỰNG GIÀU PHÁT ĐẠT,0319796957,Thái Văn Dàu,"159C Đề Thám, Phường Cầu Ông Lãnh, Quận 1, Tp Hồ Chí Minh",0791455249
+ERP_0553,CÔNG TY CỔ PHẦN ĐIỆN GIÓ HUY ANH HBT,1301176993,Nguyễn Quốc Hưng,"Số 30_A4, Khu Phố 2, Phường Sơn Đông, Thành Phố Bến Tre, Bến Tre",0888689229
+ERP_0554,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ĐẦU TƯ XÂY DỰNG THIÊN HÀ PT,1301176954,Đinh Văn Hùng,"95C, Khu Phố 1, Phường An Hội, Thành Phố Bến Tre, Bến Tre",0791755117
+ERP_0555,CÔNG TY TNHH TIEN DK,0111704202,Đặng Trúc Thuỷ Tiên,"Tầng 12, Tòa Nhà Vinafor, 127 Lò Đúc, Phường Hai Bà Trưng, Quận Hai Bà Trưng, Hà Nội",0937884878
+ERP_0556,CÔNG TY TNHH THƯƠNG MẠI ĐVQ,0111704273,Đoàn Văn Quang,"Số Nhà 67B, Đường Sau Làng, Thôn Cổ Dương, Xã Phúc Thịnh, Huyện Đông Anh, Hà Nội",0912731283
+ERP_0557,CÔNG TY TNHH CƠ KHÍ CHÍNH XÁC HUY HƯNG,0111704227,Phùng Quốc Huy,"Số Nhà 01, Đường 08, Khu Thượng, Thôn Thanh Thủy, Xã Sóc Sơn, Huyện Sóc Sơn, Hà Nội",0881817217
+ERP_0558,CÔNG TY TNHH XÂY DỰNG VÀ CƠ KHÍ KIẾN ANH,3703528945,Nguyễn Mậu Hoài Nam,"Số 19 Đường N6-5A, Tổ 6, Khu Phố Đồng Sổ, Xã Bàu Bàng, Huyện Bàu Bàng, Bình Dương",0933129525
+ERP_0559,VĂN PHÒNG ĐẠI DIỆN TẠI CẢNG QUỐC TẾ LONG AN � CÔNG TY CỔ PHẦN CÔNG NGHỆ VISAKAI,3703009989-001,Phạm Hồng Phúc,"Số 68, Đường Tỉnh 830, Ấp Vĩnh Hòa, Xã Tân Tập, Huyện Cần Giuộc, Long An",0986248685
+ERP_0560,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI PHƯƠNG OANH,0601334279,Đào Kim Oanh,"64 Vũ Hữu Lợi, Phường Nam Định, Thành Phố Nam Định, Nam Định",0792324298
+ERP_0561,CÔNG TY TNHH KIM THÀNH LÀO CAI,5300859095,Phạm Thị Quế Anh,"Số Nhà 054, Đường Trần Thánh Tông, Tdp 2 Duyên Hải, Phường Lào Cai, Thành Phố Lào Cai, Lào Cai",0883084702
+ERP_0562,HỢP TÁC XÃ NÔNG NGHIỆP THÁI HƯNG,1702379408,Huỳnh Văn Vũ,"Tổ 2, Ấp Thái Hưng, Xã Sơn Kiên, Huyện Hòn Đất, Kiên Giang",0883649552
+ERP_0563,CÔNG TY TNHH SH BẢO NGỌC,4700305815,Nông Thị Hiếu,"Thôn Hoàng Phài, Xã Ngân Sơn, Huyện Ngân Sơn, Bắc Kạn",0975496289
+ERP_0564,CÔNG TY CỔ PHẦN CÔNG NGHỆ J-SERVICE,0319795858,Hồ Đình Danh,"32/21/10 Hà Thị Khiêm, Phường Trung Mỹ Tây, Quận 12, Tp Hồ Chí Minh",0917264706
+ERP_0565,CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI VÀ DU LỊCH BẢO CHÂU,1702379535,Bùi Nguyễn Nguyên Phương,"147 Trần Hưng Đạo, Khu Phố 7, Dương Đông, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0914669397
+ERP_0566,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI KHÔI NGUYÊN KHANG,3604133262,Phan Trọng Thiên,"Số 131, Tổ 61, Khu Phố 3, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0792859183
+ERP_0567,"VĂN PHÒNG ĐẠI DIỆN TBEA HENGYANG TRANSFORMER CO., LTD TẠI THÀNH PHỐ HÀ NỘI",0111703872,Liu Bing,"Tầng 6 Tòa Nhà Diamond Flower, 48 Lê Văn Lương, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0989570731
+ERP_0568,CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI DỊCH VỤ BẢO MINH,0202376206,Lê Văn Thế,"Số Hp10 Lk2 Hoa Phượng Ngõ 122 Đường Hạ Lý, Phường Hồng Bàng, Quận Hồng Bàng, Hải Phòng",0971164061
+ERP_0569,CÔNG TY TNHH MYCO ASSOCIATES,0319791557,Mujahid Daniel Powell,"Số 99 Đường Số 4, Khu Phố 5, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0902804936
+ERP_0570,CÔNG TY TNHH XUÂN LỰC VIỆT NAM,0901258734,Nguyễn Xuân Lực,"Đường Phạm Bạch Hổ, Tổ Dân Phố Phúc Thọ, Phường Thượng Hồng, Thị Xã Mỹ Hào, Hưng Yên",0971208707
+ERP_0571,CHI NHÁNH HÀ NỘI - CÔNG TY CỔ PHẦN QUỐC TẾ VẬN CHUYỂN CÔNG NGHỆ TT 4.0,0109137676-003,Nguyễn Thanh Tâm,"Số Nhà 16, Đường Đào Duy Tùng, Thôn Hùng Sơn, Xã Đông Anh, Huyện Đông Anh, Hà Nội",0973947574
+ERP_0572,CÔNG TY TNHH YB FOODS,0111704280,Thái Ngọc Diệp,"52 Ngách 66 Ngõ Hoà Bình 7, Phố Minh Khai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",0791905777
+ERP_0573,CÔNG TY CỔ PHẦN BA VÌ S.VRAC,0111704266,Vũ Thị Ngân,"Số Nhà 05 Ngách 64 Xóm Chùa, Thôn Mai Trai, Xã Cổ Đô, Huyện Ba Vì, Hà Nội",0977559328
+ERP_0574,CÔNG TY TNHH XUAN VINH CORPORATION - CHI NHÁNH ĐÀ NẴNG,0111246619-001,Nguyễn Thị Thủy,"70 Trần Thủ Độ, Phường Cẩm Lệ, Quận Cẩm Lệ, Đà Nẵng",0887015958
+ERP_0575,CÔNG TY TNHH SAAM GROUP,6101318992,Nguyễn Thị Thanh Loan,"184 Trương Hán Siêu, Phường Đăk Cấm, Thành Phố Kon Tum, Kon Tum",0906237276
+ERP_0576,CÔNG TY TNHH RẠP CHIẾU PHIM - THỂ THAO VÀ GIẢI TRÍ NGÔI SAO HUẾ (NỘP HỘ NHÀ THẦU),3301770456,Nguyễn Sơn,"25 Hai Bà Trưng, Phường Thuận Hóa, Quận Thuận Hóa, Thành Phố Huế",0982322963
+ERP_0577,CÔNG TY CỔ PHẦN CÔNG NGHỆ LED-AVAN QUỐC TẾ,0319794981,Lê Đức Tâm,"1106-1108 Phạm Văn Đồng, Phường Thủ Đức, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0881995727
+ERP_0578,CÔNG TY CỔ PHẦN SẢN XUẤT THƯƠNG MẠI XUẤT NHẬP KHẨU HOA MINH,0319794621,Huỳnh Thị Dung,"5B Hoàng Hữu Nam, Phường Long Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0931193958
+ERP_0579,TRUNG TÂM HỌC TẬP CỘNG ĐỒNG PHƯỜNG PHÚ BÀI,3301770424,Phan Hữu Sơn,"905 Nguyễn Tất Thành, Phường Phú Bài, Thị Xã Hương Thuỷ, Thành Phố Huế",0792151745
+ERP_0580,CÔNG TY TNHH PHÁT TRIỂN SẢN XUẤT AN NHIÊN,0319797968,Lê Thị Hoàng My,"31B Đường Số 30, Ấp Hậu, Xã Củ Chi, Huyện Củ Chi, Tp Hồ Chí Minh",0905784536
+ERP_0581,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI NHÂN TRÍ PHÁT,3703529089,Phạm Phước Nhân,"683Ap Khu Phố Bình Sơn, Phường Thuận An, Thành Phố Thuận An, Bình Dương",0912487640
+ERP_0582,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI THỰC PHẨM BN,0319796058,Nguyễn Thanh Phong,"1016/19,Tầng 2, Khu Phố Sky Garden 2 (Lô R1-2),Đường Nguyễn, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0989238189
+ERP_0583,CÔNG TY TNHH MTV THƯƠNG MẠI VÀ DỊCH VỤ PHƯƠNG LINH,0601334286,Vũ Trọng Bằng,"Thôn Cầu Cổ 2, Xã Ý Yên, Huyện Ý Yên, Nam Định",0933794121
+ERP_0584,CÔNG TY TNHH ÁNH SƯƠNG BEAUTY,0319795992,Huỳnh Thị Ánh Sương,"26/1B, Khu Phố 28, Phường Đông Hưng Thuận, Quận 12, Tp Hồ Chí Minh",0976138682
+ERP_0585,CHI NHÁNH CÔNG TY TRÁCH NHIỆM HỮU HẠN THƯƠNG MẠI KIM ĐIỆP - HÒN ĐẤT,1700175769-024,Lưu Thị Điệp,"0275, Tổ 6, Ấp Chòm Sao, Xã Hòn Đất, Huyện Hòn Đất, Kiên Giang",0981259766
+ERP_0586,CHI NHÁNH CÔNG TY CỔ PHẦN QUẢNG CÁO SỰ KIỆN XUYÊN VIỆT,0318300069-001,Nguyễn Văn Nhân,"91 Đỗ Bí, Phường Phú Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",0903848353
+ERP_0587,CÔNG TY TNHH TẦM NHÌN MỚI Á CHÂU,0319798489,"Wang, Yuhui","Số 17-19 Đường Trần Hưng Đạo, Phường Bến Thành, Quận 1, Tp Hồ Chí Minh",0973484330
+ERP_0588,CÔNG TY TNHH CƠ KHÍ CHÍNH XÁC LẠC HỒNG,0901258727,Đỗ Thị Sen,"Thôn Thái Lạc, Xã Như Quỳnh, Huyện Văn Lâm, Hưng Yên",0795288932
+ERP_0589,CÔNG TY TNHH THỰC PHẨM RA FOOD,1602238724,Nguyễn Trường Rau,"Đường Số 17, Kđt Sao Mai, Tổ 6, Ấp Vĩnh Phúc, Xã Châu Phú, Huyện Châu Phú, An Giang",0981870622
+ERP_0590,CÔNG TY TNHH VAS GLOBAL SERVICES,0319796040,Nguyễn Vũ Trùng Dương,"Số 37, Đường Số 1 (Khu Dân Cư Park Riverside), Khu Phố 3, Phường Long Trường, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0796407353
+ERP_0591,CÔNG TY TNHH BIA 24/7,1402239128,Trần Thái Ngọc,"Số 19, Tổ 16, Ấp Phú Hòa, Xã Phú Hựu, Huyện Châu Thành, Đồng Tháp",0888943979
+ERP_0592,CÔNG TY CỔ PHẦN MILANO TECH STUDIO,0402365515,Nguyễn Văn Trần Hải,"193 Nguyễn Công Hoan, Phường An Khê, Quận Thanh Khê, Đà Nẵng",0901917430
+ERP_0593,CÔNG TY TNHH TMDV NGỌC TRUNG DUNG,3703528737,Lường Văn Hinh,"Số 08, Đường Đh 413, Khu Phố Tân Mỹ 1, Phường Tân Uyên, Thành Phố Tân Uyên, Bình Dương",0983263901
+ERP_0594,BAN QUẢN TRỊ NHÀ CHUNG CƯ A6-A7,3604133336,Nguyễn Thị Lộc,"Chung Cư A6-A7, Dường Nguyễn Ái Quốc, Kp. Bình Thiền, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0796962385
+ERP_0595,CÔNG TY TNHH TC ELECTRONICS VIỆT NAM,0111704298,Lê Chí Cường,"Số Nhà 21 Đường Chợ Mơ, Thôn Mai Trai, Xã Cổ Đô, Huyện Ba Vì, Hà Nội",0799098743
+ERP_0596,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH AVC GROUP TẠI NỘI BÀI,0106755297-006,Phùng Anh Vũ,"Tầng 4, Toà Nhà Skycoffe, Xã Nội Bài, Huyện Sóc Sơn, Hà Nội",0882266611
+ERP_0597,CÔNG TY TNHH DỊCH VỤ VÀ TƯ VẤN TACA,0402365240,Trình Phượng Quyên,"87/15 Dũng Sỹ Thanh Khê, Phường Thanh Khê, Quận Thanh Khê, Đà Nẵng",0889396317
+ERP_0598,CHI NHÁNH CÔNG TY TNHH DV XÔNG HƠI DIỄM TRINH - MASSAGE HỒNG KÔNG,1201706132-001,Phạm Quốc Hiền,"Thửa Đất Số 100, Tờ Bản Đồ Số 22, Đường Tỉnh 883, Ấp 1, Xã Giao Long, Huyện Châu Thành, Bến Tre",0933791320
+ERP_0599,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ TỔNG HỢP SƠN QUANG,0319796964,Phạm Ngọc Xuân Thảo,"180/9 Lạc Long Quân, Phường Bình Thới, Quận 11, Tp Hồ Chí Minh",0887514964
+ERP_0600,CÔNG TY TNHH MTV HÀ GIANG LOOP ADVENTURE,5100521809,Nguyễn Văn Việt,"Tdp 33, Thôn Lúp, Phường Hà Giang 1, Tp Hà Giang, Hà Giang",0911181151
+ERP_0601,CÔNG TY TNHH CÔNG NGHỆ HÀ AN KHANG,0111703939,Đỗ Thu Thủy,"Số 8, Ngõ 211, Ngách 148, Đường Khương Trung, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",0974448636
+ERP_0602,CÔNG TY LUẬT TNHH NMLAW,0319798432,Nguyễn Minh,"Phòng 1, Tầng 2 Tòa Nhà 385B Cộng Hòa, Phường Tân Bình, Quận Tân Bình, Tp Hồ Chí Minh",0976125123
+ERP_0603,BAN CHỈ HUY QUÂN SỰ XÃ NAM CÁT TIÊN,3604133350,Vũ Đình Trường,"Ấp Nam Cát Tiên 1, Xã Định Quán, Xã Định Quán, Đồng Nai",0972409155
+ERP_0604,CÔNG TY TNHH HOMEMARK VIỆT NAM,0402365787,Trần Thị Thảo,"15 Hồ Trung Lượng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",0913829538
+ERP_0605,CÔNG TY TNHH TM & DV ĐIỆN MÁY VŨ ĐẠI,0402365811,Đoàn Quang Vũ,"Đường Số 8, Khu Công Nghiệp Hòa Cầm, Phường Cẩm Lệ, Quận Cẩm Lệ, Đà Nẵng",0936177227
+ERP_0606,CÔNG TY TNHH TƯ VẤN VÀ GIÁO DỤC WISE HÒA XUÂN,0402365804,Lưu Minh Hiển,"36 Nguyễn Phước Lan, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",0883986091
+ERP_0607,CÔNG TY TNHH GK ARTS (NỘP THAY THUẾ NHÀ THẦU),4202072029,Nguyễn Văn Hòa,"111-113 Lê Hồng Phong, Phường Nha Trang, Thành Phố Nha Trang, Khánh Hòa",0913700581
+ERP_0608,CÔNG TY CỔ PHẦN ĐẦU TƯ SẢN XUẤT XUẤT NHẬP KHẨU KIM LONG,1001343227,Nguyễn Minh Hợp,"Lô 141/15, Km3+500, Đường Hùng Vương, Phường Vũ Phúc, Thành Phố Thái Bình, Thái Bình",0989349099
+ERP_0609,CÔNG TY TNHH TÀI ANH HƯNG YÊN,0901258815,Lương Thị Thanh,"Sao Biển 7-199 Khu Đô Thị Sinh Thái Dream City, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0988651807
+ERP_0610,CÔNG TY TNHH SHOPEE,9000591609,Tran Anh Tuan,"Tầng 4-5-6, Tòa Nhà Capital Place, Số 29 Đường Liễu Giai, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0792128183
+ERP_0611,CÔNG TY CỔ PHẦN FOODY,9000591616,Đặng Hoàng Minh,"Lầu G, Tòa Nhà Jabes 1, Số 244 Đường Cống Quỳnh, Phường Bến Thành, Quận 1, Tp Hồ Chí Minh",0906359475
+ERP_0612,CÔNG TY TNHH OPTRIS VIỆT NAM,1102193761,Simon Trung-Hiếu Trần,"Lô L2, Đường Long Hậu - Hiệp Phước, Kcn Long Hậu, Ấp Long Hậ, Xã Cần Giuộc, Huyện Cần Giuộc, Long An",0974957266
+ERP_0613,CÔNG TY TNHH ANHDUC,0111703618,Vũ Quang Dũng,"Số 167 Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",0919239233
+ERP_0614,CÔNG TY TNHH CÔNG TY TNHH TM VÀ XNK HOA BÌNH ANH,2500789146,Nguyễn Văn Bình,"Thôn Giã Bàng, Xã Tề Lỗ, Huyện Yên Lạc, Vĩnh Phúc",0976403018
+ERP_0615,CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI VÀ VẬN TẢI ĐỨC TÍN,0111703720,Ngô Tâm Như,"Số Nhà 49, Ngõ 18, Thôn Chi Quan, Xã Thạch Thất, Huyện Thạch Thất, Hà Nội",0888972048
+ERP_0616,CÔNG TY TNHH PHAN CẨM HÀI,2001416607,Phan Cẩm Hài,"Thửa Đất Số 1368, Tờ Bản Đồ Số 8, Ấp 4, Xã Khánh Bình, Huyện Trần Văn Thời, Cà Mau",0972679785
+ERP_0617,CÔNG TY TNHH PHI BEAUTY SPA (NTNN),0319798464,Nguyễn Thị Yến Phi,"799 Lê Hồng Phong, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0982701715
+ERP_0618,CÔNG TY TNHH XÂY DỰNG GIA BẢO ĐẦM DƠI,2001416614,Hứa Trường Hận,"Đường 30/4, Ấp 4, Xã Đầm Dơi, Huyện Đầm Dơi, Cà Mau",0935151567
+ERP_0619,CÔNG TY TNHH MTV TÚ KHƯƠNG,2001416565,Nguyễn Minh Tú,"Thửa Đất Số 744, Tờ Bản Đồ Số 5, Ấp Rạch Bào, Xã Khánh Bình, Huyện Trần Văn Thời, Cà Mau",0903515978
+ERP_0620,CÔNG TY CỔ PHẦN TẬP ĐOÀN PHƯƠNG NAM VIỆT NAM (NTNN),0319798129,Bùi Xuân Hiền,"54-56 Khu Hưng Gia 2, Đường Phan Khiêm Ích, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0904298218
+ERP_0621,CÔNG TY TNHH CHC NETWORK,0202376414,Trần Bá Cương,"Phòng 302, Tầng 3, Thửa Đất Số 601, Tổ Dân Phố Đông Hưng, Phường Đông Hải, Quận Hải An, Hải Phòng",0917171187
+ERP_0622,TRUNG TÂM GIÁO DỤC NGHỀ NGHIỆP TỔNG HỢP TP.HCM (MST NỘP THAY NTNN),0319799115,Nguyễn Thị Kim Cương,"Số 15 Thạnh Lộc 29, Phường An Phú Đông, Quận 12, Tp Hồ Chí Minh",0987010184
+ERP_0623,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SẢN XUẤT NÔNG LÂM NGHIỆP THÁI VẤN,4101701256,Nguyễn Thái Vấn,"Thôn Hà Đông, Xã Ân Tường, Huyện Hoài Ân, Bình Định",0975814703
+ERP_0624,CÔNG TY TNHH PHÁT TRIỂN GIÁO DỤC QUỐC TẾ MIA,1102193786,Nguyễn Thị Ấm,"Thửa Đất Số 392, Tbđ Số 1-20A, Khu Phố Bình An, Phường Long An, Thành Phố Tân An, Long An",0974536838
+ERP_0625,CÔNG TY TNHH VẬN TẢI THỦY THUẬN PHƯƠNG,2301433113,Vũ Thị Phương,"Thôn Hoàng Kênh, Xã Trung Kênh, Phường Lương Tài, Bắc Ninh",0888789584
+ERP_0626,CÔNG TY CỔ PHẦN EPVINA,0111704058,Trần Thị Kiều,"K23 Tt10 Đường Foresa1, Khu Đô Thị Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",0883801948
+ERP_0627,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ DANABUY,0402365794,Ngô Văn Kiên,"19 Đỗ Thúc Tịnh, Phường Cẩm Lệ, Quận Cẩm Lệ, Đà Nẵng",0938129726
+ERP_0628,CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ OSANNO VIỆT NAM (NTNN),0319798094,Nguyễn Minh Trung,"535/16/14 Thống Nhất, Phường An Hội Đông, Quận Gò Vấp, Tp Hồ Chí Minh",0905245450
+ERP_0629,CÔNG TY TNHH MTV DUNG PHÁT,3703529219,Trần Thị Dung,"Số 62/34 Đường Đt747,Kp Uyên Hưng 7, Phường Tân Uyên, Thành Phố Tân Uyên, Bình Dương",0981329814
+ERP_0630,CÔNG TY TNHH MỘT THÀNH VIÊN PHẠM HỮU SĨ,3301770343,Phạm Hữu Sĩ,"Thôn Thủy Yên Hạ, Xã Chân Mây - Lăng Cô, Huyện Phú Lộc, Thành Phố Huế",0916664423
+ERP_0631,CÔNG TY TNHH TƯ VẤN VÀ XÂY DỰNG TÚ ANH QUỐC,3301770382,Hồ Ngọc Quyền,"Thôn Phổ Lại, Xã Đan Điền, Huyện Quảng Điền, Thành Phố Huế",0982115946
+ERP_0632,CÔNG TY TNHH À LA MAIN D' HUẾ,3301770350,Nguyễn Thị Thùy Trang,"01 Hùng Vương, Phường Thuận Hóa, Quận Thuận Hóa, Thành Phố Huế",0972614957
+ERP_0633,VĂN PHÒNG ĐẠI DIỆN AIRMAN INC. TẠI THÀNH PHỐ HỒ CHÍ MINH,0319798104,Kim Yongbeom,"Tầng 4F, Toà Nhà Cobi Tower Ii, Số 2-4, Đường Số 8, Phường Tân Mỹ, Quận 7, Tp Hồ Chí Minh",0906581734
+ERP_0634,CHI NHÁNH HƯNG YÊN - TTTM VINCOM MEGA MALL OCEAN CITY - CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI DỊCH,0316037655-019,Nguyễn Thu Hồng,"Lô L1-09, Tầng L1, Trung Tâm Thương Mại Vincom Mega Mall Oce, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0912007963
+ERP_0635,CÔNG TY TNHH MINH KA GROUP,0801511327,Phùng Văn Tùng,"Khu 1 - Tổ Dân Phố Thượng Đạt, Phường Thành Đông, Thành Phố Hải Dương, Hải Dương",0907652774
+ERP_0636,CÔNG TY TNHH XÂY DỰNG CA PHAN 68,1702379648,Phan Sơn Ca,"Tổ 17, Ấp Hòa An, Xã Thạnh Lộc, Huyện Châu Thành, Kiên Giang",0883278018
+ERP_0637,CÔNG TY CỔ PHẦN ĐÀO TẠO LÁI XE QUẢNG PHÚ,2803254333,Phạm Văn Hoàng,"128 Đỗ Đại, Phường Đông Quang, Thành Phố Thanh Hoá, Thanh Hoá",0917545870
+ERP_0638,CÔNG TY TNHH DRAGONAUTO OMODA & JAECOO,1001343241,Công Ty Tnhh Dragonauto Omoda,"Thửa Đất Số 5454, Tờ Bản Đồ Số 17, Đường Kỳ Đồng Kéo Dài, Phường Trần Hưng Đạo, Thành Phố Thái Bình, Thái Bình",0903321876
+ERP_0639,PHÒNG KINH TẾ XÃ DIÊN HÀ,1001343259,Nguyễn Thanh Phương,"Thôn Khả, Xã Diên Hà, Huyện Hưng Hà, Thái Bình",0937621858
+ERP_0640,NGÂN HÀNG TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN INDUSTRIAL BANK OF KOREA (VIỆT NAM) - CHI NHÁNH HÀ NỘI,0111435327-002,Oh Jaewook,"Ô Văn Phòng Số O2009-2015, Tòa Nhà Keangnam Landmark 72, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0932626459
+ERP_0641,CÔNG TY TNHH HÀ KIM BEAUTY CLINIC (NCCNN),0319798048,Võ Đăng Khoa,"137 Hoa Lan, Phường Cầu Kiệu, Quận Phú Nhuận, Tp Hồ Chí Minh",0973657507
+ERP_0642,CÔNG TY TNHH SXTM HA PAS NK YD TALENT INTER,3703529025,Nguyễn Hoài Trung,"Số 335/10, Đường Lê Thị Riêng, Khu Phố Tân Phước, Phường Bình Dương, Thành Phố Thủ Dầu Một, Bình Dương",0976937033
+ERP_0643,CÔNG TY TNHH TM TK XÂY DỰNG NHẬT VY,0319796065,Trần Thị Gọn,"480/5 Ấp 34, Đường Trịnh Thị Dối, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",0933486529
+ERP_0644,CÔNG TY TNHH KHÁCH SẠN SUMI,0319795583,Bùi Thị Kim Thoa,"139 Đường Số 8, Phường Thông Tây Hội, Quận Gò Vấp, Tp Hồ Chí Minh",0881652342
+ERP_0645,CÔNG TY CỔ PHẦN GIẢI TRÍ CÔNG NGHỆ AVANT,0319797076,Vũ Đình Vinh,"Số 3-5 Hát Giang, Phường Tân Sơn Hòa, Quận Tân Bình, Tp Hồ Chí Minh",0794842881
+ERP_0646,CÔNG TY TNHH JK NEXUS,0111704107,Khương Như Quỳnh,"Tầng 15, Tòa Ttc Tower, Số 19 Duy Tân, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0903667953
+ERP_0647,CÔNG TY CỔ PHẦN NHÀ PHƯƠNG NAM VIỆT NAM (NTNN),0319798136,Bùi Xuân Hiền,"832 Nguyễn Văn Linh, Khu Dân Cư Happy Valley (R18), Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0987382917
+ERP_0648,CÔNG TY TNHH MTV KIM DMP,0202376439,Phạm Kim Anh,"Tổ 29 (Tại Nhà Ông Trần Văn Hạ), Phường An Biên, Quận Lê Chân, Hải Phòng",0979886332
+ERP_0649,CÔNG TY TNHH THIẾT KẾ & TRANG TRÍ MỀM PMV,0202376421,Phạm Minh Vương,"Đường Bùi Viện, Tổ 20, Phường An Biên, Quận Lê Chân, Hải Phòng",0978010553
+ERP_0650,CÔNG TY TNHH ECOFOOT,3101163172,Nguyễn Thanh Hải,"Tổ Dân Phố Xuân Tiến, Xã Phong Nha, Huyện Bố Trạch, Quảng Bình",0972061646
+ERP_0651,CÔNG TY TNHH MTV VĂN HOÀNG ÂN,1201738695,Văn Hoàng Ân,"Thửa Đất Số 344,Tờ Bản Đồ Số 40, Khu Phố Mỹ Trang, Phường Cai Lậy, Thị Xã Cai Lậy, Tiền Giang",0903148466
+ERP_0652,CÔNG TY TNHH ƯƠM MẦM KHỞI NGHIỆP CÔNG NGHỆ VIỆT SEED LABS,0319797654,Nguyễn Trọng Tín,"49 Trương Phước Phan, Phường Bình Trị Đông, Quận Bình Tân, Tp Hồ Chí Minh",0901425804
+ERP_0653,CÔNG TY TNHH IBERTOE BASKETBALL ACADEMY,0319797502,Elago Felixberto Jr. Tolentino,"51/4, Đường Số 3, Phường An Khánh, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0888929759
+ERP_0654,CÔNG TY TNHH TM HUYỀN SƠN,2902297497,Võ Hồng Sơn,"Xóm Găng, Xã Nghĩa Hưng, Huyện Nghĩa Đàn, Nghệ An",0915179809
+ERP_0655,"CÔNG TY TNHH MỘT THÀNH VIÊN CƠ ĐIỆN, ĐIỆN LẠNH SONG KHANG AK",1402239135,Nguyễn Thanh Nam,"Số 40, Lê Lợi, Ấp Mỹ An 3, Xã Tháp Mười, Huyện Tháp Mười, Đồng Tháp",0906771595
+ERP_0656,CÔNG TY TNHH MTV THƯƠNG MẠI-DỊCH VỤ-CÔNG TRÌNH XÂY DỰNG THIỆN THANH,1501176581,Nguyễn Thanh Thiện,"Số 229, Tổ 15, Ấp Bình Phú, Xã Ngãi Tứ, Huyện Tam Bình, Vĩnh Long",0888183332
+ERP_0657,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH SHORT HILLS VIỆT NAM TẠI HÀ NỘI,0318537734-001,Fang Cheng,"Phòng 5E, Tầng 5, Số 7, Phố Chùa Bộc, Phường Kim Liên, Quận Đống Đa, Hà Nội",0912453984
+ERP_0658,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ HAIFUCO,1801844293,Nguyễn Thanh Hải,"186 Nguyễn Văn Linh, Phường Thới An Đông, Quận Bình Thuỷ, Cần Thơ",0938729740
+ERP_0659,BAN QUẢN TRỊ TÒA NHÀ CHUNG CƯ THE BEVERLY,0319798231,Trần Việt Quang,"88 Phước Thiện, Khu Đô Thị Vinhomes Grand Park, Phường Long Bình, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0914271817
+ERP_0660,CÔNG TY TNHH TMCK VINH AN PHÁT,3604133287,Hà Văn Công,"Tổ 25, Ấp An Chu, Phường Trảng Bom, Phường Trảng Bom, Đồng Nai",0978677251
+ERP_0661,CÔNG TY TNHH MTV HAPAS NK YD ROYAL DYNASTY,2902297465,Đinh Thị Ngọc Tú,"Số 184, Đường Nguyễn Trãi, Phường Vinh Hưng, Thành Phố Vinh, Nghệ An",0989507181
+ERP_0662,CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ NGỌC MỸ,0319797728,Lê Thị Thuỳ Trang,"186 Độc Lập, Phường Phú Thọ Hòa, Quận Tân Phú, Tp Hồ Chí Minh",0976698291
+ERP_0663,CÔNG TY TNHH CÔNG NGHỆ HIỂN THỊ VHD,0319797742,Lương Nguyễn Như Thanh,"Số 191 Đường Đỗ Bí, Phường Phú Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",0794992026
+ERP_0664,CÔNG TY TNHH NTP AGENCY,0700931004,Nguyễn Thanh Tùng,"Xóm 1, Thôn Kim Thượng, Xã Lý Nhân, Huyện Lý Nhân, Hà Nam",0881640285
+ERP_0665,CÔNG TY TNHH NINA HOMES (NTNN),0319798111,Bế Anh Nhi,"08-10 Lê Văn Thiêm, Khu Hưng Phước 1, Lô R10, Phú Mỹ Hưng, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0981566419
+ERP_0666,CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ KINH DOANH BẤT ĐỘNG SẢN CENTRAL (NTNN),0319798288,Đặng Thị Phương Thảo,"500 Lý Thái Tổ, Phường Vườn Lài, Quận 10, Tp Hồ Chí Minh",0911024984
+ERP_0667,CÔNG TY TNHH DỊCH VỤ & THỜI TRANG HƯƠNG VIỆT,0319797478,Nguyễn Ngọc Nhã,"Số 53 Đường 18, Phường Linh Xuân, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0919039880
+ERP_0668,CÔNG TY TNHH MÁY TÍNH NÔNG THẾ HỮU,4700305808,Lý Thị Đơ,"Thôn Thống Nhất, Xã Chợ Rã, Huyện Ba Bể, Bắc Kạn",0981294771
+ERP_0669,CÔNG TY TNHH THƯƠNG MẠI W.STORE (NTNN),0319798425,Lê Hoài Ân,"457/15 Hoà Hảo, Phường Diên Hồng, Quận 10, Tp Hồ Chí Minh",0982938248
+ERP_0670,CÔNG TY TNHH CONNECT AND INSPIRE YOGA,0319798418,Phạm Anh Tùng,"30/22 Phạm Phú Thứ, Phường Bình Tiên, Quận 6, Tp Hồ Chí Minh",0909526756
+ERP_0671,CHI NHÁNH - CÔNG TY TNHH CÔNG NGHỆ SINH HỌC BIOPRO KHÁNH HÒA,4201787225-001,Phan Thị Thanh Trúc,"Hương Lộ 39, Thôn Bình Khánh, Xã Diên Lạc, Huyện Diên Khánh, Khánh Hòa",0792044098
+ERP_0672,CÔNG TY CỔ PHẦN NĂNG LƯỢNG BP GREEN,3801363635,Nguyễn Xuân Nghĩa,"07 Hà Huy Tập, Khu Phố Tân Phú 1, Phường Bình Phước, Phường Bình Phước, Bình Phước",0905382008
+ERP_0673,CÔNG TY TNHH DV PHÒNG KHÁM ĐA KHOA TÊN LỬA,0319797157,Nguyễn Thị Hứa,"464 Đường Số 7, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",0888688178
+ERP_0674,CÔNG TY TNHH THƯƠNG MẠI XÂY DỰNG SAN LẤP SÔNG KIÊN,1402239110,Lâm Phi Công,"959A Đường 30/4, Khu Phố Tân Nhất, Phường Mỹ Ngãi, Thành Phố Cao Lãnh, Đồng Tháp",0793409602
+ERP_0675,CÔNG TY TNHH KTC ĐẠI PHÁT,3604133311,Nguyễn Quốc Khánh,"Số 11, Đường N3, Khu Biệt Thự Nguyễn Văn Hoa, Khu Phố Thống, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0904739627
+ERP_0676,CÔNG TY TNHH THUỶ SẢN HTS,0111704019,Đỗ Xuân Huy,"Số 3 Phố Nguyễn Hoàng, Phường Từ Liêm, Quận Nam Từ Liêm, Hà Nội",0904309022
+ERP_0677,CÔNG TY TNHH PHÒNG KHÁM DA LIỄU AVO MEDICAL,0319798263,Võ Thị Ánh,"23 Đặng Dung, Phường Tân Định, Quận 1, Tp Hồ Chí Minh",0916350281
+ERP_0678,CÔNG TY TNHH CÔNG NGHỆ XANH GIA HƯNG (NỘP HỘ THUẾ),3502597314,Lê Thành Trung,"899/1 Đường 30/4, Phường Phước Thắng, Thành Phố Vũng Tàu, Bà Rịa - Vũng Tàu",0971544478
+ERP_0679,CÔNG TY TNHH XÂY DỰNG ĐẦU TƯ HƯNG THỊNH PHÁT,0319797527,Nguyễn Văn Dư,"Lầu 1 Toà Nhà Lê Huỳnh, Số 23B, Đường Số 3, Phường An Khánh, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0791836372
+ERP_0680,CÔNG TY TNHH ĐẦU TƯ THƯƠNG MẠI VÀ DỊCH VỤ ĐỨC HẢI,0111704241,Nguyễn Văn Viển,"Số 14 Ngõ 87 Đường Tam Trinh, Tổ 28, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",0936667119
+ERP_0681,CÔNG TY TNHH VẬN TẢI LƯU HOA,2902297507,Nguyễn Thị Thanh Hoa,"Nhà Ông Trương Xuân Định, Khối Cổ Bái, Phường Vinh Lộc, Thành Phố Vinh, Nghệ An",0888132679
+ERP_0682,CÔNG TY TNHH SHYNH GROUP HOLDING (NTNN),0319798457,Lê Minh Trí,"326 Đường Ba Tháng Hai, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0931815475
+ERP_0683,CÔNG TY TNHH XD NAM TIẾN MT,2200836853,Trần Văn Ngọc,"364 Nguyễn Văn Linh, Khu Vực Phú Lợi, Phường Phú Lợi, Thành Phố Sóc Trăng, Sóc Trăng",0975558606
+ERP_0684,CÔNG TY CỔ PHẦN CÔNG NGHỆ BẤT ĐỘNG SẢN SOUTHERN TECH (NTNN),0319798143,Bùi Xuân Hiền,"54-56 Khu Hưng Gia 2, Đường Phan Khiêm Ích, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0884321342
+ERP_0685,CÔNG TY CỔ PHẦN QUỐC TẾ BẢO HƯNG,1001343234,Phan Thị Châm,"Cụm Công Nghiệp Tân Minh, Xã Tân Thuận, Huyện Vũ Thư, Thái Bình",0975180343
+ERP_0686,CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ BẢO VỆ THIÊN ƯNG,5901263934,Phạm Văn Hải,"207 Sư Vạn Hạnh, Phường Pleiku, Thành Phố Pleiku, Gia Lai",0939325164
+ERP_0687,CÔNG TY TNHH KITCHEN TECH (NTNN),0319798249,Nguyễn Công Hoan,"133/36/41 Đường Quang Trung, Phường Gò Vấp, Quận Gò Vấp, Tp Hồ Chí Minh",0985781907
+ERP_0688,CÔNG TY TNHH THÙNG GỖ PHẠM QUÂN,0700931011,Phạm Công Quân,"Thôn Đọi Tam, Phường Tiên Sơn, Thị Xã Duy Tiên, Hà Nam",0932335910
+ERP_0689,CÔNG TY CỔ PHẦN LỤA NHA XÁ,0700931029,Nguyễn Văn Quyên,"Số 19 Ngõ 37, Tổ Dân Phố Nha Xá, Phường Duy Tân, Thị Xã Duy Tiên, Hà Nam",0914136049
+ERP_0690,CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ BESTHOME,0111704065,Vũ Viết Huy,"Số 48, Dãy 1C, Ngõ 1 Cầu Bươu, Phường Thanh Liệt, Huyện Thanh Trì, Hà Nội",0938157707
+ERP_0691,CÔNG TY TNHH THƯƠNG MẠI DU LỊCH TÂM ĐỨC ĐỒI 37,1702379503,Trần Thị Hoài,"Tổ 2, Khu Phố 4 An Thới, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0902126769
+ERP_0692,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ AMIRA VIỆT,3703529071,Dương Trà My,"Số 18/6/2 Phạm Ngọc Thạch, Phường Phú Lợi, Thành Phố Thủ Dầu Một, Bình Dương",0795833366
+ERP_0693,CÔNG TY TNHH DRAGONAUTO,1001343202,Nguyễn Trường Thăng,"Đường Kỳ Đồng Kéo Dài, Đoạn Từ Đường Trần Thủ Độ Đến Quốc Lộ, Phường Trần Hưng Đạo, Thành Phố Thái Bình, Thái Bình",0792403048
+ERP_0694,CÔNG TY TNHH EZ WASH,0319797485,Nguyễn Hoàng Minh,"Số 60, Đường Số 37, Kđt An Phú An Khánh, Phường Bình Trưng, Thành Phố Thủ Đức, Tp Hồ Chí Minh",0797678405
+ERP_0695,CÔNG TY CỔ PHẦN TRUYỀN THÔNG SỐ FLAMINGO,0319798496,Phạm Thị Lan Khanh,"P.903, Tầng 9, Tòa Nhà Diamond Plaza, 34 Lê Duẩn, Phường Sài Gòn, Quận 1, Tp Hồ Chí Minh",0972152781
+ERP_0696,CÔNG TY TNHH MTV THƯ KHÔI,0111703600,Bùi Văn Trung,"Số 44, Lô 13, Khu Đền Lừ 1, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",0907654405
+ERP_0697,CÔNG TY CỔ PHẦN HITEX ĐÔNG DƯƠNG,2701017703,Dương Thị Hương,"Số 02 Ngõ 690, Đường Ngô Gia Tự, Phố Đoàn Kết, Phường Nam Hoa Lư, Thành Phố Hoa Lư, Ninh Bình",0911232960
+ERP_0698,CÔNG TY TNHH BUFFET SEN SEAFOOD,5702240516,Lê Tiến Đạt,"Số 20, Đường Phan Chu Trinh, Tổ 9, Khu Phố Bãi Cháy 2, Phường Bãi Cháy, Thành Phố Hạ Long, Quảng Ninh",0887561624
+ERP_0699,CÔNG TY TRÁCH NHIỆM HỮU HẠN KIM HẢI GIA LAI,5901263902,Hoàng Mạnh Cường,"161 Đường Tôn Thất Thuyết, Phường Thống Nhất, Thành Phố Pleiku, Gia Lai",0988290177
+ERP_0700,CÔNG TY TNHH DU LỊCH VÀ DỊCH VỤ HƯNG LAI,5702240876,Lê Thị Lai,"Tổ 57, Khu Phố Hà Khẩu 6, Phường Việt Hưng, Thành Phố Hạ Long, Quảng Ninh",0933454777
+ERP_0701,CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN MINH DƯ PHÁT,3901397959,Đỗ Thị Lệ Tuyết,"Số 25, Tổ 5, Ấp Cây Da, Xã Phước Thạnh, Huyện Gò Dầu, Tây Ninh",0985224135
+ERP_0702,CÔNG TY TNHH THƯƠNG MẠI NGÂN HÀ QN,5702240890,Trần Linh Trang,"Số Nhà 63, Tổ 1, Khu Phố 16, Phường Quang Hanh, Thành Phố Cẩm Phả, Quảng Ninh",0937510434
+ERP_0703,CÔNG TY TRÁCH NHIỆM HỮU HẠN MÁI NHÀ PHỐ NÚI,5901263959,Nguyễn Quang Bắc,"Hẻm 274 Lê Duẩn, Làng Ngó, Phường Hội Phú, Thành Phố Pleiku, Gia Lai",0986875771
+ERP_0704,CÔNG TY TNHH THƯƠNG MẠI VÀ XÂY DỰNG TH NGHỆ AN,2902297472,Nguyễn Đình Tuệ,"Lô Số 03, Nhà Vườn Sinh Thái, Đường Xô Viết Nghệ Tĩnh, Phường Vinh Phú, Thành Phố Vinh, Nghệ An",0796324147
+ERP_0705,CÔNG TY TNHH TƯ VẤN VÀ ĐÀO TẠO STARTTRAIN (NTNN),0319798390,Bùi Trường Sơn,"Lầu 7, Số 618 Đường 3-2, Phường Diên Hồng, Quận 10, Tp Hồ Chí Minh",0979985684
+ERP_0706,CÔNG TY CỔ PHẦN NPOIL (MST NỘP THAY NTNN),0319797781,Phan Thanh Thảo,"Số 14 Đường Dd12, Phường Đông Hưng Thuận, Quận 12, Tp Hồ Chí Minh",0884004150
+ERP_0707,CÔNG TY CỔ PHẦN KIẾN TRÚC NỘI THẤT VÀ XÂY DỰNG VIỆT TRUNG 36,2803254326,Nguyễn Xuân Long,"79 Lý Nam Đế, Phường Hạc Thành, Thành Phố Thanh Hoá, Thanh Hoá",0976165864
+ERP_0708,CÔNG TY CỔ PHẦN ĐẦU TƯ PHÁT TRIỂN DOK VIỆT NAM,0111704121,Đỗ Thu Quỳnh,"Số 229, Nguyễn Ngọc Vũ, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",0987185884
+ERP_0709,CÔNG TY TNHH LANVU GALLERY,0111704114,Vũ Thành Lân,"Số 56 Nguyễn Phong Sắc, Phường Cầu Giấy, Quận Cầu Giấy, Hà Nội",0905200357
+ERP_0710,CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ PHẠM NGUYỄN DECOR (NTNN),0319798256,Nguyễn Thị Hồng Nhung,"269/17 Phan Huy Ích, Phường An Hội Tây, Quận Gò Vấp, Tp Hồ Chí Minh",0889858647
+ERP_0711,CÔNG TY TNHH MTV ĐẦU TƯ NĂNG LƯỢNG MỚI HỪNG ĐÔNG,2001416572,Nguyễn Thị Quỳnh,"Số Thửa Đất 375, Tờ Bản Đồ Số 46, Khóm 8, Phường Lý Văn Lâm, Thành Phố Cà Mau, Cà Mau",0986886347
+ERP_0712,CÔNG TY CỔ PHẦN NHÀ HÀNG LAMAR,1702379493,Trần Thị Phương Thảo,"320 Nguyễn Văn Cừ, Kp 8, An Thới, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0989628025
+ERP_0713,CÔNG TY TNHH XÂY DỰNG XINGYUE,2301433138,"Zhu, Xiaobo","Văn Phòng 51, Tầng 4, Số 390 Đường Trần Phú, Phường Từ Sơn, Thành Phố Từ Sơn, Bắc Ninh",0978402260
+ERP_0714,CÔNG TY CỔ PHẦN S - HOUSE (NỘP THAY THUẾ NHÀ THẦU),4202072011,Nguyễn Văn Sang,"62A-62B Phan Chu Trinh, Phường Nha Trang, Thành Phố Nha Trang, Khánh Hòa",0919132089
+ERP_0715,CÔNG TY TNHH MTV KHÁU VÀI LÈNG,2601166444,Nguyễn Hồng Cương,"Thôn Tân Minh, Xã Đoan Hùng, Huyện Đoan Hùng, Phú Thọ",0791588108
+ERP_0716,CÔNG TY TNHH GIẢI PHÁP VẬT LIỆU GIA NGHĨA,2500789192,Nguyễn Nghĩa Trường,"Toà Nhà St Vina, Thôn Nông Trường, Xã Bình Xuyên, Huyện Bình Xuyên, Vĩnh Phúc",0988880168
+ERP_0717,CÔNG TY CỔ PHẦN KAFA CONS,2500789234,Vũ Quốc Khánh,"Số 65 Thôn Mai Nham, Xã Hội Thịnh, Huyện Tam Dương, Vĩnh Phúc",0792973664
+ERP_0718,CÔNG TY TNHH THƯƠNG MẠI ST HƯNG YÊN,0901258808,Trần Công Biên,"Thôn Nhị Mễ, Xã Việt Yên, Huyện Yên Mỹ, Hưng Yên",0913961797
+ERP_0719,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ HOA SỨ PHÚ QUỐC,1702379581,Lê Xuân Hùng,"Mp 176 Marina Square Bãi Trường, Tổ 6, Khu Phố Đường Bào Dươ, Đặc Khu Phú Quốc, Thành Phố Phú Quốc, Kiên Giang",0903073655
+ERP_0720,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XUẤT NHẬP KHẨU HUỲNH TRỌNG,1702379630,Huỳnh Công Định,"Tổ 7, Khu Phố 2, Phường Tô Châu, Thành Phố Hà Tiên, Kiên Giang",0982413190
+ERP_0721,CÔNG TY TNHH TIẾNG TRUNG HƯƠNG NGÀN,0801511239,Đặng Thị Hương Ngàn,"Số 186 Hàm Nghi, Phường Tân Hưng, Thành Phố Hải Dương, Hải Dương",0973521362
+ERP_0722,CÔNG TY TNHH THIẾT BỊ VÀ DUNG DỊCH CHĂM SÓC XE HẠNH NGUYỄN,3604133424,Nguyễn Thu Hằng,"Số 04, Khu 1, Ấp Hưng Nghĩa, Phường Trảng Bom, Phường Trảng Bom, Đồng Nai",0902403368
+ERP_0723,CÔNG TY TNHH XÂY DỰNG PHÁT BÌNH AN,3401296102,Lê Xuân Bình,"Số Nhà 439, Thôn Vĩnh Tiến, Xã Vĩnh Hảo, Huyện Tuy Phong, Bình Thuận",0903780624
+ERP_0724,BAN CHỈ HUY QUÂN SỰ XÃ LA DẠ,3401296085,Nguyễn Đinh Hồng Thủy,"Thôn La Ngà, Xã La Dạ, Huyện Hàm Thuận Bắc, Bình Thuận",0989190393
+ERP_0725,CHI NHÁNH CÔNG TY TNHH CHẾ BIẾN THỰC PHẨM VÀ GIA VỊ TITOM TẠI TÂY NINH,0317210341-002,Nguyễn Ngọc Nghĩa,"Tổ 12B, Ấp Ngoài, Đường Dt835B, Xã Phước Lý, Huyện Cần Giuộc, Long An",0984363549
+ERP_0726,CÔNG TY TNHH VỆ SINH MÔI TRƯỜNG SỐ 1 MIỀN BẮC,2601166395,Nguyễn Văn Hà,"Xóm Quang Trung, Khu 2, Xã Phú Khê, Huyện Cẩm Khê, Phú Thọ",0932374444
+ERP_0727,CÔNG TY CỔ PHẦN THỰC PHẨM HỶ PHÚC KHANG,2601166412,Nguyễn Thị Tâm,"Thôn Phú Lương, Xã Tiên Lương, Huyện Cẩm Khê, Phú Thọ",0985634333
+ERP_0728,BAN QUẢN TRỊ CHÙA PHÁP HOA,3703529353,Nguyễn Xuân Thanh Thảo Giang,"Khu Phố Gò Mối, Phường Tây Nam, Thành Phố Bến Cát, Bình Dương",0918326522
+ERP_0729,CÔNG TY CỔ PHẦN LOGIX SOLUTIONS,0319797541,Ngô Hữu Tín,"113 Đường Số 8, Khu Dân Cư Cityland Park Hills, Phường Gò Vấp, Quận Gò Vấp, Tp Hồ Chí Minh",0881422331
+ERP_0730,CÔNG TY CỔ PHẦN EMBASSY ENGLISH (NỘP THAY THUẾ NHÀ THẦU),4202072004,Nguyễn Văn Hoàng,"29B Trịnh Phong, Phường Nha Trang, Thành Phố Nha Trang, Khánh Hòa",0934689666
+ERP_0731,CÔNG TY TNHH JIN MEDIA (NTNN),0319798030,Hoàng Hữu Phước,"Số 70 Phạm Ngọc Thạch, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0987151042
+ERP_0732,CÔNG TY TNHH TRUYỀN THÔNG VÀ CÔNG NGHỆ WATER MEDIA GROUP,4601682114,Vũ Văn Trường,"Ngõ 365 Đường Quang Trung, Tổ 9, Phường Quyết Thắng, Thành Phố Thái Nguyên, Thái Nguyên",0791333651
+ERP_0733,VĂN PHÒNG ĐẠI DIỆN - CÔNG TY TNHH CHỐNG THẤM BẢO KHANG,0318078304-001,Trần Đặng Tuấn Anh,"02 Đường D1, Khu Phố Tây A, Phường Đông Hòa, Thành Phố Dĩ An, Bình Dương",0903562706
+ERP_0734,CHI NHÁNH CÔNG TY CỔ PHẦN ĐẦU TƯ BẤT ĐỘNG SẢN THIÊN HÀ GROUP,0318464412-003,Võ Minh Tiến,"19 Ngõ 4, Văn La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",0918816852
+ERP_0735,CÔNG TY TNHH TM VÀ VẬN TẢI HTA TRANSPORT,0111703248,Nguyễn Tuấn Anh,"Lk334 Dv7 Hàng Bè Mậu Lương, Tổ 19, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",0888393583
+ERP_0736,CÔNG TY TNHH TƯ VẤN GIÁO DỤC TAGE,0111703833,Đoàn Thị Kim Loan,"B � Tt7 � 2 Khu Đô Thị Him Lam, Phường Hà Đông, Quận Hà Đông, Hà Nội",0934727353
+ERP_0737,CÔNG TY TNHH CÔNG NGHỆ AKN,2301433071,Trần Bá Khiêm,"Tổ Dân Phố Yên Giả, Phường Chi Lăng, Phường Phù Lãng, Bắc Ninh",0971475366
+ERP_0738,CÔNG TY TNHH MẬU DỊCH LONG TÍN,2401096870,Nguyễn Thị Hồng,"Khu Đất Ở Và Kinh Doanh Dịch Vụ Tổ Dân Phố Hùng Lãm, Phường Việt Yên, Thị Xã Việt Yên, Bắc Giang",0908293250
+ERP_0739,CÔNG TY TNHH QUỐC TẾ JINGHAOTONG VIỆT NAM,2301433152,"Chen, Yuanqun","Phòng 210, Tầng 2, Khu Thương Mại Dịch Vụ, Thửa Đất Số 99, T, Phường Phương Liễu, Phường Phù Lãng, Bắc Ninh",0903431553
+ERP_0740,CÔNG TY TNHH XUẤT NHẬP KHẨU HANVU,2301433120,Vũ Thị Ngọc Ánh,"Thôn Hoài Trung, Xã Liên Bão, Phường Tiên Du, Bắc Ninh",0985227295
+ERP_0741,CÔNG TY TNHH GIẢI PHÁP THIẾT BỊ ETEK,3604133216,Lê Hồng Nhàng,"Số Nhà 230 � 231, Đường Võ Chí Công, Tổ 2, Khu Phố Long Đức, Phường Trấn Biên, Phường Trấn Biên, Đồng Nai",0883032009
+ERP_0742,TỔ HỢP TÁC TỔ HỢP TÁC SẢN XUẤT NÔNG NGHIỆP CHẾ BIẾN THÔN KIM BẢNG,2401096888,Châu Thị Chinh,"Thôn Kim Bảng, Xã An Lạc, Huyện Sơn Động, Bắc Giang",0919842900
+ERP_0743,CÔNG TY TNHH LK HỒNG VẬN,0801511454,Nguyễn Thanh Tùng,"Số 5/38 Tuệ Tĩnh, Phường Thành Đông, Thành Phố Hải Dương, Hải Dương",0977986664
+ERP_0744,CÔNG TY TNHH XÂY DỰNG VÀ CÔNG NGHỆ CHANH NGUYỄN,0801511422,Triệu Thị Thùy,"Số 2/144 Đường Đồng Niên, Phường Việt Hòa, Thành Phố Hải Dương, Hải Dương",0799779178
+ERP_0745,CÔNG TY TNHH MÔI TRƯỜNG XANH NGỌC SƠN HD,0801511447,Bùi Thị Miện,"Số 5/18/167 Bình Lộc, Khu 10, Phường Lê Thanh Nghị, Thành Phố Hải Dương, Hải Dương",0886037987
+ERP_0746,CÔNG TY CỔ PHẦN ĐÀO TẠO VINMENT VIỆT NAM,0700930956,Phạm Văn Bản,"Tdp Mễ Nội, Phường Phủ Lý, Thành Phố Phủ Lý, Hà Nam",0794447357
+ERP_0747,CÔNG TY TRÁCH NHIỆM HỮU HẠN NAM NGỌC PHÁT 68,1702379623,Lê Thị Bích Yến,"Số 473, Ấp Số 8, Xã Sơn Kiên, Huyện Hòn Đất, Kiên Giang",0797445001
+ERP_0748,CÔNG TY TNHH TRÍ TUỆ LIMS,2601166356,Ngô Anh Tuấn,"Số Nhà 15, Ngõ 409 Đường Châu Phong, Phường Việt Trì, Thành Phố Việt Trì, Phú Thọ",0914490628
+ERP_0749,CÔNG TY TNHH THƯƠNG MẠI VÀ VẬN TẢI AN DƯƠNG GROUP,2601166437,Nguyễn Huy Hồng,"Thôn Núi Thắm, Xã Đông Thành, Huyện Thanh Ba, Phú Thọ",0986168791
+ERP_0750,CÔNG TY TNHH VẬN TẢI PHƯƠNG HẰNG 88,2500789227,Phan Văn Hợp,"Thôn Bình Dương, Xã Vĩnh Tường, Huyện Vĩnh Tường, Vĩnh Phúc",0886236463
+ERP_0751,CÔNG TY LUẬT TNHH HẠNH QUYÊN,2601166490,Nguyễn Xuân Hồng Hạnh,"Số 766 Châu Phong, Phường Việt Trì, Thành Phố Việt Trì, Phú Thọ",0938029949
+ERP_0752,CÔNG TY TNHH THƯƠNG MẠI HB FOOD VIỆT NAM,2601166405,Đỗ Văn Hoàng,"Thôn 5 Yên Kiện, Xã Chân Mộng, Huyện Đoan Hùng, Phú Thọ",0911877925
+ERP_0753,CÔNG TY CỔ PHẦN GIẢI PHÁP VẬT LIỆU HOME DECOR,2500789259,Nguyễn Ánh Dương,"Toà Nhà St Vina, Thôn Nông Trường, Xã Bình Xuyên, Huyện Bình Xuyên, Vĩnh Phúc",0982762505
+ERP_0754,CÔNG TY TNHH T&TSOFTWARE,2200836902,Cao Triều Quyền,"1131 Trần Hưng Đạo, Phường Mỹ Xuyên, Huyện Mỹ Xuyên, Sóc Trăng",0796906494
+ERP_0755,CÔNG TY TNHH MỘT THÀNH VIÊN VĂN TÍNH,0901258759,Nguyễn Văn Tính,"Đường Sao Biển 12, Căn Sb12-68, Khu Đô Thị Vinhomes Ocean Pa, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0885585103
+ERP_0756,CÔNG TY CỔ PHẦN CÔNG NGHỆ ECOOIL VIỆT NAM,0901258780,Nguyễn Văn Tiến,"Vịnh Thiên Đường 2, Số Nhà 89, Khu Đô Thị Vinhomes Ocean Par, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",0987134166
+ERP_0757,BAN QUẢN TRỊ NHÀ CHUNG CƯ TOPAZ ELITE - DRAGON,0319799475,Lâm Võ Thành Quân,"Block D2A Chung Cư Topaz Elite Số 547-579 Tạ Quang Bửu, Phường Chánh Hưng, Quận 8, Tp Hồ Chí Minh",0887711570
+ERP_0758,CÔNG TY TNHH VẬN TẢI TRUNG KIÊN HP 88,0801511285,Đoàn Văn Cường,"Số 123 Nguyễn Biểu, Tổ Dân Phố Số 11, Phường Hải Dương, Thành Phố Hải Dương, Hải Dương",0972418113
+ERP_0759,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI BẮC ÂU TẠI HẢI PHÒNG,5702049485-003,Phan Thị Ngọc Anh,"Số 17 C59, Đường Đốc Tít, Phường Hồng Bàng, Quận Hồng Bàng, Hải Phòng",0793632666
+ERP_0760,CÔNG TY TNHH XÂY LẮP CÁT TIÊN,2803254245,Hoàng Trọng Bình,"Nhà Ông Hoàng Trọng Bình, Thôn Trúc Hậu, Xã Lưu Vệ, Huyện Quảng Xương, Thanh Hoá",0986186341
+ERP_0761,CÔNG TY CỔ PHẦN THƯƠNG MẠI VẬN TẢI DUY NHẤT,0601334134,Đỗ Kim Bắc,"Thôn Bùi Chu, Xã Xuân Trường, Huyện Xuân Trường, Nam Định",0937203447
+ERP_0762,CÔNG TY TNHH KND GLOBAL (NTNN),0319799002,Hwang Dongwon,"Tầng 6, 6-03A Vạn Hạnh Mall, Số 11 Sư Vạn Hạnh, Phường Hòa Hưng, Quận 10, Tp Hồ Chí Minh",0971973461
+ERP_0763,CÔNG TY TNHH COPPER DENIM (NTNN),0319798016,Yang Chih Yung,"351/20A Lê Văn Sỹ, Phường Nhiêu Lộc, Quận 3, Tp Hồ Chí Minh",0902038212
+ERP_0764,CÔNG TY CỔ PHẦN TPH GLOBAL (NTNN),0319797982,Lê Thế Hào,"116/3B Trần Quốc Toản, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0939600234
+ERP_0765,CÔNG TY TNHH BC AS ONE SERVICES (NTNN),0319797975,Đặng Thị Ngọc Hạnh,"24 Đường Nguyễn Hiền, Phường Bàn Cờ, Quận 3, Tp Hồ Chí Minh",0918113302
+ERP_0766,CÔNG TY TNHH MCS BASE VN (NTNN),0319798023,Kim Min Cheol,"Tầng 3, Tòa Nhà An Phú Plaza, 117-119 Lý Chính Thắng, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0798511282
+ERP_0767,CÔNG TY CỔ PHẦN HAUS OF ASIA (NTNN),0319798009,Phạm Duy Liêm,"278A Nguyễn Đình Chiểu, Phường Xuân Hòa, Quận 3, Tp Hồ Chí Minh",0883948303
+ERP_0768,CHI NHÁNH ĐỒNG NAI - CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ TRUYỀN THÔNG DU LỊCH MẶT TRỜI HÀ NỘI,0107128299-004,Nguyễn Văn Dũng,"Tổ 4, Khu Phố Bình Sơn 2, Phường Long Thành, Phường Long Thành, Đồng Nai",0915032819
+ERP_0769,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ NGUYỄN HÀ HÀ,0319798182,Nguyễn Thị Hà,"Số 167 Đường Tân Sơn Nhì, Khu Phố 43, Phường Tân Sơn Nhì, Quận Tân Phú, Tp Hồ Chí Minh",0798720845
+ERP_0770,CÔNG TY TNHH MTV NGHI SƠN LOGISTICS,2803254277,Nguyễn Trọng Tuấn,"Tổ Dân Phố 15, Phường Tân Dân, Thị Xã Nghi Sơn, Thanh Hoá",0909713245
+ERP_0771,CÔNG TY TNHH MỘT THÀNH VIÊN THỰC PHẨM PHÚ MINH KHANG,3703529314,Nguyễn Ngọc Luân,"Số 103, Đường Bùi Văn Bình, Khu Phố 8, Phường Phú Lợi, Thành Phố Thủ Dầu Một, Bình Dương",0933499973
+ERP_0772,VĂN PHÒNG ĐẠI DIỆN CÔNG TY TNHH NEVINA GLOBAL,2301412427-001,Choi Hyeongseob,"Nhà R1.7, Khu Đô Thị Eden Rose, Ngõ 908 Kim Giang, Phường Thanh Liệt, Huyện Thanh Trì, Hà Nội",0981993105
+ERP_0773,VĂN PHÒNG ĐẠI DIỆN TẠI HÀ NỘI - CÔNG TY TNHH LOGISTICS HMT VIỆT NAM,0111299089-001,Bùi Thị Thanh Thùy,"Số Nhà 40, Ngách 1, Ngõ 140, Đường Nguyễn Xiển, Phường Thanh Liệt, Huyện Thanh Trì, Hà Nội",0981419004
+ERP_0774,CÔNG TY TNHH TƯ VẤN VÀ PHÁT TRIỂN GIÁO DỤC GENIUS,0111703632,Nguyễn Trường Giang,"Số Nhà 23 Nhân Hòa, Xã Đại Thanh, Huyện Thanh Trì, Hà Nội",0939646344
+ERP_0775,CÔNG TY TNHH TMDV KD MAI HẠ,1102193673,Mai Khả Hạ,"Thửa Đất Số 4109, Tờ Bản Đồ Số 3, Ấp 4 Nhựt Chánh, Xã Bình Đức, Huyện Bến Lức, Long An",0973200483
+ERP_0776,CÔNG TY CỔ PHẦN SẢN XUẤT GẠCH NGÓI CAO CẤP HÒA BÌNH,5400577087,Nguyễn Thị Ngọc Hà,"Thôn Lạc Hưng, Xã Lạc Lương, Huyện Yên Thuỷ, Hòa Bình",0799940922
+ERP_0777,CÔNG TY TNHH LỢI LỘC TÂY NINH,1102193680,Nguyễn Thị Ngọc Nhung,"Thửa Đất 2147, Tờ Bản Đồ 42, Xã Đức Huệ, Huyện Đức Huệ, Long An",0905077595
+ERP_0778,CÔNG TY TNHH ĐẦU TƯ VÀ PHÁT TRIỂN NĂNG LƯỢNG TUẤN NGUYỄN,0402365829,Huỳnh Ngọc Diễm,"K151/100/08 Âu Cơ, Phường Liên Chiểu, Quận Liên Chiểu, Đà Nẵng",0983176686
+ERP_0779,CÔNG TY CỔ PHẦN BỆNH VIỆN ĐỨC PHÚC,0111703858,Vũ Việt Dũng,"Số 324, Đường Lê Duẩn, Phường Văn Miếu - Quốc Tử Giám, Quận Đống Đa, Hà Nội",0884869214
+ERP_0780,CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ DAILY TRAVEL,4401138034,Nguyễn Văn Trịnh,"Khu Phố 1, Phường Đông Hòa, Thị Xã Đông Hoà, Phú Yên",0906971595
+ERP_0781,CÔNG TY TNHH SX&XNK TN,0111704308,Phạm Văn Tùng,"Thôn Hà Hương, Xã Thư Lâm, Huyện Đông Anh, Hà Nội",0986767715
+ERP_0782,CÔNG TY TNHH DU LỊCH VÀ SỰ KIỆN SAVIA,0319797534,Đào Nguyễn Thanh Trúc,"90/36 Đường Dương Cát Lợi, Xã Nhà Bè, Huyện Nhà Bè, Tp Hồ Chí Minh",0936953325
+ERP_0783,TỔ HỢP TÁC CHĂN NUÔI MẠNH HÀ,3200765153,Nguyễn Mạnh Hà,"Thôn Vĩnh Thạch, Xã Cửa Tùng, Huyện Vĩnh Linh, Quảng Trị",0906980419
+ERP_0784,CÔNG TY TNHH BSE INTERNATIONAL,0111704040,Trần Mạnh Đạt,"Số 60, Ngõ Trung Tiền, Phường Văn Miếu - Quốc Tử Giám, Quận Đống Đa, Hà Nội",0974435452
+ERP_0785,CÔNG TY TNHH BALAVA (NTNN),5801586233,Nguyễn Công Chính,"Thửa Đất Số 35, Tbđ 28, Đường Bi Đoup, Phường Lang Biang - Đà Lạt, Thành Phố Đà Lạt, Lâm Đồng",0979233605
+ERP_0786,CÔNG TY TNHH XÂY DỰNG HÓA NÔNG HOÀNG MAI,0319796072,Biện Công Chánh,"78A Đường 49, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",0796515130
+ERP_0787,CÔNG TY TNHH THỦY SẢN VÂN KHÁNH,1702379694,Nguyễn Văn Diễn,"Tổ 6, Ấp An Thới, Xã Bình An, Huyện Châu Thành, Kiên Giang",0981008902
+ERP_0788,CÔNG TY TNHH THỦY SẢN NAM VIỆT PHÁT,1801844303,Văn Thị Thu Huyền,"220/9 Đường Võ Văn Kiệt, Phường Long Tuyền, Quận Bình Thuỷ, Cần Thơ",0888332528
+ERP_0789,CÔNG TY TNHH DRAGON GLOBAL VNL,2902297521,Lương Bá Linh,"Nhà Ông Linh Xóm 1, Xã Thần Lĩnh, Huyện Nghi Lộc, Nghệ An",0982628919
+ERP_0790,CÔNG TY CỔ PHẦN ĐẦU TƯ TRANG LINH ĐÀ NẴNG,0402365709,Vũ Thị Thùy Linh,"Số 16 Lý Thường Kiệt, Phường Hải Châu, Quận Hải Châu, Đà Nẵng",0979063142
+ERP_0791,CÔNG TY TNHH THIÊN ANH GLOBAL,0111703840,Vũ Thị Mai Lan,"Tầng 2, Số Nhà 21 Liền Kề 19, Khu Đô Thị Vạn Phúc Mới, Phường Hà Đông, Quận Hà Đông, Hà Nội",0983000841
+ERP_0792,CÔNG TY CỔ PHẦN GIẢI TRÍ VÀ THỂ THAO ĐIỆN TỬ VIỆT NAM,9000591599,Vũ Chí Công,"Tầng 6, Tòa Nhà Capital Place, 29 Liễu Giai, Phường Ngọc Hà, Quận Ba Đình, Hà Nội",0988344679
+ERP_0793,CHI NHÁNH CÔNG TY TNHH LIANKE INTELLIGENT MANUFACTURING (VIETNAM) TẠI GIA LAI,0319598401-001,Gong Pi Kun,"Làng Ring, Xã Ia Hrú, Huyện Chư Pưh, Gia Lai",0931619574
+ERP_0794,CÔNG TY TNHH CÔNG NGHỆ KỸ THUẬT ĐIỆN T-MAX,0111703706,Vương Anh Vũ,"Thôn Ngũ Sơn, Xã Thạch Thất, Huyện Thạch Thất, Hà Nội",0794376969
+ERP_0795,BAN QUẢN LÝ DỰ ÁN THĂNG LONG,0111703819,Đinh Công Minh,"Tổ Dân Phố Số 61, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",0903169700
+ERP_0796,CÔNG TY CỔ PHẦN XÀ PHÒNG HÀ NỘI,0111703826,Lê Việt Phương,"Số 233B, Đường Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",0903639393
+ERP_0797,CÔNG TY CỔ PHẦN DỊCH VỤ VÀ CÔNG NGHỆ TTT,0801511292,Bùi Trọng Kiên,"Số 74, Phố Cô Đông, Phường Thành Đông, Thành Phố Hải Dương, Hải Dương",0983664637
+ERP_0798,CÔNG TY TNHH VIRAL NETWORK,0402365970,Phan Viết Long Vũ,"Lô 04, Khu B2-3, Khu Đô Thị Ven Sông Hòa Quý- Đồng Nò, Phường Ngũ Hành Sơn, Quận Ngũ Hành Sơn, Đà Nẵng",0906577798
+ERP_0799,CÔNG TY TNHH XÂY DỰNG NGÂN CHÂU TOÀN,0402365699,Huỳnh Văn Châu,"Tổ 2, Thôn Cẩm Nê, Xã Hòa Tiến, Huyện Hoà Vang, Đà Nẵng",0887381264
+ERP_0800,CÔNG TY TNHH LISATI VIỆT NAM,0402365723,Vũ Việt Linh,"88 Trần Văn Dư, Phường Ngũ Hành Sơn, Quận Ngũ Hành Sơn, Đà Nẵng",0933342842

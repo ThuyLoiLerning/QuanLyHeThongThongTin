@@ -2,3 +2,7 @@
 /docs
 /DeTai_LuanVan
 /.github
+__pycache__/
+*.py[cod]
+.venv/
+*.zip
