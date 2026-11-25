@@ -1,2 +1,2 @@
 model,dataset,precision,recall,f1,runtime_sec
-TF-IDF + LR,Amazon-Google,0.5916,0.7863,0.6752,0.5
+TF-IDF + LR,Amazon-Google,0.5916,0.7863,0.6752,0.51

@@ -14,7 +14,7 @@ def test_tfidf_training_and_evaluation():
     sys.path.insert(0, os.path.dirname(RUNNER_PATH))
     import run as tfidf_runner
 
-    metrics = tfidf_runner.evaluate_tfidf_baseline(max_features=500, max_iter=50)
+    metrics = tfidf_runner.evaluate_tfidf_baseline(max_features=500, max_iter=50, save_metrics=False)
     assert "precision" in metrics
     assert "recall" in metrics
     assert "f1" in metrics

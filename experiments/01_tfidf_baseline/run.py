@@ -78,10 +78,10 @@ def _extract_features(df, tfidf, A_full, B_full, A_title, B_title):
     )
 
 
-def evaluate_tfidf_baseline(data_dir=DATA_DIR, max_features=10000, max_iter=200):
+def evaluate_tfidf_baseline(data_dir=DATA_DIR, max_features=10000, max_iter=200, save_metrics=True):
     """
     Returns dict with keys: precision, recall, f1 (floats 0-1), runtime_sec.
-    Writes results/metrics.csv.
+    Writes results/metrics.csv when save_metrics is True.
     """
     A_full, B_full, A_title, B_title, all_texts = _load_entity_maps(data_dir)
 
@@ -101,7 +101,7 @@ def evaluate_tfidf_baseline(data_dir=DATA_DIR, max_features=10000, max_iter=200)
     y_valid = valid_df["label"].astype(int).values
     y_test = test_df["label"].astype(int).values
 
-    clf = LogisticRegression(class_weight="balanced", max_iter=max_iter, C=1.0, random_state=42)
+    clf = LogisticRegression(class_weight="balanced", max_iter=max_iter, C=1.0, random_state=1001)
     clf.fit(X_train, y_train)
 
     # calibrate threshold on valid set
@@ -120,20 +120,28 @@ def evaluate_tfidf_baseline(data_dir=DATA_DIR, max_features=10000, max_iter=200)
     rec = recall_score(y_test, y_pred, zero_division=0)
     f1 = f1_score(y_test, y_pred, zero_division=0)
 
-    os.makedirs(RESULTS_DIR, exist_ok=True)
-    pd.DataFrame([{
-        "model": "TF-IDF + LR",
-        "dataset": "Amazon-Google",
-        "precision": round(prec, 4),
-        "recall": round(rec, 4),
-        "f1": round(f1, 4),
-        "runtime_sec": round(runtime, 2),
-    }]).to_csv(os.path.join(RESULTS_DIR, "metrics.csv"), index=False)
+    if save_metrics:
+        os.makedirs(RESULTS_DIR, exist_ok=True)
+        pd.DataFrame([{
+            "model": "TF-IDF + LR",
+            "dataset": "Amazon-Google",
+            "precision": round(prec, 4),
+            "recall": round(rec, 4),
+            "f1": round(f1, 4),
+            "runtime_sec": round(runtime, 2),
+        }]).to_csv(os.path.join(RESULTS_DIR, "metrics.csv"), index=False)
 
     return {"precision": prec, "recall": rec, "f1": f1, "runtime_sec": runtime}
 
 
 def generate_report(metrics):
+    p_val = metrics["precision"] * 100
+    r_val = metrics["recall"] * 100
+    f1_val = metrics["f1"] * 100
+    delta_p = f"{p_val - 78.0:+.2f}%"
+    delta_r = f"{r_val - 65.0:+.2f}%"
+    delta_f1 = f"{f1_val - 70.5:+.2f}%"
+
     content = f"""# BÁO CÁO THỰC NGHIỆM: BASELINE 1 — TF-IDF + LOGISTIC REGRESSION
 
 ## 1. Bài báo / Phương pháp giải quyết vấn đề gì?
@@ -153,10 +161,10 @@ def generate_report(metrics):
 
 | Chỉ số | Kết quả tham chiếu (Magellan Baseline) | Kết quả thực tế | Chênh lệch Δ |
 |---|---|---|---|
-| **Precision** | ~78.0% | **{metrics['precision']*100:.2f}%** | - |
-| **Recall** | ~65.0% | **{metrics['recall']*100:.2f}%** | - |
-| **F1 Score** | ~70.5% | **{metrics['f1']*100:.2f}%** | - |
-| **Runtime** | N/A | **{metrics['runtime_sec']:.2f}s** | Rất nhanh |
+| **Precision** | ~78.0% | **{p_val:.2f}%** | {delta_p} |
+| **Recall** | ~65.0% | **{r_val:.2f}%** | {delta_r} |
+| **F1 Score** | ~70.5% | **{f1_val:.2f}%** | {delta_f1} |
+| **Runtime** | N/A | **{metrics['runtime_sec']:.2f}s** | Rất nhanh (CPU) |
 
 **Ghi chú:** Kết quả tham chiếu là giá trị Magellan benchmark. Phương pháp sử dụng TF-IDF bi-gram (Siamese diff + product) + rapidfuzz fuzzy features, không dùng embedding ngữ nghĩa.
 

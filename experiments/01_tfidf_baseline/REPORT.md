@@ -20,7 +20,7 @@
 | **Precision** | ~78.0% | **59.16%** | -18.84% |
 | **Recall** | ~65.0% | **78.63%** | +13.63% |
 | **F1 Score** | ~70.5% | **67.52%** | -2.98% |
-| **Runtime** | N/A | **0.50s** | Rất nhanh (CPU) |
+| **Runtime** | N/A | **0.51s** | Rất nhanh (CPU) |
 
 **Ghi chú:** Kết quả tham chiếu là giá trị Magellan benchmark. Phương pháp sử dụng TF-IDF bi-gram (Siamese diff + product) + rapidfuzz fuzzy features, không dùng embedding ngữ nghĩa.
 
