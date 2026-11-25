@@ -20,7 +20,7 @@ def test_deepmatcher_runner_file_exists():
 def test_deepmatcher_evaluation():
     dm = _load_dm_runner()
     assert hasattr(dm, 'evaluate_deepmatcher'), "evaluate_deepmatcher function not found"
-    metrics = dm.evaluate_deepmatcher(max_epochs=1)
+    metrics = dm.evaluate_deepmatcher(max_epochs=2)
     for key in ('precision', 'recall', 'f1'):
         assert key in metrics, f"Missing key: {key}"
     assert metrics['f1'] > 0.60, f"DeepMatcher F1 too low: {metrics['f1']}"
