@@ -1,0 +1,2 @@
+model,dataset,precision,recall,f1,runtime_sec
+DeepMatcher Hybrid (Mudgal et al. SIGMOD 2018 — TF-IDF Siamese surrogate),Amazon-Google,60.71,72.65,66.15,3.39
