@@ -150,10 +150,12 @@ def _compute_metrics(eval_pred):
 # ── main experiment function ───────────────────────────────────────────────────
 
 def evaluate_ditto(
-    data_dir:     str  = DATA_DIR,
-    max_epochs:   int  = 2,
-    max_samples:  int  = None,
-    save_metrics: bool = True,
+    data_dir:            str  = DATA_DIR,
+    max_epochs:          int  = 2,
+    batch_size:          int  = 16,
+    max_samples:         int  = None,
+    save_metrics:        bool = True,
+    output_metrics_path: str  = None,
 ) -> dict:
     """
     Fine-tune DistilBERT on Amazon-Google using Ditto serialization.
@@ -203,7 +205,7 @@ def evaluate_ditto(
     training_args = TrainingArguments(
         output_dir=ckpt_dir,
         num_train_epochs=max_epochs,
-        per_device_train_batch_size=16,
+        per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=64,
         eval_strategy="epoch",
         save_strategy="epoch",
@@ -239,27 +241,32 @@ def evaluate_ditto(
     f1   = float(f1_score(labels, preds, zero_division=0))
 
     if save_metrics:
-        os.makedirs(RESULTS_DIR, exist_ok=True)
-        metrics_path = os.path.join(RESULTS_DIR, "metrics.csv")
+        target_path = output_metrics_path if output_metrics_path is not None else os.path.join(RESULTS_DIR, "metrics.csv")
+        os.makedirs(os.path.dirname(os.path.abspath(target_path)), exist_ok=True)
         pd.DataFrame([{
-            "model":       f"Ditto ({MODEL_NAME})",
+            "model":       "Ditto (DistilBERT)",
             "dataset":     "Amazon-Google",
-            "precision":   round(prec * 100, 2),
-            "recall":      round(rec  * 100, 2),
-            "f1":          round(f1   * 100, 2),
+            "precision":   round(prec, 4),
+            "recall":      round(rec, 4),
+            "f1":          round(f1, 4),
             "runtime_sec": round(runtime, 2),
-        }]).to_csv(metrics_path, index=False)
-        print(f"[METRICS] saved -> {metrics_path}")
+        }]).to_csv(target_path, index=False)
+        print(f"[METRICS] saved -> {target_path}")
 
     return {"precision": prec, "recall": rec, "f1": f1, "runtime_sec": runtime}
 
 
 # ── alias for task brief interface ───────────────────────────────────────────
 
-def run_ditto_experiment(data_dir=DATA_DIR, epochs=2, batch_size=16):
+def run_ditto_experiment(data_dir=DATA_DIR, epochs=2, batch_size=16, output_metrics_path=None):
     """Alias function matching brief specification."""
     ensure_code_cloned()
-    return evaluate_ditto(data_dir=data_dir, max_epochs=epochs)
+    return evaluate_ditto(
+        data_dir=data_dir,
+        max_epochs=epochs,
+        batch_size=batch_size,
+        output_metrics_path=output_metrics_path,
+    )
 
 
 # ── report generation ─────────────────────────────────────────────────────────

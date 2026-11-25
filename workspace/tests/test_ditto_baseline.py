@@ -43,11 +43,11 @@ def test_evaluate_ditto_quick():
     assert metrics["f1"] > 0.0, f"F1 is zero — model not learning"
 
 
-def test_metrics_csv_created():
+def test_metrics_csv_created(tmp_path):
     """After save_metrics=True, CSV must exist with correct columns."""
     mod = _load_runner()
-    metrics_path = os.path.join(DITTO_DIR, "results", "metrics.csv")
-    mod.evaluate_ditto(max_epochs=2, max_samples=200, save_metrics=True)
+    metrics_path = str(tmp_path / "metrics.csv")
+    mod.evaluate_ditto(max_epochs=2, max_samples=200, save_metrics=True, output_metrics_path=metrics_path)
     assert os.path.exists(metrics_path), f"metrics.csv not created at {metrics_path}"
 
     import csv

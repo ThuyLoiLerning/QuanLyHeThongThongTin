@@ -1,2 +1,2 @@
 model,dataset,precision,recall,f1,runtime_sec
-Ditto (distilbert-base-uncased),Amazon-Google,59.52,100.0,74.63,10.2
+Ditto (DistilBERT),Amazon-Google,0.6996,0.6667,0.6827,296.04
