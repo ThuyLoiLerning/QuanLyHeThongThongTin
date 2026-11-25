@@ -8,3 +8,5 @@ __pycache__/
 .venv/
 *.zip
 experiments/02_deepmatcher_sigmod2018/code/
+experiments/03_ditto_pvldb2020/code/
+experiments/03_ditto_pvldb2020/results/checkpoints/
